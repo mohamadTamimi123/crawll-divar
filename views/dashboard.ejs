@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divar Crawler Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <i class="fas fa-database me-2"></i>
+                Divar Crawler Dashboard
+            </a>
+            <div class="navbar-nav ms-auto">
+                <span class="navbar-text">
+                    <i class="fas fa-clock me-1"></i>
+                    <span id="current-time"></span>
+                </span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid mt-4">
+        <!-- Stats Cards -->
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <div class="card bg-primary text-white">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <h4 class="card-title">شهرها</h4>
+                                <h2 id="total-cities"><%= stats?.totalCities || 0 %></h2>
+                            </div>
+                            <div class="align-self-center">
+                                <i class="fas fa-city fa-3x opacity-75"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card bg-success text-white">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <h4 class="card-title">آگهی‌ها</h4>
+                                <h2 id="total-ads"><%= stats?.totalAds || 0 %></h2>
+                            </div>
+                            <div class="align-self-center">
+                                <i class="fas fa-home fa-3x opacity-75"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card bg-info text-white">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <h4 class="card-title">جزئیات</h4>
+                                <h2 id="total-details"><%= stats?.totalDetails || 0 %></h2>
+                            </div>
+                            <div class="align-self-center">
+                                <i class="fas fa-info-circle fa-3x opacity-75"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card bg-warning text-white">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <h4 class="card-title">آخرین بروزرسانی</h4>
+                                <h6 id="last-update">همین الان</h6>
+                            </div>
+                            <div class="align-self-center">
+                                <i class="fas fa-sync-alt fa-3x opacity-75"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="mb-0">
+                            <i class="fas fa-filter me-2"></i>
+                            فیلترها
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <label for="city-filter" class="form-label">شهر</label>
+                                <select class="form-select" id="city-filter">
+                                    <option value="">همه شهرها</option>
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                                <label for="ad-type-filter" class="form-label">نوع آگهی</label>
+                                <select class="form-select" id="ad-type-filter">
+                                    <option value="">همه انواع</option>
+                                    <option value="rent-apartment">اجاره آپارتمان</option>
+                                    <option value="buy-apartment">فروش آپارتمان</option>
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                                <label for="limit-filter" class="form-label">تعداد در صفحه</label>
+                                <select class="form-select" id="limit-filter">
+                                    <option value="25">25</option>
+                                    <option value="50" selected>50</option>
+                                    <option value="100">100</option>
+                                </select>
+                            </div>
+                            <div class="col-md-3 d-flex align-items-end">
+                                <button class="btn btn-primary w-100" id="apply-filters">
+                                    <i class="fas fa-search me-2"></i>
+                                    اعمال فیلتر
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ads Table -->
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="mb-0">
+                            <i class="fas fa-list me-2"></i>
+                            لیست آگهی‌ها
+                        </h5>
+                        <div class="d-flex align-items-center">
+                            <span class="me-3 text-muted">
+                                نمایش <span id="showing-start">1</span> تا <span id="showing-end">50</span> از <span id="total-items">0</span> آگهی
+                            </span>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="table-dark">
+                                    <tr>
+                                        <th>شناسه</th>
+                                        <th>عنوان</th>
+                                        <th>شهر</th>
+                                        <th>نوع</th>
+                                        <th>تاریخ ثبت</th>
+                                        <th>جزئیات</th>
+                                        <th>عملیات</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="ads-table-body">
+                                    <tr>
+                                        <td colspan="7" class="text-center text-muted">
+                                            <i class="fas fa-spinner fa-spin me-2"></i>
+                                            در حال بارگذاری...
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <!-- Pagination -->
+                        <nav aria-label="Page navigation" class="mt-4">
+                            <ul class="pagination justify-content-center" id="pagination">
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ad Details Modal -->
+    <div class="modal fade" id="adDetailsModal" tabindex="-1">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">جزئیات آگهی</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body" id="ad-details-content">
+                    <!-- Content will be loaded here -->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">بستن</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/dashboard.js"></script>
+</body>
+</html>
