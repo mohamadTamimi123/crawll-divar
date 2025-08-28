@@ -1,0 +1,84 @@
+[Unit]
+Description=Divar Auto-Crawler Service
+Documentation=https://github.com/your-repo/divar-crawler
+After=network.target postgresql.service
+Wants=postgresql.service
+
+[Service]
+Type=simple
+User=tmp
+Group=tmp
+WorkingDirectory=/home/tmp/Documents/divar-crawler/crawller/js/back
+ExecStart=/usr/bin/node src/auto-crawler.js
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=divar-auto-crawler
+
+# Environment variables
+Environment=NODE_ENV=production
+Environment=DB_HOST=localhost
+Environment=DB_PORT=5432
+Environment=DB_NAME=divar_crawler_db
+Environment=DB_USER=myuser
+Environment=DB_PASS=mypass
+
+# Security settings
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/home/tmp/Documents/divar-crawler/crawller/js/back/output
+ReadWritePaths=/home/tmp/Documents/divar-crawler/crawller/js/back/backups
+
+# Resource limits
+LimitNOFILE=65536
+LimitNPROC=4096
+MemoryMax=2G
+CPUQuota=50%
+
+[Install]
+WantedBy=multi-user.target
+
+# Optional: Create a separate service for development
+[Unit]
+Description=Divar Auto-Crawler Service (Development)
+Documentation=https://github.com/your-repo/divar-crawler
+After=network.target postgresql.service
+Wants=postgresql.service
+
+[Service]
+Type=simple
+User=tmp
+Group=tmp
+WorkingDirectory=/home/tmp/Documents/divar-crawler/crawller/js/back
+ExecStart=/usr/bin/node src/auto-crawler.js
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=divar-auto-crawler-dev
+
+# Environment variables for development
+Environment=NODE_ENV=development
+Environment=DB_HOST=localhost
+Environment=DB_PORT=5432
+Environment=DB_NAME=divar_crawler_db
+Environment=DB_USER=myuser
+Environment=DB_PASS=mypass
+
+# Security settings (less restrictive for development)
+NoNewPrivileges=true
+PrivateTmp=true
+
+# Resource limits (more generous for development)
+LimitNOFILE=65536
+LimitNPROC=4096
+MemoryMax=4G
+CPUQuota=80%
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,48 @@
+{
+  "name": "divar-crawler-backend",
+  "version": "1.0.0",
+  "description": "Backend crawler for Divar real estate ads",
+  "main": "src/run.js",
+  "scripts": {
+    "start": "node src/run.js",
+    "crawl": "node src/run.js",
+    "import": "node src/importFromOutput.js",
+    "import:detailed": "node src/importDetailedData.js",
+    "ui": "node src/ui-server.js",
+    "test:db-links": "node src/test-db-links.js",
+    "auto-crawler": "node src/auto-crawler.js",
+    "auto-crawler:start": "node src/auto-crawler.js",
+    "auto-crawler:test": "node -e \"require('./src/auto-crawler').performCrawl().then(console.log).catch(console.error)\"",
+    "manage:start": "node src/manage-auto-crawler.js start",
+    "manage:stop": "node src/manage-auto-crawler.js stop",
+    "manage:restart": "node src/manage-auto-crawler.js restart",
+    "manage:status": "node src/manage-auto-crawler.js status",
+    "manage:logs": "node src/manage-auto-crawler.js logs",
+    "manage:test": "node src/manage-auto-crawler.js test",
+    "install-deps": "npm install",
+    "db:migrate": "sequelize-cli db:migrate",
+    "db:migrate:undo": "sequelize-cli db:migrate:undo",
+    "db:seed": "sequelize-cli db:seed:all",
+    "db:seed:undo": "sequelize-cli db:seed:undo:all"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemailer": "^7.0.5",
+    "pg": "^8.11.3",
+    "puppeteer": "^21.0.0",
+    "sequelize": "^6.35.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  },
+  "keywords": [
+    "crawler",
+    "divar",
+    "real-estate",
+    "scraping"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

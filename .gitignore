@@ -124,14 +124,6 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 
-# Backup files
-backups/
-*.backup
-
-# Output files
-output/
-*.json
-
 # Chrome user data
 .chrome-user-data/
 
@@ -141,5 +133,16 @@ output/
 # PM2 files
 .pm2/
 
-# Systemd service files
-*.service
+# Specific output files (keep project files)
+output/results_*.json
+output/*_backup_*.json
+
+# Specific backup files (keep project files)
+backups/temp_*.json
+backups/old_*.json
+
+# Keep important project files
+!package.json
+!package-lock.json
+!divar-auto-crawler.service
+!start-auto-crawler.sh
