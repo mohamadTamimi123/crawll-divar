@@ -102,7 +102,7 @@ async function autoScrollUntilButton(page, timeout = 60000, scrollDelay = 1000, 
             // Get current page links, titles, and publish times
             const currentAds = await page.evaluate(() => {
                 // Find all ad links - improved selector to catch all Divar ad links
-                const adElements = document.querySelectorAll('a[href*="/v/"], a[href*="divar.ir/v/"], .kt-post-card a[href]');
+                const adElements = document.querySelectorAll('a[href*="/v/"]');
                 return Array.from(adElements).map(el => {
                     const href = el.href;
                     // Only include valid Divar ad links

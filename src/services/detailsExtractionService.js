@@ -23,7 +23,7 @@ async function extractAdDetails(link, city, adType) {
         await page.waitForTimeout(2000);
         
         // Extract detailed information
-        const details = await page.evaluate(() => {
+        const details = await page.evaluate((adTypeParam) => {
             const getRowValue = (label) => {
                 const rows = document.querySelectorAll('.kt-base-row');
                 for (const row of rows) {
@@ -59,7 +59,7 @@ async function extractAdDetails(link, city, adType) {
             const isRentAd = window.location.href.includes('rent') || 
                             window.location.href.includes('اجاره') || 
                             document.querySelector('h1')?.innerText?.includes('اجاره') ||
-                            adType === 'rent-apartment' ||
+                            adTypeParam === 'rent-apartment' ||
                             !!convertTable;
             
             if (isRentAd) {
@@ -108,7 +108,7 @@ async function extractAdDetails(link, city, adType) {
                 url: window.location.href,
                 scrapedAt: new Date().toISOString()
             };
-        });
+        }, adType);
         
         await browser.close();
         return details;
