@@ -51,25 +51,26 @@ const { sendCrawlingReport, sendFinalSummaryEmail } = require('./services/emailS
       console.log('ℹ️ No city change prompt found.');
     }
 
-    // تلاش برای پیدا کردن و کلیک روی دکمه "بستن نقشه" که یک div با کلاس خاص و متن "بستن نقشه" است
-    const fabClicked = await page.evaluate((selector) => {
-      // پیدا کردن همه divهای با کلاس مورد نظر
+    // تلاش برای پیدا کردن و کلیک روی دکمه‌ای که متنش دقیقا "بستن نقشه" است (با یک "س")
+    // نمایش متن دکمه‌های پیدا شده برای دیباگ
+    const { fabClicked, buttonTexts } = await page.evaluate((selector) => {
       const btns = Array.from(document.querySelectorAll(selector));
-      // دکمه‌ای که دقیقا متن "بستن نقشه" (بدون فاصله اضافی) دارد را پیدا کن
+      const texts = btns.map(el => el.textContent.trim());
+      // دکمه‌ای که دقیقا متن "بستن نقشه" دارد را پیدا کن (با یک "س")
       const btn = btns.find(el => {
-        // متن فقط باید دقیقا "بستن نقشه" باشد (آیکون داخل تگ i است)
-        return el.childNodes.length &&
-          Array.from(el.childNodes).some(node =>
-            node.nodeType === Node.TEXT_NODE &&
-            node.textContent.trim() === "بستن نقشه"
-          );
+        // متن دکمه را بدون فاصله‌های اضافی بررسی کن
+        const text = el.textContent ? el.textContent.replace(/\s+/g, ' ').trim() : '';
+        return text === "بستن نقشه";
       });
       if (btn) {
         btn.click();
-        return true;
+        return { fabClicked: true, buttonTexts: texts };
       }
-      return false;
+      return { fabClicked: false, buttonTexts: texts };
     }, mapCloseButtonSelector);
+
+    // متن دکمه‌ها را لاگ کن تا ببینیم چی پیدا شده
+    console.log(`[DEBUG] Button texts for selector "${mapCloseButtonSelector}":`, buttonTexts);
 
     if (fabClicked) {
       console.log(`✅ [${item.displayName}] FAB (بستن نقشه) button found and clicked.`);

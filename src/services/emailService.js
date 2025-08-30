@@ -1,9 +1,21 @@
+require('dotenv').config();
 const nodemailer = require('nodemailer');
-const emailConfig = require('../config/email');
 
-// Email configuration from config file
-const smtpConfig = emailConfig.smtp;
-const emailSettings = emailConfig.email;
+// Email configuration from environment variables
+const smtpConfig = {
+    host: process.env.EMAIL_HOST || 'smtp.gmail.com',
+    port: parseInt(process.env.EMAIL_PORT) || 587,
+    secure: false, // true for 465, false for other ports
+    auth: {
+        user: process.env.EMAIL_USER,
+        pass: process.env.EMAIL_PASSWORD
+    }
+};
+
+const emailSettings = {
+    from: process.env.EMAIL_FROM || process.env.EMAIL_USER,
+    to: process.env.EMAIL_TO || process.env.EMAIL_USER
+};
 
 // Create transporter
 const transporter = nodemailer.createTransport(smtpConfig);

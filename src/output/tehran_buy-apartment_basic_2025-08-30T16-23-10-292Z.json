@@ -1,0 +1,976 @@
+{
+  "city": "tehran",
+  "adType": "buy-apartment",
+  "scrapedAt": "2025-08-30T16:23:10.292Z",
+  "totalAds": 242,
+  "ads": [
+    {
+      "title": "آپارتمان تک واحدی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/Aahic0wb"
+    },
+    {
+      "title": "۱۵۰ متر - طبقه آخر برج - سند تک برگ - کوهک چیتگر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D8%B7%D8%A8%D9%82%D9%87-%D8%A2%D8%AE%D8%B1-%D8%A8%D8%B1%D8%AC-%D8%B3%D9%86%D8%AF-%D8%AA%DA%A9-%D8%A8%D8%B1%DA%AF-%DA%A9%D9%88%D9%87%DA%A9-%DA%86%DB%8C%D8%AA%DA%AF%D8%B1/AaNC-DyG"
+    },
+    {
+      "title": "آپارتمان ۱۱۵متری کلیدنخورده فول امکانات و نصبیات",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D9%88-%D9%86%D8%B5%D8%A8%DB%8C%D8%A7%D8%AA/AazSiixn"
+    },
+    {
+      "title": "فروش مسکونی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C/AazSCM6Z"
+    },
+    {
+      "title": "فروش لوکس ترین واحد فول بازسازی شده",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%84%D9%88%DA%A9%D8%B3-%D8%AA%D8%B1%DB%8C%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/AazSyd4l"
+    },
+    {
+      "title": "۱۳۵مترآپارتمان نیاوران نوساز/عمرابااین فی پیدا بشه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B3%DB%B5%D9%85%D8%AA%D8%B1%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%B9%D9%85%D8%B1%D8%A7%D8%A8%D8%A7%D8%A7%DB%8C%D9%86-%D9%81%DB%8C-%D9%BE%DB%8C%D8%AF%D8%A7-%D8%A8%D8%B4%D9%87/Aap644p7"
+    },
+    {
+      "title": "آپارتمان 50 متری - مشیریه ( بوعلی شرقی )",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-50-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B4%DB%8C%D8%B1%DB%8C%D9%87-%D8%A8%D9%88%D8%B9%D9%84%DB%8C-%D8%B4%D8%B1%D9%82%DB%8C/AazKi6ez"
+    },
+    {
+      "title": "۱۰۶متر برج بهاران ویو دریاچه چیتگر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B6%D9%85%D8%AA%D8%B1-%D8%A8%D8%B1%D8%AC-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D9%86-%D9%88%DB%8C%D9%88-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%DA%86%DB%8C%D8%AA%DA%AF%D8%B1/AazKijU5"
+    },
+    {
+      "title": "برج ارک بام تهران",
+      "link": "https://divar.ir/v/%D8%A8%D8%B1%D8%AC-%D8%A7%D8%B1%DA%A9-%D8%A8%D8%A7%D9%85-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/AazCCn6i"
+    },
+    {
+      "title": "75 متر در برج /شهرک صدرا /میدان المپیک",
+      "link": "https://divar.ir/v/75-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AC-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B5%D8%AF%D8%B1%D8%A7-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9/AarVNWCB"
+    },
+    {
+      "title": "آپارتمان ۱۱۰ متری ۲ خوابه...",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AafaZVka"
+    },
+    {
+      "title": "آپارتمان۵۶متری سه بر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B5%DB%B6%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%A8%D8%B1/AazGyi1z"
+    },
+    {
+      "title": "فروش آپارتمان۵۷متری تک خوابه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B5%DB%B7%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AaOKSmbj"
+    },
+    {
+      "title": "آپارتمان فروش تکواحدی،کلیدنخورده،لوکیشن عالی،نوساز",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%B9%D8%A7%D9%84%DB%8C-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/AazGCvAO"
+    },
+    {
+      "title": "فروش آپارتمان شهرک مطهری با وام مسکن",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%DA%A9-%D9%85%D8%B7%D9%87%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%88%D8%A7%D9%85-%D9%85%D8%B3%DA%A9%D9%86/AazGyAmF"
+    },
+    {
+      "title": "106متر خوش نقشه تک واحدی خیابان بصیر",
+      "link": "https://divar.ir/v/106%D9%85%D8%AA%D8%B1-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D8%B5%DB%8C%D8%B1/AazGSgMU"
+    },
+    {
+      "title": "«آپارتمان ۸۵ متری نورگیر در شهرک غرب»",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%BA%D8%B1%D8%A8/AahmO7p7"
+    },
+    {
+      "title": "فروش آپارتمان نوساز،فول امکانات ۸۲ متری در بریانک",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%DB%B8%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%B1%DB%8C%D8%A7%D9%86%DA%A9/AazGSSY9"
+    },
+    {
+      "title": "آپارتمان 208 متری سه خواب مستر با امکانات کامل",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-208-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%DA%A9%D8%A7%D9%85%D9%84/AaWCy6sD"
+    },
+    {
+      "title": "فروش آپارتمان ۵۶ متری در شهرک شریعتی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B4%D8%B1%DB%8C%D8%B9%D8%AA%DB%8C/AazCCn2J"
+    },
+    {
+      "title": "آپارتمان ۶۲متری دوخواب",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8/Aab6R-Hf"
+    },
+    {
+      "title": "۷۸متر تک واحدی طبقه اول فول امکانات",
+      "link": "https://divar.ir/v/%DB%B7%DB%B8%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AazWhvwI"
+    },
+    {
+      "title": "سند تک برگ 75متر دوخواب فول گرمدره نورگیر تکبرگ",
+      "link": "https://divar.ir/v/%D8%B3%D9%86%D8%AF-%D8%AA%DA%A9-%D8%A8%D8%B1%DA%AF-75%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%DA%AF%D8%B1%D9%85%D8%AF%D8%B1%D9%87-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1-%D8%AA%DA%A9%D8%A8%D8%B1%DA%AF/AazCylOu"
+    },
+    {
+      "title": "فروش آپارتمان ۶۰متر میدان خراسان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0%D9%85%D8%AA%D8%B1-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86/AazqBJAs"
+    },
+    {
+      "title": "واحد ۳۴ متر آسانسور دار بدون مشابه در منطقه",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B3%DB%B4-%D9%85%D8%AA%D8%B1-%D8%A2%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87/AauJSJEj"
+    },
+    {
+      "title": "آپارتمان",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aaqak0-i"
+    },
+    {
+      "title": "آپارتمان ۸۹ متری در تهرانسر شرقی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B9-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D8%B3%D8%B1-%D8%B4%D8%B1%D9%82%DB%8C/AaYGi8Rg"
+    },
+    {
+      "title": "فروش آپارتمان ۶۵ متری چهارصد دستگاه مصطفی نظری",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D8%B5%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%B5%D8%B7%D9%81%DB%8C-%D9%86%D8%B8%D8%B1%DB%8C/AaYKdqcX"
+    },
+    {
+      "title": "آپارتمان ۷۰ متری با پارکینگ",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF/Aaz6Raa5"
+    },
+    {
+      "title": "ملک ۱۰۰ متری خیابان توحید تهرانپارس/بسیار خوش ساخت",
+      "link": "https://divar.ir/v/%D9%85%D9%84%DA%A9-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D9%88%D8%AD%DB%8C%D8%AF-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AE%D9%88%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA/AaRGqtTm"
+    },
+    {
+      "title": "منزل در ترکیه شهر الانیا",
+      "link": "https://divar.ir/v/%D9%85%D9%86%D8%B2%D9%84-%D8%AF%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%DB%8C%D8%A7/Aaz6xdOj"
+    },
+    {
+      "title": "فروش ۷۵ متری اپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aaha9dzr"
+    },
+    {
+      "title": "فروش آپارتمان 50 متری ۱ خوابه زیر همکف در بریانک",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-50-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%D8%A8%D8%B1%DB%8C%D8%A7%D9%86%DA%A9/wZ3z6GdB"
+    },
+    {
+      "title": "واحد فروشی ۱۰۸ متری کوی فردوس",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%DB%B1%DB%B0%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%88%DB%8C-%D9%81%D8%B1%D8%AF%D9%88%D8%B3/Aaz6RpJj"
+    },
+    {
+      "title": "فروش یک دست آپارتمان ۶۵ متری با فول امکانات",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aaz6hASH"
+    },
+    {
+      "title": "۷۵متر نیروهوایی /تک واحدی",
+      "link": "https://divar.ir/v/%DB%B7%DB%B5%D9%85%D8%AA%D8%B1-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AamyM1tR"
+    },
+    {
+      "title": "فروش آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aaz2ha4-"
+    },
+    {
+      "title": "فروش اپارتمان ۴۴ متری",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C/AayWMMsh"
+    },
+    {
+      "title": "فروش آپارتمان 40 متری ۱ خوابه در زهتابی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-40-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B2%D9%87%D8%AA%D8%A7%D8%A8%DB%8C/AaguGFr0"
+    },
+    {
+      "title": "آپارتمان فروشی امین حضور",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%A7%D9%85%DB%8C%D9%86-%D8%AD%D8%B6%D9%88%D8%B1/AazyRxr9"
+    },
+    {
+      "title": "آپارتمان ۷۳ متری قدرالسهم",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%D9%82%D8%AF%D8%B1%D8%A7%D9%84%D8%B3%D9%87%D9%85/AaxqPjxt"
+    },
+    {
+      "title": "۸۸متر / فول امکانات / غرق نورر / پونک شمالی",
+      "link": "https://divar.ir/v/%DB%B8%DB%B8%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%BA%D8%B1%D9%82-%D9%86%D9%88%D8%B1%D8%B1-%D9%BE%D9%88%D9%86%DA%A9-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AaTqeG8p"
+    },
+    {
+      "title": "اپارتمان شهران ۱۱۰متر تکواحدی دوپارکینگ طبقه آخر",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%AF%D9%88%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B7%D8%A8%D9%82%D9%87-%D8%A2%D8%AE%D8%B1/AazqBvPV"
+    },
+    {
+      "title": "آپارتمان خوش نقشه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/Aat-5RYS"
+    },
+    {
+      "title": "52 متر تکخواب - بالکن بزرگ - پارکینگ سندی - هاشمی",
+      "link": "https://divar.ir/v/52-%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7%D9%84%DA%A9%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B3%D9%86%D8%AF%DB%8C-%D9%87%D8%A7%D8%B4%D9%85%DB%8C/Aa_NcTqc"
+    },
+    {
+      "title": "فروش آپارتمان نوساز کلید نخورده",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AazuRPjO"
+    },
+    {
+      "title": "آپارتمان ۶۵ متری / تک خواب / عبدل آباد",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B9%D8%A8%D8%AF%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF/Aauy8jiv"
+    },
+    {
+      "title": "اپارتمان ۶۰ متری طبقه اول شهرک ولیعصر شمالی",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AazuBIR_"
+    },
+    {
+      "title": "اتابک ملایری ۱۱۰متر نوساز به قیمت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9-%D9%85%D9%84%D8%A7%DB%8C%D8%B1%DB%8C-%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA/AazqB8Wd"
+    },
+    {
+      "title": "۱۹۰ متر ۳ خوابه طراحی به سبک معماری ایتالیایی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A8%D9%87-%D8%B3%D8%A8%DA%A9-%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7%DB%8C%DB%8C/AaM-NAdC"
+    },
+    {
+      "title": "فروش آپارتمان ۱۳۵ متری",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AaieiKaW"
+    },
+    {
+      "title": "آپارتمان ۹۸ متری نیروهوایی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D9%88%D8%A7%DB%8C%DB%8C/AazqRijV"
+    },
+    {
+      "title": "فروش واحد مسکونی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C/AazmB_wa"
+    },
+    {
+      "title": "ملک مسکونی ۶۰ متری",
+      "link": "https://divar.ir/v/%D9%85%D9%84%DA%A9-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aazqxj3B"
+    },
+    {
+      "title": "از خرید تا فروش بدون نیاز به زحمت سود ببرید",
+      "link": "https://divar.ir/v/%D8%A7%D8%B2-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AA%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%DB%8C%D8%A7%D8%B2-%D8%A8%D9%87-%D8%B2%D8%AD%D9%85%D8%AA-%D8%B3%D9%88%D8%AF-%D8%A8%D8%A8%D8%B1%DB%8C%D8%AF/AawOFMp1"
+    },
+    {
+      "title": "آپارتمان ۷۰ متری خیابان یاسین",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%DB%8C%D8%A7%D8%B3%DB%8C%D9%86/AazqRW5s"
+    },
+    {
+      "title": "آپارتمان ۶۵ متری /تلفنخانه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D9%84%D9%81%D9%86%D8%AE%D8%A7%D9%86%D9%87/AazqhUxH"
+    },
+    {
+      "title": "خانه دربست خیابان کلاهدوز ( دولت سابق )",
+      "link": "https://divar.ir/v/%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D8%B1%D8%A8%D8%B3%D8%AA-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%DA%A9%D9%84%D8%A7%D9%87%D8%AF%D9%88%D8%B2-%D8%AF%D9%88%D9%84%D8%AA-%D8%B3%D8%A7%D8%A8%D9%82/AazqxFVe"
+    },
+    {
+      "title": "اپارتمان نوساز در جوادیه ۸۵ و ۱۲۵ متری",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C%D9%87-%DB%B8%DB%B5-%D9%88-%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AazqBCbI"
+    },
+    {
+      "title": "اپارتمان فروشی ۸۹ متر دوخوابه",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%DB%B8%DB%B9-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AazmxrOs"
+    },
+    {
+      "title": "مولوی پارکینگدار جای پارک دو ماشین",
+      "link": "https://divar.ir/v/%D9%85%D9%88%D9%84%D9%88%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF%D8%AF%D8%A7%D8%B1-%D8%AC%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9-%D8%AF%D9%88-%D9%85%D8%A7%D8%B4%DB%8C%D9%86/Aas2Ebn1"
+    },
+    {
+      "title": "آپارتمان ۴۳ متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C/AazqxECu"
+    },
+    {
+      "title": "آپارتمان۵۴متری تکواحدی/مظاهری / پارکینگ و انباری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B5%DB%B4%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%88-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C/AazmB6qu"
+    },
+    {
+      "title": "فروش واحد 88 متری / کلید نخورده / بهاران",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%D8%A7%D8%AD%D8%AF-88-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D9%86/AazmBpXH"
+    },
+    {
+      "title": "200متر+نوساز+هتلینگ2p+ویوتهران+طبقه7 فلامک شمالی",
+      "link": "https://divar.ir/v/200%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%87%D8%AA%D9%84%DB%8C%D9%86%DA%AF2p-%D9%88%DB%8C%D9%88%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B7%D8%A8%D9%82%D9%877-%D9%81%D9%84%D8%A7%D9%85%DA%A9-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AazeRl-X"
+    },
+    {
+      "title": "آپارتمان فروشی ۵۱ متر خیابان کلینی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%DB%B5%DB%B1-%D9%85%D8%AA%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%DA%A9%D9%84%DB%8C%D9%86%DB%8C/AaTOnzKC"
+    },
+    {
+      "title": "آپارتمان ۱۲۱ متری سه خواب طبقه دوم",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B1-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85/AazexNSk"
+    },
+    {
+      "title": "۵۴ متری . دو خواب . طبقه دوم رو به نما",
+      "link": "https://divar.ir/v/%DB%B5%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85-%D8%B1%D9%88-%D8%A8%D9%87-%D9%86%D9%85%D8%A7/AaXGhDBg"
+    },
+    {
+      "title": "فروش آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaziBDu5"
+    },
+    {
+      "title": "فروش آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AazixJF3"
+    },
+    {
+      "title": "فروش خانه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AE%D8%A7%D9%86%D9%87/AazeB1bj"
+    },
+    {
+      "title": "61متر تک واحدی ط1 بازرگان قدرالسهم دار",
+      "link": "https://divar.ir/v/61%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B71-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86-%D9%82%D8%AF%D8%B1%D8%A7%D9%84%D8%B3%D9%87%D9%85-%D8%AF%D8%A7%D8%B1/AazeBOa4"
+    },
+    {
+      "title": "64متر اپارتمان فول امکانات فتح الهی",
+      "link": "https://divar.ir/v/64%D9%85%D8%AA%D8%B1-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%87%DB%8C/Aazehlac"
+    },
+    {
+      "title": "فروش آپارتمان ۵۳ متری ۱ خوابه در صاحب الزمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86/AazeBE1P"
+    },
+    {
+      "title": "95 متر اپارتمان تکواحدی فول امکانات",
+      "link": "https://divar.ir/v/95-%D9%85%D8%AA%D8%B1-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AaYCbMQd"
+    },
+    {
+      "title": "فروش آپارتمان ۱۲۱ متری ۲ خوابه در کامرانیه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B1-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%85%D8%B1%D8%A7%D9%86%DB%8C%D9%87/AazaB2y5"
+    },
+    {
+      "title": "فروش آپارتمان ۸۵ متر دوخواب ۲۰۲خدابنده نوساز",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%DB%B2%DB%B0%DB%B2%D8%AE%D8%AF%D8%A7%D8%A8%D9%86%D8%AF%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/Aamuurh3"
+    },
+    {
+      "title": "فروش آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AazaRHSL"
+    },
+    {
+      "title": "اپارتمان ۵۹متردوسال سالن‌پرده خور تقاطع ۱۳۱",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B9%D9%85%D8%AA%D8%B1%D8%AF%D9%88%D8%B3%D8%A7%D9%84-%D8%B3%D8%A7%D9%84%D9%86-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AE%D9%88%D8%B1-%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%DB%B1%DB%B3%DB%B1/AaY-s5MD"
+    },
+    {
+      "title": "۵۸ متر یک خوابه با اسانسور",
+      "link": "https://divar.ir/v/%DB%B5%DB%B8-%D9%85%D8%AA%D8%B1-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1/AazahGUs"
+    },
+    {
+      "title": "واحد 95 متری برج افق",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-95-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%AC-%D8%A7%D9%81%D9%82/AazWxOyv"
+    },
+    {
+      "title": "۱۱۰ اکازیون تاپ لکیشن",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B0-%D8%A7%DA%A9%D8%A7%D8%B2%DB%8C%D9%88%D9%86-%D8%AA%D8%A7%D9%BE-%D9%84%DA%A9%DB%8C%D8%B4%D9%86/AazWBrg0"
+    },
+    {
+      "title": "فروش اپارتمان ۵۷متر یک خواب تقاطع ۱۳۱",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B7%D9%85%D8%AA%D8%B1-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%DB%B1%DB%B3%DB%B1/AamedZ65"
+    },
+    {
+      "title": "یک واحد آپارتمان خوش نقشه در بهترین موقعیت",
+      "link": "https://divar.ir/v/%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%AF%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA/AazWhBtq"
+    },
+    {
+      "title": "برجهای مجلل چناران تهرانسر (وام ۴ میلیاردی)",
+      "link": "https://divar.ir/v/%D8%A8%D8%B1%D8%AC%D9%87%D8%A7%DB%8C-%D9%85%D8%AC%D9%84%D9%84-%DA%86%D9%86%D8%A7%D8%B1%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D8%B3%D8%B1-%D9%88%D8%A7%D9%85-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C/AawuxSGb"
+    },
+    {
+      "title": "فروش آپارتمان 70 متری فول امکانات",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-70-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AazWBCtI"
+    },
+    {
+      "title": "آپارتمان فروشی 101 متری نازی آباد",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-101-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D8%A7%D8%B2%DB%8C-%D8%A2%D8%A8%D8%A7%D8%AF/Aax-mw4s"
+    },
+    {
+      "title": "یوسف آباد مستوفی 117 متر",
+      "link": "https://divar.ir/v/%DB%8C%D9%88%D8%B3%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%85%D8%B3%D8%AA%D9%88%D9%81%DB%8C-117-%D9%85%D8%AA%D8%B1/AazSxmG9"
+    },
+    {
+      "title": "۶۸ متر فروش - ۲ خوابه -میدان ۳۲",
+      "link": "https://divar.ir/v/%DB%B6%DB%B8-%D9%85%D8%AA%D8%B1-%D9%81%D8%B1%D9%88%D8%B4-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%DB%B3%DB%B2/AazOB2Je"
+    },
+    {
+      "title": "۶۳ متر آپارتمان کلنگی + ۶۳ متر تراس",
+      "link": "https://divar.ir/v/%DB%B6%DB%B3-%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DA%A9%D9%84%D9%86%DA%AF%DB%8C-%DB%B6%DB%B3-%D9%85%D8%AA%D8%B1-%D8%AA%D8%B1%D8%A7%D8%B3/AasmmQCh"
+    },
+    {
+      "title": "۱۱۰متر فول دیزاین وام‌دار / برج لوکس همت یاس۲چیتگر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D8%AF%DB%8C%D8%B2%D8%A7%DB%8C%D9%86-%D9%88%D8%A7%D9%85-%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%AC-%D9%84%D9%88%DA%A9%D8%B3-%D9%87%D9%85%D8%AA-%DB%8C%D8%A7%D8%B3%DB%B2%DA%86%DB%8C%D8%AA%DA%AF%D8%B1/AajijBEb"
+    },
+    {
+      "title": "آپارتمان82 متری خوش نقشه پارکینگ دار در مشیریه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%8682-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%85%D8%B4%DB%8C%D8%B1%DB%8C%D9%87/AagK4DY9"
+    },
+    {
+      "title": "86 متر طبقه اول با پارکینگ",
+      "link": "https://divar.ir/v/86-%D9%85%D8%AA%D8%B1-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF/AaraEzzK"
+    },
+    {
+      "title": "۵۰ مترهمکف/پارکینگ/حیاط",
+      "link": "https://divar.ir/v/%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%D9%87%D9%85%DA%A9%D9%81-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%AD%DB%8C%D8%A7%D8%B7/AazGxdJx"
+    },
+    {
+      "title": "۱۰۵ متر انتظام",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85/AazSRJHJ"
+    },
+    {
+      "title": "پیشفروش ۸۰ متری نوساز پرستار(بانک رهنی)",
+      "link": "https://divar.ir/v/%D9%BE%DB%8C%D8%B4%D9%81%D8%B1%D9%88%D8%B4-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%BE%D8%B1%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D8%B1%D9%87%D9%86%DB%8C/AazOxvLF"
+    },
+    {
+      "title": "شهرک بهشتی ۱۱۰ متری نیلوفرها",
+      "link": "https://divar.ir/v/%D8%B4%D9%87%D8%B1%DA%A9-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%DB%8C%D9%84%D9%88%D9%81%D8%B1%D9%87%D8%A7/AafGWY-D"
+    },
+    {
+      "title": "۱۳۷ متر سه خواب بسیار خوش نقشه غرق نور و پرده خور",
+      "link": "https://divar.ir/v/%DB%B1%DB%B3%DB%B7-%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%BA%D8%B1%D9%82-%D9%86%D9%88%D8%B1-%D9%88-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AE%D9%88%D8%B1/AaaiPKp4"
+    },
+    {
+      "title": "فروش اپارتمان ۱۱۵ متری",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AazOROI4"
+    },
+    {
+      "title": "۴۳ متری",
+      "link": "https://divar.ir/v/%DB%B4%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C/AazKh3AC"
+    },
+    {
+      "title": "۵۷ متر / پارکینگ",
+      "link": "https://divar.ir/v/%DB%B5%DB%B7-%D9%85%D8%AA%D8%B1-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF/AazKBx4r"
+    },
+    {
+      "title": "اپارتمان۸۳متری ۵۰متر قدرالسهم تاپ لوکیشن دردشت",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B8%DB%B3%D9%85%D8%AA%D8%B1%DB%8C-%DB%B5%DB%B0%D9%85%D8%AA%D8%B1-%D9%82%D8%AF%D8%B1%D8%A7%D9%84%D8%B3%D9%87%D9%85-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%AF%D8%B1%D8%AF%D8%B4%D8%AA/AazKRoMT"
+    },
+    {
+      "title": "آپارتمان ۱۱۰ متری حکیمیه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AD%DA%A9%DB%8C%D9%85%DB%8C%D9%87/AazN9Lk6"
+    },
+    {
+      "title": "تک واحدی سند تک برگ",
+      "link": "https://divar.ir/v/%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B3%D9%86%D8%AF-%D8%AA%DA%A9-%D8%A8%D8%B1%DA%AF/AazKBGgs"
+    },
+    {
+      "title": "۳۷۰متراپارتمان ۴۰مترتجاری فروشی",
+      "link": "https://divar.ir/v/%DB%B3%DB%B7%DB%B0%D9%85%D8%AA%D8%B1%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B0%D9%85%D8%AA%D8%B1%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%DB%8C/AazKhTmH"
+    },
+    {
+      "title": "165مترتکواحدی ویودارجنت آباد جنوب چهارباغ شرقی",
+      "link": "https://divar.ir/v/165%D9%85%D8%AA%D8%B1%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%88%DB%8C%D9%88%D8%AF%D8%A7%D8%B1%D8%AC%D9%86%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%AC%D9%86%D9%88%D8%A8-%DA%86%D9%87%D8%A7%D8%B1%D8%A8%D8%A7%D8%BA-%D8%B4%D8%B1%D9%82%DB%8C/AamC98NB"
+    },
+    {
+      "title": "آپارتمان ۷۰ متر دو خواب سبلان شمالی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B3%D8%A8%D9%84%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AazGR5nn"
+    },
+    {
+      "title": "./آپارتمان ۲۲۲ متری لوکس در برج مهتاب",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B2%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AC-%D9%85%D9%87%D8%AA%D8%A7%D8%A8/AazKhBzt"
+    },
+    {
+      "title": "فروش آپارتمان ۴۷ متری",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C/AaQ281ec"
+    },
+    {
+      "title": "اپارتمان ۵۸متری بسیار شیک ونقلی پاسدارگمنام",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B8%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%B4%DB%8C%DA%A9-%D9%88%D9%86%D9%82%D9%84%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%DA%AF%D9%85%D9%86%D8%A7%D9%85/AaWSO8Jf"
+    },
+    {
+      "title": "۹۰متری لوکس فول اپشن دارای دوتا پارکینگ سندی",
+      "link": "https://divar.ir/v/%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D9%81%D9%88%D9%84-%D8%A7%D9%BE%D8%B4%D9%86-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88%D8%AA%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B3%D9%86%D8%AF%DB%8C/Aaz6A3gG"
+    },
+    {
+      "title": "۶۶متر/برج وزارت تعاون با وام دولتی/قابل تهاتر",
+      "link": "https://divar.ir/v/%DB%B6%DB%B6%D9%85%D8%AA%D8%B1-%D8%A8%D8%B1%D8%AC-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A8%D8%A7-%D9%88%D8%A7%D9%85-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D9%87%D8%A7%D8%AA%D8%B1/Aak6UXzm"
+    },
+    {
+      "title": "فروش آپارتمان ۱۰۷ متری ۲ خوابه در حکیمیه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%AD%DA%A9%DB%8C%D9%85%DB%8C%D9%87/Aa1ZErRn"
+    },
+    {
+      "title": "آپارتمان ۹۴ متر/تک واحد/کلید نخورده",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B4-%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AaXGmip1"
+    },
+    {
+      "title": "۴۷ متر، پرنور از دو طرف،پارکینگ ،بالکن،وام مسکن",
+      "link": "https://divar.ir/v/%DB%B4%DB%B7-%D9%85%D8%AA%D8%B1-%D9%BE%D8%B1%D9%86%D9%88%D8%B1-%D8%A7%D8%B2-%D8%AF%D9%88-%D8%B7%D8%B1%D9%81-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A8%D8%A7%D9%84%DA%A9%D9%86-%D9%88%D8%A7%D9%85-%D9%85%D8%B3%DA%A9%D9%86/AawuWwOe"
+    },
+    {
+      "title": "فروش ملک",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%84%DA%A9/Aaua-TCD"
+    },
+    {
+      "title": "فروش آپارتمان ۲۳۵ متری در قیطریه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87/AazCB8gP"
+    },
+    {
+      "title": "آپارتمان 75 متری تهرانپارس شیرود",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-75-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%DB%8C%D8%B1%D9%88%D8%AF/AazCRIFH"
+    },
+    {
+      "title": "اپارتمان دوخاب",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D8%A7%D8%A8/AaXihWl4"
+    },
+    {
+      "title": "فروش آپارتمان ۹۳متری‌ تکمیل نوساز وصفنارد",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B3%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%88%D8%B5%D9%81%D9%86%D8%A7%D8%B1%D8%AF/Aaomwnwt"
+    },
+    {
+      "title": "۵۳ متری ۲ خوابه ط ۱ خ مظاهری با پارکینگ و انباری",
+      "link": "https://divar.ir/v/%DB%B5%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7-%DB%B1-%D8%AE-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%88-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C/AazCxX2F"
+    },
+    {
+      "title": "۱۶۳متر ۳ خ تکواحدی در بهترین فرعی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B6%DB%B3%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%D8%B1%D8%B9%DB%8C/AazCxYUu"
+    },
+    {
+      "title": "نواب ۵۵متری ۲۴۸۰ سینا شرقیط دوم",
+      "link": "https://divar.ir/v/%D9%86%D9%88%D8%A7%D8%A8-%DB%B5%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%DB%B4%DB%B8%DB%B0-%D8%B3%DB%8C%D9%86%D8%A7-%D8%B4%D8%B1%D9%82%DB%8C%D8%B7-%D8%AF%D9%88%D9%85/AazChjBB"
+    },
+    {
+      "title": "۷۰ متری یک خواب با اسانسور و پارکینگ و انباری",
+      "link": "https://divar.ir/v/%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1-%D9%88-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%88-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C/Aaz-A_04"
+    },
+    {
+      "title": "آپارتمان فروشی بازرگان",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86/AazCharL"
+    },
+    {
+      "title": "آپارتمان",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aaz-Auwz"
+    },
+    {
+      "title": "۷۸ متر بهترین لوکیشن جوادیه",
+      "link": "https://divar.ir/v/%DB%B7%DB%B8-%D9%85%D8%AA%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%AC%D9%88%D8%A7%D8%AF%DB%8C%D9%87/AaPmxWIE"
+    },
+    {
+      "title": "فروش اپارتمان کلیدنخورده",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/Aaz-wnUN"
+    },
+    {
+      "title": "آپارتمان۵۴متر طبقه دوم واقعی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B5%DB%B4%D9%85%D8%AA%D8%B1-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85-%D9%88%D8%A7%D9%82%D8%B9%DB%8C/AazCRBXB"
+    },
+    {
+      "title": "۶۳ متر آپارتمان لوکس موقعیت اداری فروش نازی آباد",
+      "link": "https://divar.ir/v/%DB%B6%DB%B3-%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%84%D9%88%DA%A9%D8%B3-%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%81%D8%B1%D9%88%D8%B4-%D9%86%D8%A7%D8%B2%DB%8C-%D8%A2%D8%A8%D8%A7%D8%AF/Aaz-wHZ3"
+    },
+    {
+      "title": "۱۲۵ متر دو خواب طبقه اول فول مشاعات آبی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D9%81%D9%88%D9%84-%D9%85%D8%B4%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C/AatNAIuM"
+    },
+    {
+      "title": "فروش اپارتمان ۵۵متری /2خواب/باپارکینگ غیرمزاحم",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-2%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%BA%DB%8C%D8%B1%D9%85%D8%B2%D8%A7%D8%AD%D9%85/Aar6Wzt_"
+    },
+    {
+      "title": "دبستان 85 متر 2 خواب",
+      "link": "https://divar.ir/v/%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-85-%D9%85%D8%AA%D8%B1-2-%D8%AE%D9%88%D8%A7%D8%A8/AajyEpxG"
+    },
+    {
+      "title": "۱۰۰ متر ۲ًخواب کمالی تک‌ واحدی پونک کمالی شرقی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B2%D9%8B%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%85%D8%A7%D9%84%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%BE%D9%88%D9%86%DA%A9-%DA%A9%D9%85%D8%A7%D9%84%DB%8C-%D8%B4%D8%B1%D9%82%DB%8C/Aaz-ghNd"
+    },
+    {
+      "title": "آپارتمان خوش نقشه،تکواحدی جنوبی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%AC%D9%86%D9%88%D8%A8%DB%8C/Aaz6QeTX"
+    },
+    {
+      "title": "200متر آپارتمان ارزانترین در منطقه",
+      "link": "https://divar.ir/v/200%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87/AaQ-VnH0"
+    },
+    {
+      "title": "۸۵ متری ، ۲خواب ، پرده خور ، لاکچری",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AE%D9%88%D8%B1-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C/Aat6uu7u"
+    },
+    {
+      "title": "65 متر آپارتمان کوچه 18",
+      "link": "https://divar.ir/v/65-%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DA%A9%D9%88%DA%86%D9%87-18/Aafu_UUF"
+    },
+    {
+      "title": "۷۰ متری ، ۲خواب ، پارکینگ ،همکف",
+      "link": "https://divar.ir/v/%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%87%D9%85%DA%A9%D9%81/AawGMThp"
+    },
+    {
+      "title": "واحد کلید نخورده ۸۳ متری تک واحدی",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%DB%B8%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/Aa3JmdD-"
+    },
+    {
+      "title": "ساقدوش ۱۵۲ متری مشاعات آبی",
+      "link": "https://divar.ir/v/%D8%B3%D8%A7%D9%82%D8%AF%D9%88%D8%B4-%DB%B1%DB%B5%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B4%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C/AagVSArM"
+    },
+    {
+      "title": "نارنجستان ۴",
+      "link": "https://divar.ir/v/%D9%86%D8%A7%D8%B1%D9%86%D8%AC%D8%B3%D8%AA%D8%A7%D9%86-%DB%B4/Aaju6ieg"
+    },
+    {
+      "title": "۵۲متر نواب محبوب مجاز** پارکینگ دار**",
+      "link": "https://divar.ir/v/%DB%B5%DB%B2%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%A7%D8%A8-%D9%85%D8%AD%D8%A8%D9%88%D8%A8-%D9%85%D8%AC%D8%A7%D8%B2-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%AF%D8%A7%D8%B1/AatmZlMF"
+    },
+    {
+      "title": "ویلا 500 متری تریبلکس",
+      "link": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7-500-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D8%B1%DB%8C%D8%A8%D9%84%DA%A9%D8%B3/AaziQJXZ"
+    },
+    {
+      "title": "بهترین لوکیشن شعبانلو ۹۸ متری",
+      "link": "https://divar.ir/v/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%B4%D8%B9%D8%A8%D8%A7%D9%86%D9%84%D9%88-%DB%B9%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C/Aaz6Amhk"
+    },
+    {
+      "title": "68 متر شکوفه(پارکینگ انباری)تکواحد طبقه اول روهمکف",
+      "link": "https://divar.ir/v/68-%D9%85%D8%AA%D8%B1-%D8%B4%DA%A9%D9%88%D9%81%D9%87-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%B1%D9%88%D9%87%D9%85%DA%A9%D9%81/AaJ-dp_T"
+    },
+    {
+      "title": "۴۰ متر نوساز سبلان لشگر",
+      "link": "https://divar.ir/v/%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%B3%D8%A8%D9%84%D8%A7%D9%86-%D9%84%D8%B4%DA%AF%D8%B1/Aajyiowa"
+    },
+    {
+      "title": "آپارتمان ۷۲ متری شهرک طالقانی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B7%D8%A7%D9%84%D9%82%D8%A7%D9%86%DB%8C/Aaz6gVlx"
+    },
+    {
+      "title": "67متری دوخواب بازسازی شده شخصی ساز",
+      "link": "https://divar.ir/v/67%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%B3%D8%A7%D8%B2/Aaz6ASqW"
+    },
+    {
+      "title": "اپارتمان ۱۵۵ متری در دوطبقه",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B7%D8%A8%D9%82%D9%87/Aaz6QIBq"
+    },
+    {
+      "title": "۵۹ متری زیر همکف",
+      "link": "https://divar.ir/v/%DB%B5%DB%B9-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B2%DB%8C%D8%B1-%D9%87%D9%85%DA%A9%D9%81/Aaq-TvDh"
+    },
+    {
+      "title": "کوهک برج باغ فرهیختگان 193 متر سه خواب مستر",
+      "link": "https://divar.ir/v/%DA%A9%D9%88%D9%87%DA%A9-%D8%A8%D8%B1%D8%AC-%D8%A8%D8%A7%D8%BA-%D9%81%D8%B1%D9%87%DB%8C%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-193-%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1/Aa2tCRUI"
+    },
+    {
+      "title": "فروش منزل 77متری خوش نقشه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%86%D8%B2%D9%84-77%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/Aaz2wqzs"
+    },
+    {
+      "title": "۸۹ متر نوساز کلید نخورده خیلی شیک",
+      "link": "https://divar.ir/v/%DB%B8%DB%B9-%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B4%DB%8C%DA%A9/AaTqxHWw"
+    },
+    {
+      "title": "فروش آپارتمان ۹۲متر ۲خواب فول بهر بلوار الغدیر",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B2%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A8%D9%87%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF%DB%8C%D8%B1/AaYmW2ai"
+    },
+    {
+      "title": "۱۰۰متری همت یاس/ کوهک / آبشار سهم وزارت",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%87%D9%85%D8%AA-%DB%8C%D8%A7%D8%B3-%DA%A9%D9%88%D9%87%DA%A9-%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%B3%D9%87%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA/Aaz2ASdf"
+    },
+    {
+      "title": "فروش آپارتمان ۱۱۰ متر (فلکه سوم ) فول",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1-%D9%81%D9%84%DA%A9%D9%87-%D8%B3%D9%88%D9%85-%D9%81%D9%88%D9%84/Aaz2glzL"
+    },
+    {
+      "title": "فروش آپارتمان ۴۹ متری ۱ خوابه همکف در وحیدیه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B9-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%D9%88%D8%AD%DB%8C%D8%AF%DB%8C%D9%87/Aa1RUryj"
+    },
+    {
+      "title": "میرداماد جنوب فروش آپارتمان۱۰۰ متری",
+      "link": "https://divar.ir/v/%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF-%D8%AC%D9%86%D9%88%D8%A8-%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AazyAQ2O"
+    },
+    {
+      "title": "آپارتمان ۶۸ متری دوخواب بازرگان",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86/Aaz2gV5h"
+    },
+    {
+      "title": "اپارتمان۹۵متری فول کلید نخورده نارمک",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B9%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%86%D8%A7%D8%B1%D9%85%DA%A9/AagiyU_m"
+    },
+    {
+      "title": "اپارتمان فول امکانات",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aaz2AGc8"
+    },
+    {
+      "title": "آپارتمان 44متری مختاری غربی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-44%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%DB%8C-%D8%BA%D8%B1%D8%A8%DB%8C/AatG3CRU"
+    },
+    {
+      "title": "۷۰متردوخوابه پارکینگ آسانسور نزدیک مترو",
+      "link": "https://divar.ir/v/%DB%B7%DB%B0%D9%85%D8%AA%D8%B1%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A2%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D9%85%D8%AA%D8%B1%D9%88/Aaz2AlIr"
+    },
+    {
+      "title": "74متری خوش عروسک/بهترین لوکیشن",
+      "link": "https://divar.ir/v/74%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B4-%D8%B9%D8%B1%D9%88%D8%B3%DA%A9-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86/Aaz2AMhA"
+    },
+    {
+      "title": "آپارتمان ۷۴ متر ۲خواب فول امکانات نوساز سندتکبرگ",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B4-%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%B3%D9%86%D8%AF%D8%AA%DA%A9%D8%A8%D8%B1%DA%AF/AajmEPTK"
+    },
+    {
+      "title": "۱۶ متری امیری خ بهفر ۸۸ متر نوساز",
+      "link": "https://divar.ir/v/%DB%B1%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D9%85%DB%8C%D8%B1%DB%8C-%D8%AE-%D8%A8%D9%87%D9%81%D8%B1-%DB%B8%DB%B8-%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/Aa1FXI1h"
+    },
+    {
+      "title": "۳۷ متر تک واحدی فول امکانات",
+      "link": "https://divar.ir/v/%DB%B3%DB%B7-%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AacmG0_u"
+    },
+    {
+      "title": "۱۱۳متر ۳خواب",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B3%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8/AazyA5Lf"
+    },
+    {
+      "title": "36 متری / خوش نقشه / نورگیر",
+      "link": "https://divar.ir/v/36-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1/AakW02GA"
+    },
+    {
+      "title": "فروشاپارتمان یک جا",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AC%D8%A7/Aat2bpbr"
+    },
+    {
+      "title": "نوساز،کلیدنخورده،۱۶متری امیری",
+      "link": "https://divar.ir/v/%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%DB%B1%DB%B6%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D9%85%DB%8C%D8%B1%DB%8C/AazxmYOQ"
+    },
+    {
+      "title": "آپارتمان ۴۹ متری تک‌واحدی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B9-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/Aawu6gDW"
+    },
+    {
+      "title": "۱۱۰متر فول نصر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D9%86%D8%B5%D8%B1/AazuQqZp"
+    },
+    {
+      "title": "فروش آپارتمان ۸۴ متری ۲ خوابه در حافظیه",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%81%D8%B8%DB%8C%D9%87/AazuAn3r"
+    },
+    {
+      "title": "۹۰متر ۲خ ط۳ تمام امکانات(املاک مهراز)",
+      "link": "https://divar.ir/v/%DB%B9%DB%B0%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE-%D8%B7%DB%B3-%D8%AA%D9%85%D8%A7%D9%85-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%85%D9%87%D8%B1%D8%A7%D8%B2/Aay2vuAV"
+    },
+    {
+      "title": "فروش آپارتمان ۱۲۷ متری ۳ خوابه در شهرک آپادانا",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A2%D9%BE%D8%A7%D8%AF%D8%A7%D9%86%D8%A7/AazuQxFY"
+    },
+    {
+      "title": "آپارتمان 62متری خیابان عبید زاکانی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-62%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B9%D8%A8%DB%8C%D8%AF-%D8%B2%D8%A7%DA%A9%D8%A7%D9%86%DB%8C/AazuA2wL"
+    },
+    {
+      "title": "خونه ۵۵ متری مرتضی گرد",
+      "link": "https://divar.ir/v/%D8%AE%D9%88%D9%86%D9%87-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B1%D8%AA%D8%B6%DB%8C-%DA%AF%D8%B1%D8%AF/AazqQ6eh"
+    },
+    {
+      "title": "۳۵ محبوب مجاز شرقی ط اول",
+      "link": "https://divar.ir/v/%DB%B3%DB%B5-%D9%85%D8%AD%D8%A8%D9%88%D8%A8-%D9%85%D8%AC%D8%A7%D8%B2-%D8%B4%D8%B1%D9%82%DB%8C-%D8%B7-%D8%A7%D9%88%D9%84/AazuwsPc"
+    },
+    {
+      "title": "فروش آپارتمان ۶۰ متری ۲ خوابه طبقه ۲ در بهمن یار",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B2-%D8%AF%D8%B1-%D8%A8%D9%87%D9%85%D9%86-%DB%8C%D8%A7%D8%B1/AazqQi3L"
+    },
+    {
+      "title": "۲۰۵ متر / بوستان ها / ۳ خواب مستر / قیمت استثنایی",
+      "link": "https://divar.ir/v/%DB%B2%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1-%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%DB%8C%DB%8C/AaziQ9ov"
+    },
+    {
+      "title": "۵۸متر۱خواب ( فلکه چهارم تهرانپارس )",
+      "link": "https://divar.ir/v/%DB%B5%DB%B8%D9%85%D8%AA%D8%B1%DB%B1%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%84%DA%A9%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3/AaYOX4mP"
+    },
+    {
+      "title": "آپارتمان 94متری خیابان رازقی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-94%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B1%D8%A7%D8%B2%D9%82%DB%8C/AajpacK-"
+    },
+    {
+      "title": "آپارتمان۱۲۰متری/ کریمشاهیان/ مقداد",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D8%B1%DB%8C%D9%85%D8%B4%D8%A7%D9%87%DB%8C%D8%A7%D9%86-%D9%85%D9%82%D8%AF%D8%A7%D8%AF/AazugWAK"
+    },
+    {
+      "title": "فروش آپارتمان ۴۰ متری ۱ خوابه همکف در هاشم‌آباد",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%D9%87%D8%A7%D8%B4%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF/AagOSijl"
+    },
+    {
+      "title": "اپارتمان ۵۷متری اتوبان محلاتی پاسدار گمنام",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B7%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AA%D9%88%D8%A8%D8%A7%D9%86-%D9%85%D8%AD%D9%84%D8%A7%D8%AA%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1-%DA%AF%D9%85%D9%86%D8%A7%D9%85/AacWjZQn"
+    },
+    {
+      "title": "واحد نوساز",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/AazmwUfN"
+    },
+    {
+      "title": "فروش آپارتمان ۶۸ متری ۲ خوابه در تولید دارو",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%A7%D8%B1%D9%88/AaymmGXN"
+    },
+    {
+      "title": "آپارتمان۵۸متر بلوار بریانک",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B5%DB%B8%D9%85%D8%AA%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A8%D8%B1%DB%8C%D8%A7%D9%86%DA%A9/AaZK8SxG"
+    },
+    {
+      "title": "آپارتمان 70متری خیابان جلیلی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-70%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%AC%D9%84%DB%8C%D9%84%DB%8C/AazqQxm8"
+    },
+    {
+      "title": "سازمان اب 110دوخواب فول امکانات",
+      "link": "https://divar.ir/v/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A7%D8%A8-110%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aay6vxa-"
+    },
+    {
+      "title": "اپارتمان ۶۰متری پارکینگ انباری دردشت",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1%D8%AF%D8%B4%D8%AA/AaP6yjd8"
+    },
+    {
+      "title": "73/5 متر فول بازسازی شده هشتم نیرو هوایی بدون مشرف",
+      "link": "https://divar.ir/v/73-5-%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%D9%87%D8%B4%D8%AA%D9%85-%D9%86%DB%8C%D8%B1%D9%88-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%B1%D9%81/AazqwQUo"
+    },
+    {
+      "title": "فروش آپارتمان ۹۰متری ۲خواب نفت شمالی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%81%D8%AA-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AazmgWIx"
+    },
+    {
+      "title": "آپارتمان ۵۵ متری تکواحدی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AaZa2vI6"
+    },
+    {
+      "title": "44 متر/بالای گلستان/باز سازی شده",
+      "link": "https://divar.ir/v/44-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/Aatm3o1Y"
+    },
+    {
+      "title": "75متر 2خواب تخلیه براصلی بوستان سعدی منطقه 10",
+      "link": "https://divar.ir/v/75%D9%85%D8%AA%D8%B1-2%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%A8%D8%B1%D8%A7%D8%B5%D9%84%DB%8C-%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%B9%D8%AF%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-10/AazmA8u9"
+    },
+    {
+      "title": "آپارتمان ۸۲متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B2%D9%85%D8%AA%D8%B1%DB%8C/AazqgB0g"
+    },
+    {
+      "title": "۵۸ متر ۲ خواب خواجه نظام",
+      "link": "https://divar.ir/v/%DB%B5%DB%B8-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D9%88%D8%A7%D8%AC%D9%87-%D9%86%D8%B8%D8%A7%D9%85/Aazmg9JY"
+    },
+    {
+      "title": "فروش آپارتمان ۱۱۸ متری ۲ خوابه در شهرک خرازی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AE%D8%B1%D8%A7%D8%B2%DB%8C/AaiJrfhv"
+    },
+    {
+      "title": "۶۴متر/فول بازسازی/۲خوابه",
+      "link": "https://divar.ir/v/%DB%B6%DB%B4%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AasmYde6"
+    },
+    {
+      "title": "۶۳ متری در افسریه جنوبی/ کلید نخورده/ فقط تهاتر",
+      "link": "https://divar.ir/v/%DB%B6%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%81%D8%B3%D8%B1%DB%8C%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%81%D9%82%D8%B7-%D8%AA%D9%87%D8%A7%D8%AA%D8%B1/Aazmw7P0"
+    },
+    {
+      "title": "85منر بهترین لوکیشن باغ",
+      "link": "https://divar.ir/v/85%D9%85%D9%86%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%A8%D8%A7%D8%BA/AaxC1LKb"
+    },
+    {
+      "title": "۵۲متری شیک و خوش نقشه",
+      "link": "https://divar.ir/v/%DB%B5%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%DA%A9-%D9%88-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/AazmAuZU"
+    },
+    {
+      "title": "آپارتمان ۳۵ مترتک واحدی اجاره دار",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D8%B1/AazmABql"
+    },
+    {
+      "title": "آپارتمان۶۵متر پارکینگ غیر مزاحم",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B6%DB%B5%D9%85%D8%AA%D8%B1-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%BA%DB%8C%D8%B1-%D9%85%D8%B2%D8%A7%D8%AD%D9%85/Aauep6Gp"
+    },
+    {
+      "title": "آپارتمان ۱۰۰ متری فول امکانات تک واحدی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AazmwJdg"
+    },
+    {
+      "title": "فروش آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaFqvrqj"
+    },
+    {
+      "title": "اپارتمان۶۰متری فول شیک ونقلی فروش فوری",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%B4%DB%8C%DA%A9-%D9%88%D9%86%D9%82%D9%84%DB%8C-%D9%81%D8%B1%D9%88%D8%B4-%D9%81%D9%88%D8%B1%DB%8C/AaomxOxu"
+    },
+    {
+      "title": "۱۱۵ متر ۳خواب (شهید عراقی)",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82%DB%8C/AazigZyi"
+    },
+    {
+      "title": "۷۲ متر گلستان‌های بلوار بیژن",
+      "link": "https://divar.ir/v/%DB%B7%DB%B2-%D9%85%D8%AA%D8%B1-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A8%DB%8C%DA%98%D9%86/AaziwVtZ"
+    },
+    {
+      "title": "آسمان البرز 95متر دوخواب نوساز گرمدره فول آماده",
+      "link": "https://divar.ir/v/%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-95%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%AF%D8%B1%D9%85%D8%AF%D8%B1%D9%87-%D9%81%D9%88%D9%84-%D8%A2%D9%85%D8%A7%D8%AF%D9%87/AaziAdav"
+    },
+    {
+      "title": "فروش آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aazew-eV"
+    },
+    {
+      "title": "فروش آپارتمان ۹۳ متری ۲ خوابه جیحون مالک اشتر",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AC%DB%8C%D8%AD%D9%88%D9%86-%D9%85%D8%A7%D9%84%DA%A9-%D8%A7%D8%B4%D8%AA%D8%B1/AaXgyC_X"
+    },
+    {
+      "title": "95 متر /سالن پرده خور / جنت شمال",
+      "link": "https://divar.ir/v/95-%D9%85%D8%AA%D8%B1-%D8%B3%D8%A7%D9%84%D9%86-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AE%D9%88%D8%B1-%D8%AC%D9%86%D8%AA-%D8%B4%D9%85%D8%A7%D9%84/AazSwbyP"
+    },
+    {
+      "title": "اپارتمان ۵۸متری فول لاکچری مستطیل طلایی",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B8%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-%D9%85%D8%B3%D8%AA%D8%B7%DB%8C%D9%84-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C/AaoyBafc"
+    },
+    {
+      "title": "فروش آپارتمان ۶۶ متری ۱ خوابه طبقه ۱ در پونک",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%D9%BE%D9%88%D9%86%DA%A9/AaAKqRqw"
+    },
+    {
+      "title": "۹۳متر فرعی های بهار",
+      "link": "https://divar.ir/v/%DB%B9%DB%B3%D9%85%D8%AA%D8%B1-%D9%81%D8%B1%D8%B9%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A8%D9%87%D8%A7%D8%B1/AalypTOa"
+    },
+    {
+      "title": "پنجاه متر اپارتمان نوساز کلید نخورده فول",
+      "link": "https://divar.ir/v/%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%85%D8%AA%D8%B1-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%81%D9%88%D9%84/Aazeg74z"
+    },
+    {
+      "title": "۴۶ متر دهم فروردین /لرستان",
+      "link": "https://divar.ir/v/%DB%B4%DB%B6-%D9%85%D8%AA%D8%B1-%D8%AF%D9%87%D9%85-%D9%81%D8%B1%D9%88%D8%B1%D8%AF%DB%8C%D9%86-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86/Aalyt0mZ"
+    },
+    {
+      "title": "۷۹مترخیابان سمنگان",
+      "link": "https://divar.ir/v/%DB%B7%DB%B9%D9%85%D8%AA%D8%B1%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B3%D9%85%D9%86%DA%AF%D8%A7%D9%86/AauCdrIB"
+    },
+    {
+      "title": "آپارتمان ۶۰ متری ، دوخواب",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8/Aawug27G"
+    },
+    {
+      "title": "فروش آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AazeggMi"
+    },
+    {
+      "title": "قلب میرداماد 130 متر خوشگل(فروش فوری)",
+      "link": "https://divar.ir/v/%D9%82%D9%84%D8%A8-%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF-130-%D9%85%D8%AA%D8%B1-%D8%AE%D9%88%D8%B4%DA%AF%D9%84-%D9%81%D8%B1%D9%88%D8%B4-%D9%81%D9%88%D8%B1%DB%8C/Aaw6B8Qi"
+    },
+    {
+      "title": "۱۵۵متر/ ۳ خواب/ کلید نخورده/ کم واحد/لوکس و مدرن",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B5%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%DA%A9%D9%85-%D9%88%D8%A7%D8%AD%D8%AF-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D9%85%D8%AF%D8%B1%D9%86/Aal-ERh6"
+    },
+    {
+      "title": "۱۲۵ متر نوساز همیلا",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%87%D9%85%DB%8C%D9%84%D8%A7/Aau9Sons"
+    },
+    {
+      "title": "۶۲ متر ۲خواب پارکینگ و انباری",
+      "link": "https://divar.ir/v/%DB%B6%DB%B2-%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%88-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C/AazeQBkX"
+    },
+    {
+      "title": "فروش آپارتمان 53متری در قلب پیروزی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-53%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%82%D9%84%D8%A8-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C/Aay2uyyN"
+    },
+    {
+      "title": "فروش آپارتمان ۷۷ متری ۲ خوابه در خزانه تک واحدی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86%D9%87-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AazWADwy"
+    },
+    {
+      "title": "فروش یک واحد آپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AazWgnxr"
+    },
+    {
+      "title": "فروش آپارتمان ۵۳ متری ۱ خوابه طبقه ۳ در خانی‌آباد",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%DB%8C-%D8%A2%D8%A8%D8%A7%D8%AF/AazaQXkY"
+    },
+    {
+      "title": "آپارتمان ۱۱۸ متری ۲ خوابه در نیرو هوایی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%86%DB%8C%D8%B1%D9%88-%D9%87%D9%88%D8%A7%DB%8C%DB%8C/AazagZq5"
+    },
+    {
+      "title": "آپارتمان ۱۲۴ متری نازی آباد",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D8%A7%D8%B2%DB%8C-%D8%A2%D8%A8%D8%A7%D8%AF/AazaQNQA"
+    },
+    {
+      "title": "آپارتمان ۱۰۰ متری در کوی فردوس",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%88%DB%8C-%D9%81%D8%B1%D8%AF%D9%88%D8%B3/AazawNt4"
+    },
+    {
+      "title": "فروش آپارتمان ۱۵۹ متری ۳ خوابه در بهار شمالی",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B9-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/Aa-VTtcw"
+    },
+    {
+      "title": "فروش آپارتمان ۱۱۱ متری ۲ خوابه در فلاح",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B1-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%81%D9%84%D8%A7%D8%AD/AazOg343"
+    },
+    {
+      "title": "فول بازسازی ۱۳۲متر شهید عراقی",
+      "link": "https://divar.ir/v/%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%DB%B1%DB%B3%DB%B2%D9%85%D8%AA%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82%DB%8C/AazWgqsK"
+    },
+    {
+      "title": "۴۹ متر یک خوابه فول بازسازی خواجه نظام",
+      "link": "https://divar.ir/v/%DB%B4%DB%B9-%D9%85%D8%AA%D8%B1-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AE%D9%88%D8%A7%D8%AC%D9%87-%D9%86%D8%B8%D8%A7%D9%85/Aa7N6UiB"
+    },
+    {
+      "title": "فروش و خرید واحد‌های مسکونی رونیکا پالاس کوهک",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88%D8%A7%D8%AD%D8%AF-%D9%87%D8%A7%DB%8C-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D8%B1%D9%88%D9%86%DB%8C%DA%A9%D8%A7-%D9%BE%D8%A7%D9%84%D8%A7%D8%B3-%DA%A9%D9%88%D9%87%DA%A9/AaLuUT14"
+    },
+    {
+      "title": "83متری، فروش نقدی یا معاوضه",
+      "link": "https://divar.ir/v/83%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%B1%D9%88%D8%B4-%D9%86%D9%82%D8%AF%DB%8C-%DB%8C%D8%A7-%D9%85%D8%B9%D8%A7%D9%88%D8%B6%D9%87/AagS04JW"
+    },
+    {
+      "title": "۶۲ متر تهرانپارس نوسازپارکینگ انباری بالکن اسانسور",
+      "link": "https://divar.ir/v/%DB%B6%DB%B2-%D9%85%D8%AA%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D9%84%DA%A9%D9%86-%D8%A7%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1/AazWQBVh"
+    }
+  ]
+}

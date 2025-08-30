@@ -1,0 +1,2596 @@
+{
+  "city": "karaj",
+  "adType": "rent-apartment",
+  "scrapedAt": "2025-08-27T11:04:09.788Z",
+  "totalAds": 647,
+  "ads": [
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaiysatK"
+    },
+    {
+      "title": "آپارتمان نوساز کلید نخورده",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AahO5hwg"
+    },
+    {
+      "title": "اجاره اپارتمان ۱۲۲ متری مهرشهرفاز۳",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1%D9%81%D8%A7%D8%B2%DB%B3/AauOe0re"
+    },
+    {
+      "title": "سه خواب دهقان ویلا ۱۳۵ متر",
+      "link": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1/AaeG_DyC"
+    },
+    {
+      "title": "اجاره آپارتمان دوخوابه فاز۱مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%A7%D8%B2%DB%B1%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aal2YpS1"
+    },
+    {
+      "title": "۹۵متر/شیک/شهرک جهان نما",
+      "link": "https://divar.ir/v/%DB%B9%DB%B5%D9%85%D8%AA%D8%B1-%D8%B4%DB%8C%DA%A9-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AC%D9%87%D8%A7%D9%86-%D9%86%D9%85%D8%A7/Aa-h3abA"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۳۶ متری ۳ خوابه در گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/Aau297VI"
+    },
+    {
+      "title": "اجاره آپارتمان قواره اول خیابان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%82%D9%88%D8%A7%D8%B1%D9%87-%D8%A7%D9%88%D9%84-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86/AauCNVrL"
+    },
+    {
+      "title": "اجاره آپارتمان دهقان ویلا دوم",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D8%AF%D9%88%D9%85/AauKNNme"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۸ متری ۲ خوابه طبقه ۳ در گلدشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D8%AF%D8%B1-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA/AatJXQf4"
+    },
+    {
+      "title": "۱۷۰ متری غرق در نور تاپ لوکیشن",
+      "link": "https://divar.ir/v/%DB%B1%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%BA%D8%B1%D9%82-%D8%AF%D8%B1-%D9%86%D9%88%D8%B1-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86/Aaui9mKI"
+    },
+    {
+      "title": "واحد ۸۵ متری با ویو پارک",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%88%DB%8C%D9%88-%D9%BE%D8%A7%D8%B1%DA%A9/AabmxJB9"
+    },
+    {
+      "title": "آپارتمان ۱۲۲ متری فول امکانات گوهردشت ساخت ۱۴۰۲",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%DB%B1%DB%B4%DB%B0%DB%B2/Aau2tf37"
+    },
+    {
+      "title": "رهن و اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aau2df5N"
+    },
+    {
+      "title": "یک واحد خونه تمیز در آق تپه",
+      "link": "https://divar.ir/v/%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AE%D9%88%D9%86%D9%87-%D8%AA%D9%85%DB%8C%D8%B2-%D8%AF%D8%B1-%D8%A2%D9%82-%D8%AA%D9%BE%D9%87/Aak6F6A0"
+    },
+    {
+      "title": "اجاره واحد ۱۱۰ متری شهرک جهان نما",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AC%D9%87%D8%A7%D9%86-%D9%86%D9%85%D8%A7/AajuB8Po"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۵ متر ۳ خواب طبقه ۳ در اصفهانی‌ها",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D8%AF%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C-%D9%87%D8%A7/Aauydsrj"
+    },
+    {
+      "title": "۷۲ متر / دو خواب / بلوار وحدت",
+      "link": "https://divar.ir/v/%DB%B7%DB%B2-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%88%D8%AD%D8%AF%D8%AA/Aaumdgek"
+    },
+    {
+      "title": "ایثار اجاره یا فروش طبقه دوم سرکوچه شقایق شرقی",
+      "link": "https://divar.ir/v/%D8%A7%DB%8C%D8%AB%D8%A7%D8%B1-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85-%D8%B3%D8%B1%DA%A9%D9%88%DA%86%D9%87-%D8%B4%D9%82%D8%A7%DB%8C%D9%82-%D8%B4%D8%B1%D9%82%DB%8C/Aaumt_UW"
+    },
+    {
+      "title": "رهن و اجاره یک واحد ۸۸ متری",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C/AaY1QILj"
+    },
+    {
+      "title": "آپارتمان ۱۰۳ متری تخلیه فول امکانات",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aasygh4C"
+    },
+    {
+      "title": "آپارتمان ۹۳ متری دهقان ویلا اول تخلیه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D8%A7%D9%88%D9%84-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AateoCXg"
+    },
+    {
+      "title": "رهن و اجاره واحد مسکونی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C/AasuMDdF"
+    },
+    {
+      "title": "یک واحد ۹۰ متری دو خوابه",
+      "link": "https://divar.ir/v/%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AauaNg8I"
+    },
+    {
+      "title": "اجاره واحد ۷۵ متری در مصباح",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B5%D8%A8%D8%A7%D8%AD/AauatmN9"
+    },
+    {
+      "title": "اجاره آپارتمان 100 متری ۲ خوابه طبقه ۲ در شهرک اوج",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-100-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B2-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A7%D9%88%D8%AC/AauadDg_"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۲متری.بدون قطعی برق وآب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%82%D8%B7%D8%B9%DB%8C-%D8%A8%D8%B1%D9%82-%D9%88%D8%A2%D8%A8/AauaNpos"
+    },
+    {
+      "title": "آپارتمان ۵۴ متری اشتراکی شمالی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AauatLnG"
+    },
+    {
+      "title": "رهن آپارتمان ۵۵ متری ۱ خوابه زیر همکف در کرج نو",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC-%D9%86%D9%88/AauatCkt"
+    },
+    {
+      "title": "اجاره اپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AauaNUrS"
+    },
+    {
+      "title": "آپارتمان شمالی فول تک واحدی ۱۳۰متر ۲ خواب طبقه اول",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D9%81%D9%88%D9%84-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%DB%B1%DB%B3%DB%B0%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84/Aasi2kPY"
+    },
+    {
+      "title": "آپارتمان ۹۱ متری باغ سیب کوچه دنج و آرام",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B1-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%D8%BA-%D8%B3%DB%8C%D8%A8-%DA%A9%D9%88%DA%86%D9%87-%D8%AF%D9%86%D8%AC-%D9%88-%D8%A2%D8%B1%D8%A7%D9%85/AauWt8Ld"
+    },
+    {
+      "title": "۱۰۵متر تمیز مرتب/تاپ لوکشین/فاز۱/مهرشهر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B5%D9%85%D8%AA%D8%B1-%D8%AA%D9%85%DB%8C%D8%B2-%D9%85%D8%B1%D8%AA%D8%A8-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%D8%B4%DB%8C%D9%86-%D9%81%D8%A7%D8%B2%DB%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AaguzATa"
+    },
+    {
+      "title": "اجاره",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AauStOrG"
+    },
+    {
+      "title": "95 متر فول مهرشهر بلوار ارم",
+      "link": "https://divar.ir/v/95-%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85/AauSNaze"
+    },
+    {
+      "title": "۱۲۳متری ۲خواب مستر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B3%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1/AaL-RWuv"
+    },
+    {
+      "title": "۶۰ متری باغستان غربی دو خواب",
+      "link": "https://divar.ir/v/%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8/AauO9qr9"
+    },
+    {
+      "title": "آپارتمان تک واحدی 87متر بلوار نبوت",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-87%D9%85%D8%AA%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%86%D8%A8%D9%88%D8%AA/AauOtlqU"
+    },
+    {
+      "title": "اجاره اتاق ۱۸ متری ۱ خوابه در گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D8%AA%D8%A7%D9%82-%DB%B1%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AauKN7ME"
+    },
+    {
+      "title": "۱۶۰ متر ۳خواب فازچهار مهرشهر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D8%A7%D8%B2%DA%86%D9%87%D8%A7%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aat2ULfs"
+    },
+    {
+      "title": "اجاره ویلایی ۱۱۰ متری/ تک واحدی / پارکینگ اختصاصی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C/AajG4JCD"
+    },
+    {
+      "title": "۸۵متر،فرهنگیان،طبقه اول",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5%D9%85%D8%AA%D8%B1-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C%D8%A7%D9%86-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84/AaPmigQ-"
+    },
+    {
+      "title": "اجاره آپارتمان شهرک بنفشه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A8%D9%86%D9%81%D8%B4%D9%87/AauCcOsF"
+    },
+    {
+      "title": "آپارتمان ۲۳۲متری۴خواب فاز۱",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B3%DB%B2%D9%85%D8%AA%D8%B1%DB%8C%DB%B4%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D8%A7%D8%B2%DB%B1/AauGtykv"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۵ متری تمیز",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2/AauGduQn"
+    },
+    {
+      "title": "اجازه واحد۶۰متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B2%D9%87-%D9%88%D8%A7%D8%AD%D8%AF%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%8C/AauKcG3v"
+    },
+    {
+      "title": "اجاره واحد 80متری حصارک بالا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-80%D9%85%D8%AA%D8%B1%DB%8C-%D8%AD%D8%B5%D8%A7%D8%B1%DA%A9-%D8%A8%D8%A7%D9%84%D8%A7/AaYedFLf"
+    },
+    {
+      "title": "واحد ۸۵ متری برای اجاره",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AauCdgnx"
+    },
+    {
+      "title": "۱۲۰متر۲خواب تاپ لوکیشن بالای مهران",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B0%D9%85%D8%AA%D8%B1%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-%D9%85%D9%87%D8%B1%D8%A7%D9%86/Aau-8fPy"
+    },
+    {
+      "title": "۹۵ متر۱۴ غربی قلم",
+      "link": "https://divar.ir/v/%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1%DB%B1%DB%B4-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%82%D9%84%D9%85/Aau-srym"
+    },
+    {
+      "title": "۱۵۰متر باغستان فول نوساز تخلیه فوری عروسک",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B0%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D9%81%D9%88%D8%B1%DB%8C-%D8%B9%D8%B1%D9%88%D8%B3%DA%A9/Aau-sB7c"
+    },
+    {
+      "title": "رهن و اجاره/70متر/دو خواب/گلشهر",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-70%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/Aac2TZv1"
+    },
+    {
+      "title": "اجاره واحد ۹۶ متری مهرویلا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B9%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D9%87%D8%B1%D9%88%DB%8C%D9%84%D8%A7/AakmjLgk"
+    },
+    {
+      "title": "۸۵ متر رو به نما",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88-%D8%A8%D9%87-%D9%86%D9%85%D8%A7/Aau2ckik"
+    },
+    {
+      "title": "رهن واحد 100متری/فول دیزاین/ لوکس و شیک",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-100%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%AF%DB%8C%D8%B2%D8%A7%DB%8C%D9%86-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D8%B4%DB%8C%DA%A9/AapyHaej"
+    },
+    {
+      "title": "۷۵ متر۱۵ شاهین ویلا پشت کتابخانه",
+      "link": "https://divar.ir/v/%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%B1%DB%B5-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D9%BE%D8%B4%D8%AA-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87/Aau2MLnZ"
+    },
+    {
+      "title": "آپارتمان 105 متری طبقه دوم",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-105-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85/AaVSqvot"
+    },
+    {
+      "title": "اجاره آپارتمان در فاز ۴ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B4-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AauyM6Hi"
+    },
+    {
+      "title": "آپارتمان ۷۶ متری دو خوابه همکف در نزدیکی مترو",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%DB%8C-%D9%85%D8%AA%D8%B1%D9%88/Aau2cBeX"
+    },
+    {
+      "title": "اجاره آپارتمان فول امکانات شاهین ویلا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/Aau2sFbA"
+    },
+    {
+      "title": "اجاره آپارتمان فول امکانات اصلی شاهین ویلا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/AauuMphu"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۰۵ متری ۲ خوابه در گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AauycWU8"
+    },
+    {
+      "title": "آپارتمان 95 متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-95-%D9%85%D8%AA%D8%B1%DB%8C/Aauycgap"
+    },
+    {
+      "title": "85 متر مهرشهر ابتدای بلوار ارم",
+      "link": "https://divar.ir/v/85-%D9%85%D8%AA%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85/AasyXD4r"
+    },
+    {
+      "title": "یک واحدآپارتمان ۱۵۰ متری،قابل تبدیل",
+      "link": "https://divar.ir/v/%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84/AaqK_C8j"
+    },
+    {
+      "title": "اجاره واحد ۱۵۰ متری بوستان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86/AauuMUU6"
+    },
+    {
+      "title": "75 متری اجاره سراسر پنجره",
+      "link": "https://divar.ir/v/75-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1-%D9%BE%D9%86%D8%AC%D8%B1%D9%87/AaY-kBa_"
+    },
+    {
+      "title": "اجاره آپارتمان در کرج شهرک بنفشه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A8%D9%86%D9%81%D8%B4%D9%87/AauqsAYI"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۵ متری ۱ خوابه طبقه ۱ در پیشاهنگی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%D9%BE%DB%8C%D8%B4%D8%A7%D9%87%D9%86%DA%AF%DB%8C/AauqMmGT"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۳۵ متری ۳ خوابه بهار غربی (ندا)",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%86%D8%AF%D8%A7/Aat2mVAn"
+    },
+    {
+      "title": "141متری کلید نخورده گوهردشت",
+      "link": "https://divar.ir/v/141%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AaMu26gI"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ متری کلید نخورده آبان شرقی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/Aat-GFu4"
+    },
+    {
+      "title": "رهن واحد ۱۷۷متری خ فرشته",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B7%DB%B7%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE-%D9%81%D8%B1%D8%B4%D8%AA%D9%87/AaSiQAMU"
+    },
+    {
+      "title": "تک. واحدی طبقه اول بدون مزاحم",
+      "link": "https://divar.ir/v/%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B2%D8%A7%D8%AD%D9%85/AaumsPLD"
+    },
+    {
+      "title": "رهن آپارتمان ۱۶۵ متری ۳ خوابه در محمدشهر",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D8%AD%D9%85%D8%AF%D8%B4%D9%87%D8%B1/Aaumsg1J"
+    },
+    {
+      "title": "اپارتمان ۲۱۵ متری فاز۲",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%A7%D8%B2%DB%B2/Aag6STtw"
+    },
+    {
+      "title": "آپارتمان 85متری مهرویلا ابن سینا",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-85%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D9%87%D8%B1%D9%88%DB%8C%D9%84%D8%A7-%D8%A7%D8%A8%D9%86-%D8%B3%DB%8C%D9%86%D8%A7/AaTexLar"
+    },
+    {
+      "title": "واحد ۱۲۰ متری اردلانها",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B1%D8%AF%D9%84%D8%A7%D9%86%D9%87%D8%A7/AauicM2L"
+    },
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aaui8kGA"
+    },
+    {
+      "title": "110متر دهقان ویلا دو خواب لوکس و تمیز",
+      "link": "https://divar.ir/v/110%D9%85%D8%AA%D8%B1-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D8%AA%D9%85%DB%8C%D8%B2/AalqaAhf"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۸ متری ۲ خوابه در شهرک بنفشه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A8%D9%86%D9%81%D8%B4%D9%87/AagCEO6L"
+    },
+    {
+      "title": "رهن کامل زنبق ها",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%B2%D9%86%D8%A8%D9%82-%D9%87%D8%A7/AacKadIG"
+    },
+    {
+      "title": "واحد اپارتمانی ۱۰۵متری",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%8C-%DB%B1%DB%B0%DB%B5%D9%85%D8%AA%D8%B1%DB%8C/Aauas7c6"
+    },
+    {
+      "title": "۱۵۰ متر آپارتمان گوهردشت فاز۱ رهن یا اجاره",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%D9%81%D8%A7%D8%B2%DB%B1-%D8%B1%D9%87%D9%86-%DB%8C%D8%A7-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AaZWZ47m"
+    },
+    {
+      "title": "اجاره خونه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AE%D9%88%D9%86%D9%87/Aaua8oxQ"
+    },
+    {
+      "title": "رهن و اجاره واحد 130متری",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-130%D9%85%D8%AA%D8%B1%DB%8C/AauaMXiu"
+    },
+    {
+      "title": "رهن و اجاره فولترین آپارتمانه کم واحد عظیمیه",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%81%D9%88%D9%84%D8%AA%D8%B1%DB%8C%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%D9%87-%DA%A9%D9%85-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AaXO0Ey4"
+    },
+    {
+      "title": "واحد۸۳متری در کوچه۵ دهقان ویلا اول",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF%DB%B8%DB%B3%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%88%DA%86%D9%87%DB%B5-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D8%A7%D9%88%D9%84/AauacHuA"
+    },
+    {
+      "title": "۷۵ متری رهن کامل",
+      "link": "https://divar.ir/v/%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84/AauWMyaD"
+    },
+    {
+      "title": "آپارتمان اجاره ای",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C/AauWc7z7"
+    },
+    {
+      "title": "اجاره اپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AarySNNf"
+    },
+    {
+      "title": "۶۵ متری طبقه پایین ویلایی",
+      "link": "https://divar.ir/v/%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C/AauSMjss"
+    },
+    {
+      "title": "۲۱۰ متر اجاره واحد در بهترین فاز مهرشهر",
+      "link": "https://divar.ir/v/%DB%B2%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AF%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%D8%A7%D8%B2-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AauSc6dA"
+    },
+    {
+      "title": "اجاره کوی زنبق",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DA%A9%D9%88%DB%8C-%D8%B2%D9%86%D8%A8%D9%82/AauSM8yu"
+    },
+    {
+      "title": "رهن و اجاره/65متر/1خواب/بلوار حدادی ترابی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-65%D9%85%D8%AA%D8%B1-1%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%AD%D8%AF%D8%A7%D8%AF%DB%8C-%D8%AA%D8%B1%D8%A7%D8%A8%DB%8C/AauOciIG"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۷۵متری تک واحدی ۳خواب دربازرگانی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B7%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C/AauS8qEF"
+    },
+    {
+      "title": "اپارتمان ۹۵ متر مهرویلای جنوبی",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1-%D9%85%D9%87%D8%B1%D9%88%DB%8C%D9%84%D8%A7%DB%8C-%D8%AC%D9%86%D9%88%D8%A8%DB%8C/AauSMivN"
+    },
+    {
+      "title": "اجاره واحد ۱۵۷ متر ۳ خوابه مهرشهر دانش غربی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B5%DB%B7-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D8%BA%D8%B1%D8%A8%DB%8C/AaPKpd7Q"
+    },
+    {
+      "title": "اجاره ورهن شهرک رازی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%B1%D9%87%D9%86-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B1%D8%A7%D8%B2%DB%8C/AauSslvZ"
+    },
+    {
+      "title": "اجاره آپارتمان 75 متری 2 خواب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-75-%D9%85%D8%AA%D8%B1%DB%8C-2-%D8%AE%D9%88%D8%A7%D8%A8/AarNd2Zv"
+    },
+    {
+      "title": "آپارتمان تاجداری ۸۵ متراجاره قابل تخفیف تخلیه فوری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%D8%A7%D8%AC%D8%AF%D8%A7%D8%B1%DB%8C-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%AE%D9%81%DB%8C%D9%81-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D9%81%D9%88%D8%B1%DB%8C/Aahap_SC"
+    },
+    {
+      "title": "عظیمیه/140m/تاپ لوکیشن /خوش نقشه/نورگیر بینظیر",
+      "link": "https://divar.ir/v/%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-140m-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1-%D8%A8%DB%8C%D9%86%D8%B8%DB%8C%D8%B1/AauO8lGD"
+    },
+    {
+      "title": "رهن و اجاره ۹۰متری فول",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84/AauOcww_"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۵ متری فول تخلیه اصلی شاهین ویلا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/AauOcYTg"
+    },
+    {
+      "title": "اپارتمان 85 متری شهرک کوثر کرج",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-85-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DA%A9-%DA%A9%D9%88%D8%AB%D8%B1-%DA%A9%D8%B1%D8%AC/AauOshhm"
+    },
+    {
+      "title": "آپارتمان ۱۳۰ متر خ قلندری تخلیه قابل تبدیل",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AE-%D9%82%D9%84%D9%86%D8%AF%D8%B1%DB%8C-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84/AauKc7i8"
+    },
+    {
+      "title": "اجاره واحد 135 متری لوکس 2پارکینگ",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-135-%D9%85%D8%AA%D8%B1%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-2%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF/AaiG_AoW"
+    },
+    {
+      "title": "اپارتمان 90متری زیر قیمت منطقه فوری",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-90%D9%85%D8%AA%D8%B1%DB%8C-%D8%B2%DB%8C%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D9%81%D9%88%D8%B1%DB%8C/AauKMYHa"
+    },
+    {
+      "title": "آپارتمان ۳ واحدی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AauKMA6L"
+    },
+    {
+      "title": "۱۰۵ متر رو به خیابان پامچال خوش نقشه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88-%D8%A8%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%BE%D8%A7%D9%85%DA%86%D8%A7%D9%84-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/AauGsmAO"
+    },
+    {
+      "title": "۸۳ متری ۲ خوابه طبقه اول در گلشهر",
+      "link": "https://divar.ir/v/%DB%B8%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AauqLBfM"
+    },
+    {
+      "title": "آپارتمان تکواحدی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AaXyxUoP"
+    },
+    {
+      "title": "اجاره واحد ۱۸۵ متری در گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AaQy2Zvd"
+    },
+    {
+      "title": "اجاره اپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AauCMKcV"
+    },
+    {
+      "title": "مهرشهر فاز۱ آپارتمان ۱۵۰ متر۳خوابه",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%81%D8%A7%D8%B2%DB%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%B3%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AaHCZ8IA"
+    },
+    {
+      "title": "مسکن",
+      "link": "https://divar.ir/v/%D9%85%D8%B3%DA%A9%D9%86/AauCcHuu"
+    },
+    {
+      "title": "آپارتمان 75متر / رو باغ سیب مهرشهر/",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-75%D9%85%D8%AA%D8%B1-%D8%B1%D9%88-%D8%A8%D8%A7%D8%BA-%D8%B3%DB%8C%D8%A8-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aau6Lm4h"
+    },
+    {
+      "title": "۵۵متر در نیستان اجاره کیانمهر",
+      "link": "https://divar.ir/v/%DB%B5%DB%B5%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DA%A9%DB%8C%D8%A7%D9%86%D9%85%D9%87%D8%B1/Aau-LkzQ"
+    },
+    {
+      "title": "رهن و اجاره آپارتمان ۱۴۵ متری باغستان غربی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B4%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C/Aau-7GnQ"
+    },
+    {
+      "title": "رهن واحد ۱۱۵ متر گوهردشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/Aau-LQ4O"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۰ متری ۱ خوابه همکف در گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/Aau2r_D0"
+    },
+    {
+      "title": "اجاره اپارتمان لوکس شاهین ویلا ۱۴۰متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%84%D9%88%DA%A9%D8%B3-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%DB%B1%DB%B4%DB%B0%D9%85%D8%AA%D8%B1%DB%8C/AaTmhFTm"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۵ متری ۲ خوابه در حصارک",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%AD%D8%B5%D8%A7%D8%B1%DA%A9/Aau-7Dl5"
+    },
+    {
+      "title": "آپارتمان اجاره ۲ خواب ۷۵ متراملاک بهرامی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%A8%D9%87%D8%B1%D8%A7%D9%85%DB%8C/Aau27yZO"
+    },
+    {
+      "title": "رهن واحد ۷۶ متری فول بازسازی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C/Aau6rMP9"
+    },
+    {
+      "title": "اجاره آپارتمان حصارک پایین ۶۰ متری ۱ خوابه طبقه ۲",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AD%D8%B5%D8%A7%D8%B1%DA%A9-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B2/AaHKrFC1"
+    },
+    {
+      "title": "۸۵ متری ۱۴ غربی قلم",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1%DB%B4-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%82%D9%84%D9%85/AahG3GrI"
+    },
+    {
+      "title": "145متر دو پارکینگ رستاخیز شمالی افتاب",
+      "link": "https://divar.ir/v/145%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B1%D8%B3%D8%AA%D8%A7%D8%AE%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A7%D9%81%D8%AA%D8%A7%D8%A8/AaU28Bx_"
+    },
+    {
+      "title": "اجاره واحد 100متری/جهانشهر/مبله/ماهانه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-100%D9%85%D8%AA%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%D8%B4%D9%87%D8%B1-%D9%85%D8%A8%D9%84%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87/Aau2rl-k"
+    },
+    {
+      "title": "اجاره صدمتری/بهترین لوکیشن دهقان ویلااول/غرق نور",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%B5%D8%AF%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7%D8%A7%D9%88%D9%84-%D8%BA%D8%B1%D9%82-%D9%86%D9%88%D8%B1/Aap2LJpH"
+    },
+    {
+      "title": "130 متر 2 خواب فول امکانات دسترسی خوب",
+      "link": "https://divar.ir/v/130-%D9%85%D8%AA%D8%B1-2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%AE%D9%88%D8%A8/Aau2LJs2"
+    },
+    {
+      "title": "۸۰متر/ط ۲/روبرومرکز خرید مهستان تخلیه فوری",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0%D9%85%D8%AA%D8%B1-%D8%B7-%DB%B2-%D8%B1%D9%88%D8%A8%D8%B1%D9%88%D9%85%D8%B1%DA%A9%D8%B2-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D9%87%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D9%81%D9%88%D8%B1%DB%8C/Aag6kBgZ"
+    },
+    {
+      "title": "اجاره آپارتمان یک خوابه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/Aau2LDuS"
+    },
+    {
+      "title": "۵۵ متری حیدراباد شرقی",
+      "link": "https://divar.ir/v/%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AD%DB%8C%D8%AF%D8%B1%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D8%B1%D9%82%DB%8C/AasumiBd"
+    },
+    {
+      "title": "رهن و اجاره فوری خیابان بهار",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%81%D9%88%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D9%87%D8%A7%D8%B1/Aaq2QT_3"
+    },
+    {
+      "title": "آپارتمان ۲۸۰ م ۳۰۰ م۳۲۰ متری هتلینگ",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B8%DB%B0-%D9%85-%DB%B3%DB%B0%DB%B0-%D9%85%DB%B3%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%87%D8%AA%D9%84%DB%8C%D9%86%DA%AF/AaGWjNfO"
+    },
+    {
+      "title": "۱۱۴متر با دو تراس ،شیک و بازسازی شده",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B4%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%AF%D9%88-%D8%AA%D8%B1%D8%A7%D8%B3-%D8%B4%DB%8C%DA%A9-%D9%88-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/AaP6BPGK"
+    },
+    {
+      "title": "املاک",
+      "link": "https://divar.ir/v/%D8%A7%D9%85%D9%84%D8%A7%DA%A9/AauuLw_u"
+    },
+    {
+      "title": "۸۸ متر / ۲ خواب / فول امکانات",
+      "link": "https://divar.ir/v/%DB%B8%DB%B8-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AauubbYB"
+    },
+    {
+      "title": "واحد کاملا شخصی ۱۵۰ متر ۲ سال ساخت بلوار موذن کرج",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DA%A9%D8%A7%D9%85%D9%84%D8%A7-%D8%B4%D8%AE%D8%B5%DB%8C-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%B3%D8%A7%D9%84-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%85%D9%88%D8%B0%D9%86-%DA%A9%D8%B1%D8%AC/AajFrWH_"
+    },
+    {
+      "title": "اپارتمان رهن کامل۷۲مترآسانسور پارکینگ ساسانی مصباح",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84%DB%B7%DB%B2%D9%85%D8%AA%D8%B1%D8%A2%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B3%D8%A7%D8%B3%D8%A7%D9%86%DB%8C-%D9%85%D8%B5%D8%A8%D8%A7%D8%AD/AauuriXn"
+    },
+    {
+      "title": "آپارتمان ۱۶۰متری/بدون مشابه/مهرشهرکوی مهر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1%DA%A9%D9%88%DB%8C-%D9%85%D9%87%D8%B1/AauGLfp6"
+    },
+    {
+      "title": "اجاره آپارتمان 137 متر ۳ خوابه عظیمیه ویو ابدی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-137-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D9%88%DB%8C%D9%88-%D8%A7%D8%A8%D8%AF%DB%8C/AapudY98"
+    },
+    {
+      "title": "اجاره آپارتمان 1خوابه فول نوسازی شده ۸۱ متر در کرج",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-1%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D9%88%D9%84-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%DB%B8%DB%B1-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC/AaVWyAxc"
+    },
+    {
+      "title": "آپارتمان ۱۲۰متر، ۲خوابه، بی نظیر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B0%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1/AaimdP7q"
+    },
+    {
+      "title": "اجاره منزل",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%85%D9%86%D8%B2%D9%84/Aauu7EUy"
+    },
+    {
+      "title": "اپارتمان مجتمع هما",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D9%87%D9%85%D8%A7/Aauu7Bg9"
+    },
+    {
+      "title": "اجاره۱۳۰متری روبه نما",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87%DB%B1%DB%B3%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%88%D8%A8%D9%87-%D9%86%D9%85%D8%A7/Aa9pPYsu"
+    },
+    {
+      "title": "رهن و اجاره آپارتمان مسکونی، ۱۲۰متر دو خواب، دلباز",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%DB%B1%DB%B2%DB%B0%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%84%D8%A8%D8%A7%D8%B2/AauqLJrf"
+    },
+    {
+      "title": "اجاره واحد ۱۳۰ متری گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/Aas62G9i"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۳۵ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AaPyw1bJ"
+    },
+    {
+      "title": "107متر رهن کامل آفتابگیر",
+      "link": "https://divar.ir/v/107%D9%85%D8%AA%D8%B1-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%DA%AF%DB%8C%D8%B1/Aan-S5Eu"
+    },
+    {
+      "title": "آپارتمان ۸۰ متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aaui7azw"
+    },
+    {
+      "title": "رهن اپارتمان نوساز گوهردشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AafWSCST"
+    },
+    {
+      "title": "اجاره آپارتمان 62 متری در قلمستان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-62-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%82%D9%84%D9%85%D8%B3%D8%AA%D8%A7%D9%86/AaumrD5y"
+    },
+    {
+      "title": "آپارتمان یک خوابه فول امکانات رهن کامل",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84/AaUyKeOm"
+    },
+    {
+      "title": "عظیمیه/120m/لوکیشن طلایی/نقشه بینظیر/فرصت محدود",
+      "link": "https://divar.ir/v/%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-120m-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%86%D9%82%D8%B4%D9%87-%D8%A8%DB%8C%D9%86%D8%B8%DB%8C%D8%B1-%D9%81%D8%B1%D8%B5%D8%AA-%D9%85%D8%AD%D8%AF%D9%88%D8%AF/Aar6PmHd"
+    },
+    {
+      "title": "۷۸متری",
+      "link": "https://divar.ir/v/%DB%B7%DB%B8%D9%85%D8%AA%D8%B1%DB%8C/AamCNM9K"
+    },
+    {
+      "title": "۱۰۰متر واحد و ۳۰متر مغازه بر ۱۶متری سعدی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D9%88-%DB%B3%DB%B0%D9%85%D8%AA%D8%B1-%D9%85%D8%BA%D8%A7%D8%B2%D9%87-%D8%A8%D8%B1-%DB%B1%DB%B6%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D8%B9%D8%AF%DB%8C/AauaL8mN"
+    },
+    {
+      "title": "۹۵ متر ۲ خواب نوساز .مهرشهر.حسین آباد.حیاط دار.پنت",
+      "link": "https://divar.ir/v/%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%AD%D8%B3%DB%8C%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%AF%D8%A7%D8%B1-%D9%BE%D9%86%D8%AA/AamkA5-n"
+    },
+    {
+      "title": "اجاره آپارتمان فول",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84/AaYamopo"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ متری ۱ خوابه طبقه ۱ در اکبرآباد",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%D8%A7%DA%A9%D8%A8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/AaL-SBxJ"
+    },
+    {
+      "title": "یه واحد ۸۵متری اجاره داده میشود",
+      "link": "https://divar.ir/v/%DB%8C%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-%D9%85%DB%8C%D8%B4%D9%88%D8%AF/Aauya8Nq"
+    },
+    {
+      "title": "اجاره واحد ۶۰متری منطقه ۴",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%DB%B4/AaqaRu-u"
+    },
+    {
+      "title": "رهن واحد مسکونی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C/AauerB0o"
+    },
+    {
+      "title": "اجاره واحد ۷۵ متری روبه نما",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%88%D8%A8%D9%87-%D9%86%D9%85%D8%A7/Aaua7vn0"
+    },
+    {
+      "title": "۹۰ متری رهن کامل",
+      "link": "https://divar.ir/v/%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84/AauWLzJ9"
+    },
+    {
+      "title": "رهن آپارتمان ۳۳۰ متری ۴ خوابه در مهرشهر - فاز ۱",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B4-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B1/Aak-zRnc"
+    },
+    {
+      "title": "135متر با پارکینگ اختصاصی و قابل تبدیل",
+      "link": "https://divar.ir/v/135%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%88-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84/AafWiG_z"
+    },
+    {
+      "title": "۱۵۳ متر /تخلیه/ نما رومی/ رو به خیابان/ رستاخیز",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B3-%D9%85%D8%AA%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D9%86%D9%85%D8%A7-%D8%B1%D9%88%D9%85%DB%8C-%D8%B1%D9%88-%D8%A8%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B1%D8%B3%D8%AA%D8%A7%D8%AE%DB%8C%D8%B2/AaFSiVDn"
+    },
+    {
+      "title": "اجاره ۸۰ متری /شیک/خوش نقشه/پر نور",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%DA%A9-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D9%BE%D8%B1-%D9%86%D9%88%D8%B1/Aatu7DHq"
+    },
+    {
+      "title": "۱۴۵ متر/ نوساز خوش نقشه/ سه خواب",
+      "link": "https://divar.ir/v/%DB%B1%DB%B4%DB%B5-%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8/AauCLmDP"
+    },
+    {
+      "title": "آپارتمان تک واحدی بسیار شیک",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%B4%DB%8C%DA%A9/AauOb6W5"
+    },
+    {
+      "title": "واحد ۷۵ متری دو خوابه در نزدیکی مترو",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%DB%8C-%D9%85%D8%AA%D8%B1%D9%88/AasOAti_"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۵۰ متری ۳ خوابه در فاز ۳ گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B3-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AauOr5fR"
+    },
+    {
+      "title": "اجاره آپارتمان ۲۸۰ متری ۳ خوابه در عظیمیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AaDtOOpK"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵ متری ۲ خوابه در عظیمیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AauKrcPQ"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۰۰ متری ۲ خوابه در مصباح",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D8%B5%D8%A8%D8%A7%D8%AD/Aaj-3eL7"
+    },
+    {
+      "title": "آپارتمان ۱۲۵ متری واقع در کوی زنبق",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%DA%A9%D9%88%DB%8C-%D8%B2%D9%86%D8%A8%D9%82/AauG7jyY"
+    },
+    {
+      "title": "ساماندهی میعاد ۱۳۵متر تک واحدی دو خوابه ط اول",
+      "link": "https://divar.ir/v/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D9%85%DB%8C%D8%B9%D8%A7%D8%AF-%DB%B1%DB%B3%DB%B5%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7-%D8%A7%D9%88%D9%84/AalGcUye"
+    },
+    {
+      "title": "واحد آپارتمان رهن اجاره گوهردشت",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B1%D9%87%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AauG7qq7"
+    },
+    {
+      "title": "۷۸متری فول دسترسی عالی",
+      "link": "https://divar.ir/v/%DB%B7%DB%B8%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C/AauGrYDd"
+    },
+    {
+      "title": "آپارتمان ۸۷متری باغستان اجاره",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B7%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AauG7XFl"
+    },
+    {
+      "title": "اجاره واحد ۱۳۵ متر دو خواب غرق در نور",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%BA%D8%B1%D9%82-%D8%AF%D8%B1-%D9%86%D9%88%D8%B1/AaiyA6Vs"
+    },
+    {
+      "title": "اجاره واحد خوش نقشه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/AapCJyVf"
+    },
+    {
+      "title": "آپارتمان 100متری طبقه اول 2خوابه در برغان",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-100%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%BA%D8%A7%D9%86/AauCbICo"
+    },
+    {
+      "title": "اجاره 75متری خیابان برزنت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-75%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%D8%B2%D9%86%D8%AA/AasWoHU4"
+    },
+    {
+      "title": "75 متری سند دار خیابان برزنت",
+      "link": "https://divar.ir/v/75-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%86%D8%AF-%D8%AF%D8%A7%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%D8%B2%D9%86%D8%AA/Aatu2lBD"
+    },
+    {
+      "title": "رهن آپارتمان ۱۴۰ متری ۲ خوابه طبقه ۱ در برغان",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%BA%D8%A7%D9%86/Aau-ac_u"
+    },
+    {
+      "title": "اپارتمان ۴۰ متر همکف روبروی مترو گلشهر کرج",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1-%D9%87%D9%85%DA%A9%D9%81-%D8%B1%D9%88%D8%A8%D8%B1%D9%88%DB%8C-%D9%85%D8%AA%D8%B1%D9%88-%DA%AF%D9%84%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC/AagaakTo"
+    },
+    {
+      "title": "آپارتمان ۲۳۰ متری سه خوابه در شهرک استادان",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%D8%A7%D9%86/Aau-qNIT"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۸۰ متری ۳ خوابه در گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/Aauuq_xJ"
+    },
+    {
+      "title": "۸۵ متر رهن،اجاره",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1-%D8%B1%D9%87%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/Aau6K6O0"
+    },
+    {
+      "title": "آپارتمان۱۲۵متری ۳خواب نوساز تخلیه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/Aau2KxFh"
+    },
+    {
+      "title": "اجاره اپارتمان در فازیک گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B2%DB%8C%DA%A9-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AaqOfXNG"
+    },
+    {
+      "title": "اجاره سوئیت ۵۰ متری زیر همکف در گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%B3%D9%88%D8%A6%DB%8C%D8%AA-%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B2%DB%8C%D8%B1-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/Aau2KnRR"
+    },
+    {
+      "title": "عظیمیه نوساز تکواحد ۳ خواب",
+      "link": "https://divar.ir/v/%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8/Aauy6aEp"
+    },
+    {
+      "title": "رهن کامل آپارتمان دو خواب ۸۰ متری(فوری)",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D8%B1%DB%8C/Aata40uM"
+    },
+    {
+      "title": "۹۵متر/کلیدنخورده",
+      "link": "https://divar.ir/v/%DB%B9%DB%B5%D9%85%D8%AA%D8%B1-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AauyKyc4"
+    },
+    {
+      "title": "۶۰متر آپارتمان واقع در برداریوش",
+      "link": "https://divar.ir/v/%DB%B6%DB%B0%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4/Aau26B39"
+    },
+    {
+      "title": "دو خوابه ۸۰ متری",
+      "link": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aauyasy1"
+    },
+    {
+      "title": "اپارتمان 105متر همکف حیاط دار",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-105%D9%85%D8%AA%D8%B1-%D9%87%D9%85%DA%A9%D9%81-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%AF%D8%A7%D8%B1/AaHubl6V"
+    },
+    {
+      "title": "گوهردشت ۱۷۰ متری بلوار انقلاب خیابان ۱۶",
+      "link": "https://divar.ir/v/%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%DB%B1%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%DB%B1%DB%B6/Aal242Pq"
+    },
+    {
+      "title": "۹۸ متر رهن و اجاره",
+      "link": "https://divar.ir/v/%DB%B9%DB%B8-%D9%85%D8%AA%D8%B1-%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AauuqakX"
+    },
+    {
+      "title": "۸۰ متر دو خواب",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8/AauyKafY"
+    },
+    {
+      "title": "۱۱۰م بنا ۶۳م حیاط پنت هاوس کلید نخورده رهن و اجاره",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B0%D9%85-%D8%A8%D9%86%D8%A7-%DB%B6%DB%B3%D9%85-%D8%AD%DB%8C%D8%A7%D8%B7-%D9%BE%D9%86%D8%AA-%D9%87%D8%A7%D9%88%D8%B3-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AagK67rW"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۴ متری ۲ خوابه در مطهری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D8%B7%D9%87%D8%B1%DB%8C/AacmHC0S"
+    },
+    {
+      "title": "فاز 4 مهرشهر خ 503",
+      "link": "https://divar.ir/v/%D9%81%D8%A7%D8%B2-4-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%AE-503/AalCnmBl"
+    },
+    {
+      "title": "۷۵ متر چهاراه هفت تیر طبقه اول آماده تخلیه",
+      "link": "https://divar.ir/v/%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D8%A7%D9%87-%D9%87%D9%81%D8%AA-%D8%AA%DB%8C%D8%B1-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/Aas2XuX7"
+    },
+    {
+      "title": "اجاره ۱۴۷متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B4%DB%B7%D9%85%D8%AA%D8%B1%DB%8C/AamiuT4K"
+    },
+    {
+      "title": "۸۷ متر طبقه اول رو به آفتاب با پارکینگ",
+      "link": "https://divar.ir/v/%DB%B8%DB%B7-%D9%85%D8%AA%D8%B1-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%B1%D9%88-%D8%A8%D9%87-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF/AaoSH3rZ"
+    },
+    {
+      "title": "طبقه اول باپارکینگ روبنما رهن کامل",
+      "link": "https://divar.ir/v/%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%A8%D8%A7%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B1%D9%88%D8%A8%D9%86%D9%85%D8%A7-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84/AasSTK3u"
+    },
+    {
+      "title": "واحد ۱۴۰ متری کلید نخورده ۲ بر غرق نور",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%DB%B2-%D8%A8%D8%B1-%D8%BA%D8%B1%D9%82-%D9%86%D9%88%D8%B1/Aas6hYwr"
+    },
+    {
+      "title": "یک واحد ۱۰۰ متری اداری",
+      "link": "https://divar.ir/v/%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C/AaumK9WJ"
+    },
+    {
+      "title": "۱۳۰متر(ارغوان شرقی)",
+      "link": "https://divar.ir/v/%DB%B1%DB%B3%DB%B0%D9%85%D8%AA%D8%B1-%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C/AaoiX5L6"
+    },
+    {
+      "title": "60 متر فول دیزاین غرق در نور بدون مشابه",
+      "link": "https://divar.ir/v/60-%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D8%AF%DB%8C%D8%B2%D8%A7%DB%8C%D9%86-%D8%BA%D8%B1%D9%82-%D8%AF%D8%B1-%D9%86%D9%88%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%A8%D9%87/AauiaMS3"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ گوهردشت و مواردمشابه ۱۷۰و۱۰۵و۱۵۰",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%D9%88-%D9%85%D9%88%D8%A7%D8%B1%D8%AF%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%DB%B1%DB%B7%DB%B0%D9%88%DB%B1%DB%B0%DB%B5%D9%88%DB%B1%DB%B5%DB%B0/AaGijOML"
+    },
+    {
+      "title": "اپارتمان یک روبروی درب جنوبی بلوار گلزار غربی",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%8C%DA%A9-%D8%B1%D9%88%D8%A8%D8%B1%D9%88%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%DA%AF%D9%84%D8%B2%D8%A7%D8%B1-%D8%BA%D8%B1%D8%A8%DB%8C/AauealHx"
+    },
+    {
+      "title": "اجاره واحد ۱۱۰ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aaue6PeF"
+    },
+    {
+      "title": "اجاره واحد نوساز",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/AaOiveYB"
+    },
+    {
+      "title": "رهن آپارتمان۷۵ متری ۲خواب اشتراکی شمالی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/Aaue6SCQ"
+    },
+    {
+      "title": "اجاره آپارتمان بلوار ارم سه راه شهرداری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85-%D8%B3%D9%87-%D8%B1%D8%A7%D9%87-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C/Aa_BGquc"
+    },
+    {
+      "title": "منزل مسکونی 50متر",
+      "link": "https://divar.ir/v/%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-50%D9%85%D8%AA%D8%B1/AauWq8AD"
+    },
+    {
+      "title": "همخونه میخام",
+      "link": "https://divar.ir/v/%D9%87%D9%85%D8%AE%D9%88%D9%86%D9%87-%D9%85%DB%8C%D8%AE%D8%A7%D9%85/Aas6aqPC"
+    },
+    {
+      "title": "۸۳ متر بوستان ۶ باغستان",
+      "link": "https://divar.ir/v/%DB%B8%DB%B3-%D9%85%D8%AA%D8%B1-%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86-%DB%B6-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86/AauS6kbm"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۸ متری ۲ خوابه در چمران",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%86%D9%85%D8%B1%D8%A7%D9%86/Aapeb-jD"
+    },
+    {
+      "title": "رهن آپارتمان نوساز 155 متری شمالی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-155-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AaQilb1Y"
+    },
+    {
+      "title": "رهن کامل آپارتمان 122 متری دو خواب نوساز",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-122-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/AarxnKzt"
+    },
+    {
+      "title": "اجاره",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AauKqsC-"
+    },
+    {
+      "title": "واحد ۸۵ متری",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/Aas-44QD"
+    },
+    {
+      "title": "۸۵متر رهن کامل دو خواب باز سازی شده",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5%D9%85%D8%AA%D8%B1-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/Aa4RK9er"
+    },
+    {
+      "title": "اجاره ۹۵متری بلوار ارم",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B9%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85/AauGKPpQ"
+    },
+    {
+      "title": "اجاره واحدمسکونی70متری درخرمدشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C70%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%D8%AE%D8%B1%D9%85%D8%AF%D8%B4%D8%AA/AauCa74Q"
+    },
+    {
+      "title": "رهن واحد ۶۰ متری به قیمت پارسال",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7%D9%84/AauC6uk7"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۶۰ متری ۳ خوابه در گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/Aaf2rBCD"
+    },
+    {
+      "title": "اجاره ۱۳۰ متر بهترین گلستان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/Aaue51P5"
+    },
+    {
+      "title": "اجاره اپارتمان ۸۰ متری عظیمیه(کاج)",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%DA%A9%D8%A7%D8%AC/Aau-Zvhm"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۶ متری ۲ خوابه در مهرشهر - فاز ۳",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B3/AaBG9hOu"
+    },
+    {
+      "title": "اپارتمان ۵۷ متری فوق العاده تمیز",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87-%D8%AA%D9%85%DB%8C%D8%B2/Aaqmrg8a"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۷ متری ۴۰۰دستگاه، لاله ها",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B4%DB%B0%DB%B0%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%84%D8%A7%D9%84%D9%87-%D9%87%D8%A7/Aau2ZvF-"
+    },
+    {
+      "title": "رهن آپارتمان نوساز",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/Aas2wkAj"
+    },
+    {
+      "title": "اجاره واحد همکف ۷۰ متری در منطقه آرام",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%87%D9%85%DA%A9%D9%81-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A2%D8%B1%D8%A7%D9%85/AauKxjwM"
+    },
+    {
+      "title": "رهن اپارتمان شیک بدون یک ریال خرج",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B4%DB%8C%DA%A9-%D8%A8%D8%AF%D9%88%D9%86-%DB%8C%DA%A9-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AE%D8%B1%D8%AC/AaoCxBBw"
+    },
+    {
+      "title": "آپارتمان ۱۰۰ متری ۲ اتاق خواب مهرویلا",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%A7%D8%AA%D8%A7%D9%82-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D9%87%D8%B1%D9%88%DB%8C%D9%84%D8%A7/Aaa6VYki"
+    },
+    {
+      "title": "اجاره آپارتمان فاز۴ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%A7%D8%B2%DB%B4-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aaaef-34"
+    },
+    {
+      "title": "آپارتمان 110متری رهن و اجاره",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-110%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/Aauq5tYC"
+    },
+    {
+      "title": "آپارتمان مصباح رهن کامل (دوسال ساخت)",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D8%B5%D8%A8%D8%A7%D8%AD-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D9%88%D8%B3%D8%A7%D9%84-%D8%B3%D8%A7%D8%AE%D8%AA/AauqZN1F"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۵ متری درزمینهای خانم انصاری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%D8%B2%D9%85%DB%8C%D9%86%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%D9%85-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%DB%8C/AapquJml"
+    },
+    {
+      "title": "رهن کامل آپارتمان ۷۳ متری در باغستان غربی شبنم ها",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%B4%D8%A8%D9%86%D9%85-%D9%87%D8%A7/Aaum53wI"
+    },
+    {
+      "title": "200متر ویلایی عظیمیه حافظ دربست",
+      "link": "https://divar.ir/v/200%D9%85%D8%AA%D8%B1-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D8%AD%D8%A7%D9%81%D8%B8-%D8%AF%D8%B1%D8%A8%D8%B3%D8%AA/Aaii7GQ5"
+    },
+    {
+      "title": "رهن و اجاره واحد ۶۰ متری",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AagiUKLn"
+    },
+    {
+      "title": "اجاره اپارتمان مهرشهر فاز دو ۱۸۳ متر مشاعات آبی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%81%D8%A7%D8%B2-%D8%AF%D9%88-%DB%B1%DB%B8%DB%B3-%D9%85%D8%AA%D8%B1-%D9%85%D8%B4%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A2%D8%A8%DB%8C/Aas9P47N"
+    },
+    {
+      "title": "واحد ۷۰ متری، ۱ خوابه، امام علی",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A7%D9%85%D8%A7%D9%85-%D8%B9%D9%84%DB%8C/AaY-1h8D"
+    },
+    {
+      "title": "یک واحد آپارتمان سه واحدی واقع در شهرک فهمیده",
+      "link": "https://divar.ir/v/%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D9%81%D9%87%D9%85%DB%8C%D8%AF%D9%87/AauWpPIG"
+    },
+    {
+      "title": "۸۰متر ۲خوابه فول",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D9%88%D9%84/AauWpv53"
+    },
+    {
+      "title": "آپارتمان جهت اجاره",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%AA-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AaPM8NHD"
+    },
+    {
+      "title": "آپارتمان ۱۰۴ متری طبقه اول",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84/Aak-PLRh"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵ متری ۱ خوابه طبقه ۳",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3/AaqtR4Sd"
+    },
+    {
+      "title": "اجاره اپارتمان مهرشهر گلستانک تکواحدی۷۰متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86%DA%A9-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C%DB%B7%DB%B0%D9%85%D8%AA%D8%B1%DB%8C/Aa4J754o"
+    },
+    {
+      "title": "واحد ۸۵ متری طبقه ۲",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%DB%B2/AauCpF0N"
+    },
+    {
+      "title": "اجاره واحد۹۵ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/Aau-4kLE"
+    },
+    {
+      "title": "اجاره اپارتمان ساماندهی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C/Aau64AoK"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۳۰ متری ۲ خوابه در گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AauyIX7I"
+    },
+    {
+      "title": "۸۰مترابریشم مارگون باپارکینگ مسقف",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0%D9%85%D8%AA%D8%B1%D8%A7%D8%A8%D8%B1%DB%8C%D8%B4%D9%85-%D9%85%D8%A7%D8%B1%DA%AF%D9%88%D9%86-%D8%A8%D8%A7%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%85%D8%B3%D9%82%D9%81/AaueoZ4G"
+    },
+    {
+      "title": "اجاره یک واحد مسکونی ۱۱۰ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AagSisW-"
+    },
+    {
+      "title": "75 متر دو خوابه کوی اتحاد",
+      "link": "https://divar.ir/v/75-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DA%A9%D9%88%DB%8C-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/AaX6YARF"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۶۰متری ۳خوابه باغستان غربی نیایش",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%86%DB%8C%D8%A7%DB%8C%D8%B4/AagmgH4j"
+    },
+    {
+      "title": "۱۰۵ متر فول//۲پارکینگ",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%DB%B2%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF/Aam-SHrk"
+    },
+    {
+      "title": "اجاره و رهن خانه ۸۰ متری در کیانمهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88-%D8%B1%D9%87%D9%86-%D8%AE%D8%A7%D9%86%D9%87-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%DB%8C%D8%A7%D9%86%D9%85%D9%87%D8%B1/AauiXsFT"
+    },
+    {
+      "title": "اجاره آپارتمان یکخوابه مبله با وسایل",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%85%D8%A8%D9%84%D9%87-%D8%A8%D8%A7-%D9%88%D8%B3%D8%A7%DB%8C%D9%84/AauaHveQ"
+    },
+    {
+      "title": "آپارتمان ۷۲ متری حیدر آباد ابتدای فاضلی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AD%DB%8C%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C-%D9%81%D8%A7%D8%B6%D9%84%DB%8C/AauKnpkQ"
+    },
+    {
+      "title": "رهن و اجاره",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/Aakq5YOj"
+    },
+    {
+      "title": "آقا هستم،هم خانه میشم(متدین باشن)",
+      "link": "https://divar.ir/v/%D8%A2%D9%82%D8%A7-%D9%87%D8%B3%D8%AA%D9%85-%D9%87%D9%85-%D8%AE%D8%A7%D9%86%D9%87-%D9%85%DB%8C%D8%B4%D9%85-%D9%85%D8%AA%D8%AF%DB%8C%D9%86-%D8%A8%D8%A7%D8%B4%D9%86/AauGmnEg"
+    },
+    {
+      "title": "اجاره",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AauGlDzj"
+    },
+    {
+      "title": "آپارتمان تک واحده مهدی آباد کیانمهر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%D9%87-%D9%85%D9%87%D8%AF%DB%8C-%D8%A2%D8%A8%D8%A7%D8%AF-%DA%A9%DB%8C%D8%A7%D9%86%D9%85%D9%87%D8%B1/AauykLIx"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ متری ۲ خوابه در ولیعصر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaMGpF9Y"
+    },
+    {
+      "title": "آپارتمان حدود ۴۵ متر کیانمهر شهرک علوی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AD%D8%AF%D9%88%D8%AF-%DB%B4%DB%B5-%D9%85%D8%AA%D8%B1-%DA%A9%DB%8C%D8%A7%D9%86%D9%85%D9%87%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B9%D9%84%D9%88%DB%8C/AaY-Mgup"
+    },
+    {
+      "title": "۱۵۰ متر/کلید نخورده/سوپر لوکس/رو به نما",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%B3%D9%88%D9%BE%D8%B1-%D9%84%D9%88%DA%A9%D8%B3-%D8%B1%D9%88-%D8%A8%D9%87-%D9%86%D9%85%D8%A7/AauSTzIp"
+    },
+    {
+      "title": "آپارتمان ۹۵ متری اتحاد گوهردشت",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AauWTGSa"
+    },
+    {
+      "title": "خیابان بوستان،۶۸ متر تک خواب",
+      "link": "https://divar.ir/v/%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86-%DB%B6%DB%B8-%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8/AauyC2vX"
+    },
+    {
+      "title": "۱۲۱ متر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B1-%D9%85%D8%AA%D8%B1/AauyCYhE"
+    },
+    {
+      "title": "با صفا پرنور .شمالی حیاط",
+      "link": "https://divar.ir/v/%D8%A8%D8%A7-%D8%B5%D9%81%D8%A7-%D9%BE%D8%B1%D9%86%D9%88%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%AD%DB%8C%D8%A7%D8%B7/Aau2h45G"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ متری ۲ خوابه در باغستان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86/AaIi24_T"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۵ متری ۲ خوابه در کمال‌شهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%A9%D9%85%D8%A7%D9%84-%D8%B4%D9%87%D8%B1/AauqhHe4"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۰ متری ۲ خوابه در کوی مهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%A9%D9%88%DB%8C-%D9%85%D9%87%D8%B1/AauWR5fe"
+    },
+    {
+      "title": "اجاره یک دستگاه آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AauaxdT1"
+    },
+    {
+      "title": "80 متری نقلی",
+      "link": "https://divar.ir/v/80-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D9%82%D9%84%DB%8C/AajCVriP"
+    },
+    {
+      "title": "اجاره آپارتمان۶۹متری ۲ خوابه طبقه ۱ در مصباح",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B6%DB%B9%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%D9%85%D8%B5%D8%A8%D8%A7%D8%AD/AaGaHB3q"
+    },
+    {
+      "title": "اجاره/رهن عظیمیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%B1%D9%87%D9%86-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AauGBp3g"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۶متری در مهرشهر فاز چهار کرج",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B6%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%81%D8%A7%D8%B2-%DA%86%D9%87%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AC/AauCBTeG"
+    },
+    {
+      "title": "اجاره ۸۰متری ۲خواب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B8%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8/Aau6wCwG"
+    },
+    {
+      "title": "رهن واحد مسکونی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C/AaSuTRqF"
+    },
+    {
+      "title": "آپارتمان 75 متری رهن",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-75-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%87%D9%86/AasWtVYD"
+    },
+    {
+      "title": "17شرقی قلم 2خاب",
+      "link": "https://divar.ir/v/17%D8%B4%D8%B1%D9%82%DB%8C-%D9%82%D9%84%D9%85-2%D8%AE%D8%A7%D8%A8/AauyAOBQ"
+    },
+    {
+      "title": "اجاره خانه ویلایی ۱۰۰ متری ۳ خوابه در فاز ۳ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B3-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AaumAvlG"
+    },
+    {
+      "title": "اجاره آپارتمان ۵۵ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AaqWdRNC"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۲۰ متری ۲ خوابه در گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/Aauag4pZ"
+    },
+    {
+      "title": "آپارتمان اجاره ای",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C/AatKerPe"
+    },
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AauSQXIK"
+    },
+    {
+      "title": "۱۱۱ متر ۳خواب (فول امکانات)",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B1-%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aan-U0NM"
+    },
+    {
+      "title": "اپارتمان فاز۵ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%A7%D8%B2%DB%B5-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AauCgqvH"
+    },
+    {
+      "title": "آپارتمان دوخوابه‌ خیابان مطهری انتهای ابوذر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%85%D8%B7%D9%87%D8%B1%DB%8C-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%DB%8C-%D8%A7%D8%A8%D9%88%D8%B0%D8%B1/Aat6vqI7"
+    },
+    {
+      "title": "اجاره آپارتمان ۶۰ متری ۱ خوابه طبقه ۳ در خرمدشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D8%AF%D8%B1-%D8%AE%D8%B1%D9%85%D8%AF%D8%B4%D8%AA/Aat2vMSH"
+    },
+    {
+      "title": "اپارتمان90 حیدراباد",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%8690-%D8%AD%DB%8C%D8%AF%D8%B1%D8%A7%D8%A8%D8%A7%D8%AF/Aatu_z_D"
+    },
+    {
+      "title": "آپارنمان ۹۸ متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D9%86%D9%85%D8%A7%D9%86-%DB%B9%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C/Aatuvn_u"
+    },
+    {
+      "title": "رهن فوری۲۵۰ فول امکانات",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%81%D9%88%D8%B1%DB%8C%DB%B2%DB%B5%DB%B0-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AaneF4jO"
+    },
+    {
+      "title": "واحد۹۰متری زنبق خ ارکیده",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%B2%D9%86%D8%A8%D9%82-%D8%AE-%D8%A7%D8%B1%DA%A9%DB%8C%D8%AF%D9%87/AatmvbXO"
+    },
+    {
+      "title": "بلوار ارم خیابان دوم شرقی آپارتمان ۱۳۰متری",
+      "link": "https://divar.ir/v/%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%AF%D9%88%D9%85-%D8%B4%D8%B1%D9%82%DB%8C-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B0%D9%85%D8%AA%D8%B1%DB%8C/AaQiojTW"
+    },
+    {
+      "title": "اجاره واحد ۸۵ متری در کرج",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC/Aat-l1fH"
+    },
+    {
+      "title": "اجاره آپارتمان۱۱۰متری۲خوابه اسدآبادخالی کلیدنخورده",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1%DB%8C%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF%D8%AE%D8%A7%D9%84%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AaZ6i1r2"
+    },
+    {
+      "title": "اجاره اپارتمان ۸۲متری بلوار امیر کبیر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D9%85%DB%8C%D8%B1-%DA%A9%D8%A8%DB%8C%D8%B1/AatW_R8V"
+    },
+    {
+      "title": "اپارتمان بلوارمولاناطبقه اول ۶۰۰میلیون رهن فوری",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A8%D9%84%D9%88%D8%A7%D8%B1%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%DB%B6%DB%B0%DB%B0%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%B1%D9%87%D9%86-%D9%81%D9%88%D8%B1%DB%8C/AaqqOXTm"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۵۴ متری میلاد ۴",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%DB%8C%D9%84%D8%A7%D8%AF-%DB%B4/AatSfu7z"
+    },
+    {
+      "title": "اپارتمان ۷۸ متری دو خواب",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8/AatOPbZs"
+    },
+    {
+      "title": "۸۴متر،دوخواب، لوکیشن عالی",
+      "link": "https://divar.ir/v/%DB%B8%DB%B4%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%B9%D8%A7%D9%84%DB%8C/AakGZhAE"
+    },
+    {
+      "title": "اجاره واحد ۷۰ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AahdZX1A"
+    },
+    {
+      "title": "رهن و اجاره واحد ۹۰ متری ۱ خوابه همکف در اسدآباد",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AF%D8%A2%D8%A8%D8%A7%D8%AF/AatCPxvJ"
+    },
+    {
+      "title": "اجاره آپارتمان دوخوابه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AasSRs89"
+    },
+    {
+      "title": "رهن و اجاره صبا یک",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%B5%D8%A8%D8%A7-%DB%8C%DA%A9/AatC_10O"
+    },
+    {
+      "title": "اجاره واحد ۷۰ متری دو خوابه طبقه اول تخلیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/Aat-uldp"
+    },
+    {
+      "title": "اجاره آپارتمان فول بازسازی و پر نور",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D9%BE%D8%B1-%D9%86%D9%88%D8%B1/AatCvdUY"
+    },
+    {
+      "title": "اپارتمان ۱۳۵ متری فروغی",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%B1%D9%88%D8%BA%DB%8C/Aat-O0dj"
+    },
+    {
+      "title": "همخانه",
+      "link": "https://divar.ir/v/%D9%87%D9%85%D8%AE%D8%A7%D9%86%D9%87/Aat-eLwy"
+    },
+    {
+      "title": "اجاره واحد مسکونی ۱۰۰ متری فول امکانات",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aat6OUEB"
+    },
+    {
+      "title": "واحد 95 بهر بلوار ارم کم واحد",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-95-%D8%A8%D9%87%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85-%DA%A9%D9%85-%D9%88%D8%A7%D8%AD%D8%AF/AaGC5Neh"
+    },
+    {
+      "title": "رهن کامل واحد بسیار تمیز فول امکانات",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AA%D9%85%DB%8C%D8%B2-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aatye2el"
+    },
+    {
+      "title": "رهن کامل واحد فول ۷۰ متری مهرشهر بوستان",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D9%88%D8%A7%D8%AD%D8%AF-%D9%81%D9%88%D9%84-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86/Aaty-XzM"
+    },
+    {
+      "title": "آپارتمان ۷۵ متری شاهین ویلا",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/AatyeN7l"
+    },
+    {
+      "title": "اجاره واحد ۷۵ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/Aatqel-g"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۳۰ متری ۲ خوابه در کوی مهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%A9%D9%88%DB%8C-%D9%85%D9%87%D8%B1/Aatqengc"
+    },
+    {
+      "title": "اپارتمان اجاره ای",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C/AatmOBS-"
+    },
+    {
+      "title": "۹۰ متر رودکی غربی",
+      "link": "https://divar.ir/v/%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%D8%AF%DA%A9%DB%8C-%D8%BA%D8%B1%D8%A8%DB%8C/AatmOXhu"
+    },
+    {
+      "title": "اجاره واحد ۵۰متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B5%DB%B0%D9%85%D8%AA%D8%B1%DB%8C/AaRmTgGP"
+    },
+    {
+      "title": "واحد نورگیر ۸۵ متری - نزدیک مترو کرج",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D9%85%D8%AA%D8%B1%D9%88-%DA%A9%D8%B1%D8%AC/AateO26h"
+    },
+    {
+      "title": "۷۴ متر دو خواب،اشتراکی شمالی باغستان",
+      "link": "https://divar.ir/v/%DB%B7%DB%B4-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86/AatSelMN"
+    },
+    {
+      "title": "رهن آپارتمان حسین آباد مهر شهر (قابل تبدیل )",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AD%D8%B3%DB%8C%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%85%D9%87%D8%B1-%D8%B4%D9%87%D8%B1-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84/AatCcF2J"
+    },
+    {
+      "title": "اجاره واحد 260متری فاز 1مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-260%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%A7%D8%B2-1%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AaPCJ7Gr"
+    },
+    {
+      "title": "اجاره ۱۵۰ متر ، فاز۲ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D9%81%D8%A7%D8%B2%DB%B2-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AajmjE6l"
+    },
+    {
+      "title": "اجاره یارهن اپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%D8%A7%D8%B1%D9%87%D9%86-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aat-tXDH"
+    },
+    {
+      "title": "اجاره واحد ۱۱۳ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B1%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C/AatCe7SP"
+    },
+    {
+      "title": "مهرشهر ساماندهی 95متر فول ویو پارک",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-95%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D9%88%DB%8C%D9%88-%D9%BE%D8%A7%D8%B1%DA%A9/AaeePerK"
+    },
+    {
+      "title": "۹۵متری خوش نقشه نورگیر",
+      "link": "https://divar.ir/v/%DB%B9%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1/AatC-OQs"
+    },
+    {
+      "title": "۸۰ متر ۲خواب",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8/Aat-NSI8"
+    },
+    {
+      "title": "آپارتمان ۶۵متری/ ۲خواب /پارکینگ /انباری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C/Aat-twki"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۳۵متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B5%D9%85%D8%AA%D8%B1%DB%8C/AaSGTsgV"
+    },
+    {
+      "title": "عظیمیه/270متر شاه نشین/لوکیشن دنج/آرامش مطلق",
+      "link": "https://divar.ir/v/%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-270%D9%85%D8%AA%D8%B1-%D8%B4%D8%A7%D9%87-%D9%86%D8%B4%DB%8C%D9%86-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%AF%D9%86%D8%AC-%D8%A2%D8%B1%D8%A7%D9%85%D8%B4-%D9%85%D8%B7%D9%84%D9%82/Aap-cxcP"
+    },
+    {
+      "title": "۱۳۵ متری / پارکینگ اختصاصی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C/Aat6NSuh"
+    },
+    {
+      "title": "رهن و اجاره اپارتمان",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaRePxiS"
+    },
+    {
+      "title": "۱۵۵متر/تخلیه/سمت نما/ ۱۳ ام رستاخیز",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B5%D9%85%D8%AA%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%B3%D9%85%D8%AA-%D9%86%D9%85%D8%A7-%DB%B1%DB%B3-%D8%A7%D9%85-%D8%B1%D8%B3%D8%AA%D8%A7%D8%AE%DB%8C%D8%B2/Aat6dTnE"
+    },
+    {
+      "title": "اجاره واحد در فاز ۲ مهرشهر ، با شرایط عالی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B2-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%A8%D8%A7-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%B9%D8%A7%D9%84%DB%8C/Aat2t9HQ"
+    },
+    {
+      "title": "اجاره آپارتمان 110متری لوکس دنج تخلیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-110%D9%85%D8%AA%D8%B1%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D8%AF%D9%86%D8%AC-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AaDW-a88"
+    },
+    {
+      "title": "رهن آپارتمان ۶۵ متری",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/Aaty9gZZ"
+    },
+    {
+      "title": "همخانه،همخونه بی دردسر",
+      "link": "https://divar.ir/v/%D9%87%D9%85%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D9%85%D8%AE%D9%88%D9%86%D9%87-%D8%A8%DB%8C-%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1/AatuN1cp"
+    },
+    {
+      "title": "اجاره واحد ۶۵متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B5%D9%85%D8%AA%D8%B1%DB%8C/Aatud8A2"
+    },
+    {
+      "title": "آپارتمان ۸۵ متری در بهارشرقی نوبهار",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%87%D8%A7%D8%B1%D8%B4%D8%B1%D9%82%DB%8C-%D9%86%D9%88%D8%A8%D9%87%D8%A7%D8%B1/AatuNmlI"
+    },
+    {
+      "title": "اجاره واحد ۶۵متری پیاده تامترو کرج ۵دقیقه دسترسی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%AA%D8%A7%D9%85%D8%AA%D8%B1%D9%88-%DA%A9%D8%B1%D8%AC-%DB%B5%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C/AatuNpF_"
+    },
+    {
+      "title": "سویت ۴۰متری ۱خواب فاز۱",
+      "link": "https://divar.ir/v/%D8%B3%D9%88%DB%8C%D8%AA-%DB%B4%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D8%A7%D8%B2%DB%B1/AapuoF9a"
+    },
+    {
+      "title": "۹۵متر فول بالای شریعتی",
+      "link": "https://divar.ir/v/%DB%B9%DB%B5%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-%D8%B4%D8%B1%DB%8C%D8%B9%D8%AA%DB%8C/AakuIAf4"
+    },
+    {
+      "title": "اجاره آپارتمان باغستان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86/AatidrGz"
+    },
+    {
+      "title": "واحد ۶۰ متری خیابان دوم اوقافی",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%AF%D9%88%D9%85-%D8%A7%D9%88%D9%82%D8%A7%D9%81%DB%8C/Aalqai_T"
+    },
+    {
+      "title": "اپارتمان 80 متری",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-80-%D9%85%D8%AA%D8%B1%DB%8C/AatatueE"
+    },
+    {
+      "title": "آپارتمان ۶۵ متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AatWtITt"
+    },
+    {
+      "title": "۱ واحد آپارتمان ۸۲ متر واقع در درختی",
+      "link": "https://divar.ir/v/%DB%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B2-%D9%85%D8%AA%D8%B1-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%D8%AF%D8%B1%D8%AE%D8%AA%DB%8C/AabSGbYI"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ متری ۲ خوابه طبقه ۳ در کرج نو",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC-%D9%86%D9%88/AatSNX_7"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۲۰ متری ۲ خوابه در شهرک ظفر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B8%D9%81%D8%B1/AatStOnu"
+    },
+    {
+      "title": "رهن و اجاره واحد 120متری در باغستان غربی لاله‌ها",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-120%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%84%D8%A7%D9%84%D9%87-%D9%87%D8%A7/AatKdlBX"
+    },
+    {
+      "title": "اجاره واحد مسکنی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%86%DB%8C/AatKt1Dc"
+    },
+    {
+      "title": "اجاره واحد ۷۵ متری ساسانی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B3%D8%A7%D9%86%DB%8C/AatK9CwJ"
+    },
+    {
+      "title": "آپارتمان ۶۵ متری شیک",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%DA%A9/AatGN_Vk"
+    },
+    {
+      "title": "آپارتمان ۹۰ متری بلال ۳ بازسازی کامل",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%84%D8%A7%D9%84-%DB%B3-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%84/AalSo6hA"
+    },
+    {
+      "title": "مهرشهر زنبق، ۷۵متر ۲خوابه با پارکینگ رو به آفتاب",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%A8%D9%82-%DB%B7%DB%B5%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B1%D9%88-%D8%A8%D9%87-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8/AapqM-89"
+    },
+    {
+      "title": "خانه ۷۰ متری در حصار خط ۴",
+      "link": "https://divar.ir/v/%D8%AE%D8%A7%D9%86%D9%87-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%AE%D8%B7-%DB%B4/AaX6EAV1"
+    },
+    {
+      "title": "مهرشهر زنبق، ۸۶ متر ۲خوابه و فول، سالن غرقِ نور",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%B2%D9%86%D8%A8%D9%82-%DB%B8%DB%B6-%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%88-%D9%81%D9%88%D9%84-%D8%B3%D8%A7%D9%84%D9%86-%D8%BA%D8%B1%D9%82%D9%90-%D9%86%D9%88%D8%B1/Aaoe48fI"
+    },
+    {
+      "title": "مهرشهر ، میعاد ۷۵متر ۲خوابه تخلیه تمیز رو به آفتاب",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%85%DB%8C%D8%B9%D8%A7%D8%AF-%DB%B7%DB%B5%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%AA%D9%85%DB%8C%D8%B2-%D8%B1%D9%88-%D8%A8%D9%87-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8/AaoyYeZh"
+    },
+    {
+      "title": "آپارتمان تک واحدی140متر2خواب.ساختمان2واحد،تخلیه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C140%D9%85%D8%AA%D8%B12%D8%AE%D9%88%D8%A7%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%862%D9%88%D8%A7%D8%AD%D8%AF-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AaNis1Ko"
+    },
+    {
+      "title": "۱۲۵ متر دو خواب فول . ساماندهی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C/AatyXpu2"
+    },
+    {
+      "title": "مهرشهر ، میعاد ۳خوابه و دو کله و دلباز و تک واحدی",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%85%DB%8C%D8%B9%D8%A7%D8%AF-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%88-%D8%AF%D9%88-%DA%A9%D9%84%D9%87-%D9%88-%D8%AF%D9%84%D8%A8%D8%A7%D8%B2-%D9%88-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/Aap-M8zw"
+    },
+    {
+      "title": "اجاره آپارتمان تخلیه (بازسازی شده)",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/AagyCqzk"
+    },
+    {
+      "title": "اجاره واحدمسکونی(آپارتمان)۷۳متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B3%D9%85%D8%AA%D8%B1%DB%8C/AafiS5DB"
+    },
+    {
+      "title": "اجاره اپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aat6s4pp"
+    },
+    {
+      "title": "هم خونه یا هم خانه",
+      "link": "https://divar.ir/v/%D9%87%D9%85-%D8%AE%D9%88%D9%86%D9%87-%DB%8C%D8%A7-%D9%87%D9%85-%D8%AE%D8%A7%D9%86%D9%87/Aatycg3J"
+    },
+    {
+      "title": "واحد ۶۵ متری طبقه اوا",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D8%A7/Aatq8Mwn"
+    },
+    {
+      "title": "۸۲ متر دو خواب کامل بازسازی شده",
+      "link": "https://divar.ir/v/%DB%B8%DB%B2-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D8%A7%D9%85%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/AaeKgSrZ"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵ متری ۲ خوابه همکف در شاهین‌ویلا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/Aatqs1yt"
+    },
+    {
+      "title": "اجاره ی واحد۹۰متری تک واحدی ۲خواب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C-%D9%88%D8%A7%D8%AD%D8%AF%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8/AaSyX2Pg"
+    },
+    {
+      "title": "آپارتمان ۶۲ متری، فول بازسازی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C/Aapmm-YV"
+    },
+    {
+      "title": "۷۸متر اجاره نزدیک باغ فاتح",
+      "link": "https://divar.ir/v/%DB%B7%DB%B8%D9%85%D8%AA%D8%B1-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%A8%D8%A7%D8%BA-%D9%81%D8%A7%D8%AA%D8%AD/AatmsuhX"
+    },
+    {
+      "title": "واحد ۷۲ متری بازسازی شده اجاره داده میشود",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-%D9%85%DB%8C%D8%B4%D9%88%D8%AF/AaQJ2Fom"
+    },
+    {
+      "title": "رهن و اجاره یکواحدآپارتمان۱۹۲متری جهانشهر",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B9%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%D8%B4%D9%87%D8%B1/AatmMtuO"
+    },
+    {
+      "title": "اجاره ۲۴۰ متری ورودی فاز ۱ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B2%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D9%81%D8%A7%D8%B2-%DB%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aahy4Clz"
+    },
+    {
+      "title": "اجاره آپارتمان ۶۰ متری ۱ خوابه طبقه ۵ در گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B5-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/Aam6O2Db"
+    },
+    {
+      "title": "اجاره ۲۵۰ متری ورودی فاز ۱ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B2%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D9%81%D8%A7%D8%B2-%DB%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AaniDGzi"
+    },
+    {
+      "title": "۱۰۰ متر دو خواب شبنم۳",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B4%D8%A8%D9%86%D9%85%DB%B3/AateaEYW"
+    },
+    {
+      "title": "آپارتمان نوساز/۹۰ متر/ فاز۴ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1-%D9%81%D8%A7%D8%B2%DB%B4-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aati875H"
+    },
+    {
+      "title": "130متر عظیمیه راوش رهن و اجاره",
+      "link": "https://divar.ir/v/130%D9%85%D8%AA%D8%B1-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D8%B1%D8%A7%D9%88%D8%B4-%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/Aates7Es"
+    },
+    {
+      "title": "۱۴۰ متر کلید نخورده لاله ها",
+      "link": "https://divar.ir/v/%DB%B1%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%84%D8%A7%D9%84%D9%87-%D9%87%D8%A7/AataML87"
+    },
+    {
+      "title": "اپارتمان ۶۵ متری برای اجاره",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/Aata8XCK"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵ متری ۱ خوابه همکف در گلدشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%AF%D8%B1-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA/AaKKECRV"
+    },
+    {
+      "title": "رهن / تاپ لوکیشن / نورگیر",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1/AatOrYIr"
+    },
+    {
+      "title": "اجاره آپارتمان ۵۵ متری ۱ خوابه طبقه ۱ در گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AatW8MGN"
+    },
+    {
+      "title": "اجاره آپارتمان تک واحدی۹۰متری همکف حسین آبادمهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%87%D9%85%DA%A9%D9%81-%D8%AD%D8%B3%DB%8C%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AaUmrXgc"
+    },
+    {
+      "title": "۶۰متر۱خوابه شیک وتمیزاول آزادگان برغان",
+      "link": "https://divar.ir/v/%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%B1%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%DA%A9-%D9%88%D8%AA%D9%85%DB%8C%D8%B2%D8%A7%D9%88%D9%84-%D8%A2%D8%B2%D8%A7%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%BA%D8%A7%D9%86/AaWGQWgq"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵ متری ۲ خوابه طبقه ۴ در دولت‌آباد",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B4-%D8%AF%D8%B1-%D8%AF%D9%88%D9%84%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF/AatSsvQz"
+    },
+    {
+      "title": "آپارتمان ۱۱۰متری عظیمیه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AatS8MEe"
+    },
+    {
+      "title": "اجاره۱۵۴متری/باغستان غربی/نیایش ها/۴تک واحد",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87%DB%B1%DB%B5%DB%B4%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%86%DB%8C%D8%A7%DB%8C%D8%B4-%D9%87%D8%A7-%DB%B4%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF/AatOMl8u"
+    },
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaUamKUo"
+    },
+    {
+      "title": "رهن آپارتمان ۵۵ متری ۱ خوابه طبقه ۴ در گلشهر",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B4-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AatOsJSL"
+    },
+    {
+      "title": "یک واحد ۱۲۵ متری اجاره‌ای",
+      "link": "https://divar.ir/v/%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C/AaQyFAWY"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ متری جهانشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%D8%B4%D9%87%D8%B1/AaH6lLRq"
+    },
+    {
+      "title": "آپارتمان تک واحدی 130 متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-130-%D9%85%D8%AA%D8%B1%DB%8C/AatO8CId"
+    },
+    {
+      "title": "۸۵ متر کوی اتحاد/ بازسازی شده",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1-%DA%A9%D9%88%DB%8C-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/Aa2ViorD"
+    },
+    {
+      "title": "90متری زنبق ها ط پایین",
+      "link": "https://divar.ir/v/90%D9%85%D8%AA%D8%B1%DB%8C-%D8%B2%D9%86%D8%A8%D9%82-%D9%87%D8%A7-%D8%B7-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86/AatKsMYO"
+    },
+    {
+      "title": "اجاره ۱۳۰ متر دوخوابه گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AaWuydpE"
+    },
+    {
+      "title": "رهن آپارتمان در شاهین‌ویلا",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/Aa31KOb3"
+    },
+    {
+      "title": "۵۷ متری / اصلی شاهین ویلا / بسیار تمیز",
+      "link": "https://divar.ir/v/%DB%B5%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AA%D9%85%DB%8C%D8%B2/AakqimdP"
+    },
+    {
+      "title": "آپارتمان ۱۷۰متری سه خوابه عظیمیه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B7%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AapWKf0t"
+    },
+    {
+      "title": "رهن اجاره حتی فروشی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AD%D8%AA%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%DB%8C/Aaqyo1iY"
+    },
+    {
+      "title": "۱۱۵ متر کلید نخورده قلب عظیمیه لاکچری ۱۵ واحدی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%82%D9%84%D8%A8-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-%DB%B1%DB%B5-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AatGsFqL"
+    },
+    {
+      "title": "اجاره واحد ۸۴ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C/AatG8LZ-"
+    },
+    {
+      "title": "135متر سه خواب دوکله دهقان ویلای اول",
+      "link": "https://divar.ir/v/135%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88%DA%A9%D9%84%D9%87-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7%DB%8C-%D8%A7%D9%88%D9%84/AaeafqhC"
+    },
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AatC8m39"
+    },
+    {
+      "title": "رهن و اجاره آپارتمان ۷۵ متری در گلشهر",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AatCMIon"
+    },
+    {
+      "title": "خانه",
+      "link": "https://divar.ir/v/%D8%AE%D8%A7%D9%86%D9%87/Aat-bvii"
+    },
+    {
+      "title": "رهن آپارتمان نبوت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D8%A8%D9%88%D8%AA/Aat-L8lt"
+    },
+    {
+      "title": "۱۱۰متر با یک تراسو یک حیاط خلوت",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%DB%8C%DA%A9-%D8%AA%D8%B1%D8%A7%D8%B3%D9%88-%DB%8C%DA%A9-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%AE%D9%84%D9%88%D8%AA/Aat-bfPo"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۰ متری در حصارک بالا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AD%D8%B5%D8%A7%D8%B1%DA%A9-%D8%A8%D8%A7%D9%84%D8%A7/AalGt167"
+    },
+    {
+      "title": "80 متر شمالی شبنم ۱۰",
+      "link": "https://divar.ir/v/80-%D9%85%D8%AA%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%B4%D8%A8%D9%86%D9%85-%DB%B1%DB%B0/Aat676dS"
+    },
+    {
+      "title": "اجاره آپارتمان ۳ خوابه با دو‌پارکینگ سندی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D8%A7-%D8%AF%D9%88-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B3%D9%86%D8%AF%DB%8C/Aat67f51"
+    },
+    {
+      "title": "اپارتمان اجاره ای",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C/Aat6bE8S"
+    },
+    {
+      "title": "اجاره آپارتمان ۶۷ متری ۱ خوابه در ساماندهی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C/Aat6bEqP"
+    },
+    {
+      "title": "۸۰ متر ۲ خواب کیانمهر",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%DB%8C%D8%A7%D9%86%D9%85%D9%87%D8%B1/AaCG1m8_"
+    },
+    {
+      "title": "اجاره واحد تمیز و تخلیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AA%D9%85%DB%8C%D8%B2-%D9%88-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/Aasea1qf"
+    },
+    {
+      "title": "۱۰۰متر/رو به نما و خیابان/خوش نقشه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1-%D8%B1%D9%88-%D8%A8%D9%87-%D9%86%D9%85%D8%A7-%D9%88-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/AaiSh4Mm"
+    },
+    {
+      "title": "۱۱۵ متر دو خواب کلید نخورده زیر قیمت منطقه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%B2%DB%8C%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D9%86%D8%B7%D9%82%D9%87/AatyLN_R"
+    },
+    {
+      "title": "اجاره ۹۹متری/ باغستان غربی/نیایش ها/روبه آفتاب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B9%DB%B9%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%86%DB%8C%D8%A7%DB%8C%D8%B4-%D9%87%D8%A7-%D8%B1%D9%88%D8%A8%D9%87-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8/AalS4Xiv"
+    },
+    {
+      "title": "150 متر / 3 خواب / نوساز کلید نخورده",
+      "link": "https://divar.ir/v/150-%D9%85%D8%AA%D8%B1-3-%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AatqbUM-"
+    },
+    {
+      "title": "آپارتمان ۱۱۵ متر مهرشهر فاز ۲",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B2/Aatu7WGz"
+    },
+    {
+      "title": "اجاره واحد ۱۲۲ متری نوساز شهرک کوثر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B2%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%B4%D9%87%D8%B1%DA%A9-%DA%A9%D9%88%D8%AB%D8%B1/AatSbJQA"
+    },
+    {
+      "title": "اجاره آپارتمان ۵۰ متری ۱ خوابه طبقه ۲ در کرج نو",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B2-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC-%D9%86%D9%88/Aatqrvvq"
+    },
+    {
+      "title": "اپارتمان ۵۵ متری( اول خیابان ابوذر )",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D9%88%D9%84-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A7%D8%A8%D9%88%D8%B0%D8%B1/AaIm9ie6"
+    },
+    {
+      "title": "آپارتمان68 متر سونا و وان",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%8668-%D9%85%D8%AA%D8%B1-%D8%B3%D9%88%D9%86%D8%A7-%D9%88-%D9%88%D8%A7%D9%86/Aayl1oLu"
+    },
+    {
+      "title": "۲۱۵ متر فول فاز ۲",
+      "link": "https://divar.ir/v/%DB%B2%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D9%81%D8%A7%D8%B2-%DB%B2/AatiLXSb"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۰۰ متری ۲ خوابه در شاهین‌ویلا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/Aater__e"
+    },
+    {
+      "title": "140متر /سه خواب/ تاپ لوکشین /ویو ابدی",
+      "link": "https://divar.ir/v/140%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%D8%B4%DB%8C%D9%86-%D9%88%DB%8C%D9%88-%D8%A7%D8%A8%D8%AF%DB%8C/AatabHlf"
+    },
+    {
+      "title": "خانه ۹۰ متری پیشاهنگی",
+      "link": "https://divar.ir/v/%D8%AE%D8%A7%D9%86%D9%87-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%DB%8C%D8%B4%D8%A7%D9%87%D9%86%DA%AF%DB%8C/AaQeJN-I"
+    },
+    {
+      "title": "مهرشهر بلوار ارم دوم شرقی ، دوخوابه",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85-%D8%AF%D9%88%D9%85-%D8%B4%D8%B1%D9%82%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AatW7tJt"
+    },
+    {
+      "title": "۸۵ متری دوخوابه",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AalSoAcg"
+    },
+    {
+      "title": "65متر تخلیه کوکب غربی",
+      "link": "https://divar.ir/v/65%D9%85%D8%AA%D8%B1-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%DA%A9%D9%88%DA%A9%D8%A8-%D8%BA%D8%B1%D8%A8%DB%8C/AatW7Or8"
+    },
+    {
+      "title": "80متر 2خواب مرتب/دهقان ویلای ۲",
+      "link": "https://divar.ir/v/80%D9%85%D8%AA%D8%B1-2%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B1%D8%AA%D8%A8-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7%DB%8C-%DB%B2/AatWbVAX"
+    },
+    {
+      "title": "اجاره فوری واحد ۷۰ متری به مجرد موجه و خانواده",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%81%D9%88%D8%B1%DB%8C-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%87-%D9%85%D8%AC%D8%B1%D8%AF-%D9%85%D9%88%D8%AC%D9%87-%D9%88-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87/AatO78GJ"
+    },
+    {
+      "title": "۷۰متر سندی .پارکینگ اختصاصی",
+      "link": "https://divar.ir/v/%DB%B7%DB%B0%D9%85%D8%AA%D8%B1-%D8%B3%D9%86%D8%AF%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C/AabukqTV"
+    },
+    {
+      "title": "آپارتمان ۱۵۰ متر خ پاک پشت ساختمان تندیس",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AE-%D9%BE%D8%A7%DA%A9-%D9%BE%D8%B4%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%D9%86%D8%AF%DB%8C%D8%B3/AatO7qiI"
+    },
+    {
+      "title": "اجاره 240متر/ فاز2گوهردشت/ 4خوابه/ آگهی دهنده مالک",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-240%D9%85%D8%AA%D8%B1-%D9%81%D8%A7%D8%B22%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-4%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A2%DA%AF%D9%87%DB%8C-%D8%AF%D9%87%D9%86%D8%AF%D9%87-%D9%85%D8%A7%D9%84%DA%A9/Aao2zlgi"
+    },
+    {
+      "title": "۸۸متر ۲خواب رنگ و نقاشی تمیز",
+      "link": "https://divar.ir/v/%DB%B8%DB%B8%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%B1%D9%86%DA%AF-%D9%88-%D9%86%D9%82%D8%A7%D8%B4%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2/AacqDi_H"
+    },
+    {
+      "title": "اجاره واحد 112متر، روبه نما ، ارغوان غربی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-112%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%D8%A8%D9%87-%D9%86%D9%85%D8%A7-%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C/AamesKnU"
+    },
+    {
+      "title": "اجاره ۱۴۳ متر ۳ خواب رستاخیز گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B4%DB%B3-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B1%D8%B3%D8%AA%D8%A7%D8%AE%DB%8C%D8%B2-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AamNkD8d"
+    },
+    {
+      "title": "اجاره واحد آسانسوردار",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A2%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%B1/Aal-Igum"
+    },
+    {
+      "title": "اجاره واحد مسکونی بر میثم دوم املاک فرهنگی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D8%A8%D8%B1-%D9%85%DB%8C%D8%AB%D9%85-%D8%AF%D9%88%D9%85-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C/AaqeswHZ"
+    },
+    {
+      "title": "138اجاره",
+      "link": "https://divar.ir/v/138%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AaLGifrx"
+    },
+    {
+      "title": "۸۵متر فوق العاده تمیز",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87-%D8%AA%D9%85%DB%8C%D8%B2/Aap6KnWl"
+    },
+    {
+      "title": "۷۵ متری خوش نقشه",
+      "link": "https://divar.ir/v/%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/Aata3v-8"
+    },
+    {
+      "title": "اجاره آپارتمان به مجردوخانواده میدم جاپارکینگ دارد",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D9%85%D8%AC%D8%B1%D8%AF%D9%88%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D9%85%DB%8C%D8%AF%D9%85-%D8%AC%D8%A7%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%AF%D8%A7%D8%B1%D8%AF/Aat2a-a7"
+    },
+    {
+      "title": "اجاره آپارتمان مهرشهر گلستان یکم 70 متر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%DB%8C%DA%A9%D9%85-70-%D9%85%D8%AA%D8%B1/AamS-Al3"
+    },
+    {
+      "title": "رهن کامل در خرمدشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D8%B1-%D8%AE%D8%B1%D9%85%D8%AF%D8%B4%D8%AA/Aaf-47D8"
+    },
+    {
+      "title": "130 متر اجاره اپارتمان",
+      "link": "https://divar.ir/v/130-%D9%85%D8%AA%D8%B1-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaWq-QAb"
+    },
+    {
+      "title": "اپارتمان اجاره ارغوان غربی",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C/Aan60Fsh"
+    },
+    {
+      "title": "105 متری اجاره ای خیابان تاجداری لوکس",
+      "link": "https://divar.ir/v/105-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D8%A7%D8%AC%D8%AF%D8%A7%D8%B1%DB%8C-%D9%84%D9%88%DA%A9%D8%B3/Aaty6Jjn"
+    },
+    {
+      "title": "آپارتمان ۲۸۰متری سه خوابه عظیمیه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B8%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AatuqsFg"
+    },
+    {
+      "title": "رهن آپارتمان ۱۸۰ متری ۳ خوابه در گوهردشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AafyabTQ"
+    },
+    {
+      "title": "آپارتمان دو خوابه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AatWqvZb"
+    },
+    {
+      "title": "اجاره واحد ۱۵۰ متری سه خواب در میلاد ها تخلیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D8%B1-%D9%85%DB%8C%D9%84%D8%A7%D8%AF-%D9%87%D8%A7-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AatWahvk"
+    },
+    {
+      "title": "اجاره",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AatWapnL"
+    },
+    {
+      "title": "رهن و اجاره آپارتمان در گلشهر ویلا",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1-%D9%88%DB%8C%D9%84%D8%A7/AatSq8nP"
+    },
+    {
+      "title": "آپارتمان اجاره ای ۹۵ متری خیام شرقی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D9%85-%D8%B4%D8%B1%D9%82%DB%8C/AatOakko"
+    },
+    {
+      "title": "اجاره نشینی دربهترین منظره دنیا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%AF%D8%B1%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D9%86%D8%B8%D8%B1%D9%87-%D8%AF%D9%86%DB%8C%D8%A7/AakqkM0N"
+    },
+    {
+      "title": "75متر رهن کامل دهقان ویلا اول",
+      "link": "https://divar.ir/v/75%D9%85%D8%AA%D8%B1-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D8%A7%D9%88%D9%84/AatKqsnO"
+    },
+    {
+      "title": "اجاره منزل دو طبقه در مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%85%D9%86%D8%B2%D9%84-%D8%AF%D9%88-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AaeV30C8"
+    },
+    {
+      "title": "آپارتمان ۷۵ متری بلوار خوارزمی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%DB%8C/AatG65BJ"
+    },
+    {
+      "title": "رهن و اجاره واحد مسکونی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C/AatKqFVk"
+    },
+    {
+      "title": "58متر/1خواب/طبقه اول/اوایل میعاد",
+      "link": "https://divar.ir/v/58%D9%85%D8%AA%D8%B1-1%D8%AE%D9%88%D8%A7%D8%A8-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%A7%D9%88%D8%A7%DB%8C%D9%84-%D9%85%DB%8C%D8%B9%D8%A7%D8%AF/Aamm9VPF"
+    },
+    {
+      "title": "رهن و اجاره واحد مسکونی گوهردشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/Aat6ZyPJ"
+    },
+    {
+      "title": "اجاره یه واحد مسکونی ۸۰ متری یکخواب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D8%A8/Aat6plNN"
+    },
+    {
+      "title": "منزل مسکونی فاز۴",
+      "link": "https://divar.ir/v/%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D9%81%D8%A7%D8%B2%DB%B4/Aat6pot7"
+    },
+    {
+      "title": "باغستان رهن و اجاره نوساز کلیدنخورده ۱۸۰ متر",
+      "link": "https://divar.ir/v/%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%DB%B1%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1/AagOKQ7N"
+    },
+    {
+      "title": "رهن و اجاره واحد صد متری دو خواب عظیمیه",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B5%D8%AF-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AacaFNqo"
+    },
+    {
+      "title": "اجاره آپارتمان به مجرد موجه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D9%85%D8%AC%D8%B1%D8%AF-%D9%85%D9%88%D8%AC%D9%87/Aatqp1C2"
+    },
+    {
+      "title": "هم خونه اپارتمان ۷۰ متری خ بهشتی",
+      "link": "https://divar.ir/v/%D9%87%D9%85-%D8%AE%D9%88%D9%86%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C/AatypO7T"
+    },
+    {
+      "title": "۷۵ متری۲خواب همکف",
+      "link": "https://divar.ir/v/%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%87%D9%85%DA%A9%D9%81/Aatu5t5g"
+    },
+    {
+      "title": "اجاره آپارتمان اداری تجاریتخلیه ۸۰ متری ۲ خوابه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AatqJ6c0"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۰ متری ۲ خوابه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AatiJldi"
+    },
+    {
+      "title": "۹۵متر/ اشتراکی شمالی/ گلستان ۲۲/ در حال تخلیه",
+      "link": "https://divar.ir/v/%DB%B9%DB%B5%D9%85%D8%AA%D8%B1-%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%DB%B2%DB%B2-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AaZ6eEGf"
+    },
+    {
+      "title": "اجاره آپارتمان جهانشهر/۸۵متر/طبقه اول",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86%D8%B4%D9%87%D8%B1-%DB%B8%DB%B5%D9%85%D8%AA%D8%B1-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84/Aate5jyB"
+    },
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AatepqSk"
+    },
+    {
+      "title": "فروش یا اجاره اپارتمان",
+      "link": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%8C%D8%A7-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaQ2KAdz"
+    },
+    {
+      "title": "اجاره ۵۰متری گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B5%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AapGHlOY"
+    },
+    {
+      "title": "اجاره آپارتمان/پارکینگ شماره گذاری شده/شیک و زیبا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B4%D8%AF%D9%87-%D8%B4%DB%8C%DA%A9-%D9%88-%D8%B2%DB%8C%D8%A8%D8%A7/AataZNwH"
+    },
+    {
+      "title": "۹۸ متر زیر قیمت مجتمع استاندارد",
+      "link": "https://divar.ir/v/%DB%B9%DB%B8-%D9%85%D8%AA%D8%B1-%D8%B2%DB%8C%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF/AatapBMk"
+    },
+    {
+      "title": "رهن آپارتمان ۱۱۰ متری ۲ خوابه در فاز ۳ گوهردشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B3-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AakqrCmi"
+    },
+    {
+      "title": "رهن اجاره خرمدشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AE%D8%B1%D9%85%D8%AF%D8%B4%D8%AA/AatWoWPh"
+    },
+    {
+      "title": "عظیمه/بلواراستقلال/کلیدنخورده/هرواحد۲پارک",
+      "link": "https://divar.ir/v/%D8%B9%D8%B8%DB%8C%D9%85%D9%87-%D8%A8%D9%84%D9%88%D8%A7%D8%B1%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%87%D8%B1%D9%88%D8%A7%D8%AD%D8%AF%DB%B2%D9%BE%D8%A7%D8%B1%DA%A9/AatWZGY_"
+    },
+    {
+      "title": "رهن آپارتمان ۷۵ متری ۲ خوابه در ساسانی (قلمستان)",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B3%D8%A7%D8%B3%D8%A7%D9%86%DB%8C-%D9%82%D9%84%D9%85%D8%B3%D8%AA%D8%A7%D9%86/AatWJEPf"
+    },
+    {
+      "title": "آپارتمان۵۵متری/ فول امکانات",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B5%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AatSp4QN"
+    },
+    {
+      "title": "۱۱۰ متر پارکینگ اختصاصی فول",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%81%D9%88%D9%84/AatO5DNs"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵متری فاز ۴ مهرشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%A7%D8%B2-%DB%B4-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aaz1oPnA"
+    },
+    {
+      "title": "۱۱۲ متر در جهانشهر",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B2-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%D8%B4%D9%87%D8%B1/AajqDA6v"
+    },
+    {
+      "title": "واحد اجاره ای 100متری",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-100%D9%85%D8%AA%D8%B1%DB%8C/AatGpkcT"
+    },
+    {
+      "title": "۱۴۰ متری تک واحدی",
+      "link": "https://divar.ir/v/%DB%B1%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/Aat-4sdk"
+    },
+    {
+      "title": "۱۵۳ متر /فاز ۲ کلید نخورده / سوپر سازه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B3-%D9%85%D8%AA%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B2-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%B3%D9%88%D9%BE%D8%B1-%D8%B3%D8%A7%D8%B2%D9%87/Aat6Y5eC"
+    },
+    {
+      "title": "۶۰متری طبقه دوم",
+      "link": "https://divar.ir/v/%DB%B6%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85/Aat6I-aD"
+    },
+    {
+      "title": "125متر سه خواب خیابان نهم فاز 2",
+      "link": "https://divar.ir/v/125%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%86%D9%87%D9%85-%D9%81%D8%A7%D8%B2-2/Aat2Yg5h"
+    },
+    {
+      "title": "۱۰۵ متر آپارتمان بسیار تمیز و شیک فاز یک",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AA%D9%85%DB%8C%D8%B2-%D9%88-%D8%B4%DB%8C%DA%A9-%D9%81%D8%A7%D8%B2-%DB%8C%DA%A9/Aat2Iw-C"
+    },
+    {
+      "title": "اجاره آپارتمان 90 متری جهانشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-90-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%D8%B4%D9%87%D8%B1/AatyYrOU"
+    },
+    {
+      "title": "اجاره آپارتمان عظیمیه/زنبق های غربی/آفتاب گیر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D8%B2%D9%86%D8%A8%D9%82-%D9%87%D8%A7%DB%8C-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8-%DA%AF%DB%8C%D8%B1/AatyoLB7"
+    },
+    {
+      "title": "مهرشهر کرج واحد دوخوابه ۹۲ متری رهن کامل",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%DA%A9%D8%B1%D8%AC-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B9%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84/AakqN5aX"
+    },
+    {
+      "title": "رهن و اجاره",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AatuIUtB"
+    },
+    {
+      "title": "اجاره اپارتمان ۷۵ متری ۲ خواب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8/AatmY-58"
+    },
+    {
+      "title": "۶۰ متر حیدرآباد کوچه ۷ تیر",
+      "link": "https://divar.ir/v/%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AD%DB%8C%D8%AF%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF-%DA%A9%D9%88%DA%86%D9%87-%DB%B7-%D8%AA%DB%8C%D8%B1/AatmYIyn"
+    },
+    {
+      "title": "اجاره منزل مسکونی ۷۰ متری تمیز",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D9%85%DB%8C%D8%B2/AatmI7SX"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۶ متری ۲ خوابه طبقه ۱در شاهین‌ویلا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1%D8%AF%D8%B1-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7/AatmYRW-"
+    },
+    {
+      "title": "رهن آپارتمان ۶۵ متری ۱ خوابه طبقه ۲ ،حیاط دار",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B2-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%AF%D8%A7%D8%B1/Aat-3Ijv"
+    },
+    {
+      "title": "198 متری 3 خواب تک واحدی طبقه دوم",
+      "link": "https://divar.ir/v/198-%D9%85%D8%AA%D8%B1%DB%8C-3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85/AateYLXQ"
+    },
+    {
+      "title": "75 متر تک خواب",
+      "link": "https://divar.ir/v/75-%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8/AatOIzDz"
+    },
+    {
+      "title": "آپارتمان ۱۱۵ متر دوخواب",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8/AataYaXR"
+    },
+    {
+      "title": "اجاره آپارتمان 80 متری در محمود اباد کرج",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-80-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%A7%D8%A8%D8%A7%D8%AF-%DA%A9%D8%B1%D8%AC/AataICVA"
+    },
+    {
+      "title": "اجاره آپارتمان ۶۰ متری ۲ خوابه طبقه ۳ در حیدرآباد",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D8%AF%D8%B1-%D8%AD%DB%8C%D8%AF%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/AaW2hZz0"
+    },
+    {
+      "title": "آپارتمان ۱۱۵ متری گوهردشت",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AatOYP0t"
+    },
+    {
+      "title": "رهن کامل جهان نما",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D8%AC%D9%87%D8%A7%D9%86-%D9%86%D9%85%D8%A7/AatKIYxd"
+    },
+    {
+      "title": "رهن اپارتمان ۶۱متری چهار راه طالاقانی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B1%D9%85%D8%AA%D8%B1%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D8%A7%D9%87-%D8%B7%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%86%DB%8C/AaUykouo"
+    },
+    {
+      "title": "۶۵ متر طبقه اول کوچه ۱۲ شرقی قلم کوچه چمران",
+      "link": "https://divar.ir/v/%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%DA%A9%D9%88%DA%86%D9%87-%DB%B1%DB%B2-%D8%B4%D8%B1%D9%82%DB%8C-%D9%82%D9%84%D9%85-%DA%A9%D9%88%DA%86%D9%87-%DA%86%D9%85%D8%B1%D8%A7%D9%86/AaQ2lrzs"
+    },
+    {
+      "title": "۸۰ متر دوخوابه بین ۱۳ و۱۴ ثلم",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%DB%8C%D9%86-%DB%B1%DB%B3-%D9%88%DB%B1%DB%B4-%D8%AB%D9%84%D9%85/AajKwTOg"
+    },
+    {
+      "title": "۶۳ متر آپارتمان ۲ خواب",
+      "link": "https://divar.ir/v/%DB%B6%DB%B3-%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8/AatGYVIU"
+    },
+    {
+      "title": "رهن و اجاره در حسن آباد",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AF%D8%B1-%D8%AD%D8%B3%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF/AatCY3VF"
+    },
+    {
+      "title": "اجاره آپارتمان شهرک خاتم الانبیا",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AE%D8%A7%D8%AA%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%A8%DB%8C%D8%A7/Aab-RHdL"
+    },
+    {
+      "title": "۵۵متر/ ۱خ/ ویودار/اجاره به مجرد/ چندقدم تا بهشتی",
+      "link": "https://divar.ir/v/%DB%B5%DB%B5%D9%85%D8%AA%D8%B1-%DB%B1%D8%AE-%D9%88%DB%8C%D9%88%D8%AF%D8%A7%D8%B1-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A8%D9%87-%D9%85%D8%AC%D8%B1%D8%AF-%DA%86%D9%86%D8%AF%D9%82%D8%AF%D9%85-%D8%AA%D8%A7-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C/AatCYJ1O"
+    },
+    {
+      "title": "۱۳۰ متری / کلید نخورده / قلب عظیمیه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%82%D9%84%D8%A8-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AaIGo3sf"
+    },
+    {
+      "title": "خونه ۸۰ متری",
+      "link": "https://divar.ir/v/%D8%AE%D9%88%D9%86%D9%87-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aat2XP-7"
+    },
+    {
+      "title": "۷۶ متر /دو خواب /تمیز /عارف/ساماندهی",
+      "link": "https://divar.ir/v/%DB%B7%DB%B6-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D9%85%DB%8C%D8%B2-%D8%B9%D8%A7%D8%B1%D9%81-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C/Aale7NJ3"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۰۰ متری ۳ خوابه در مهرشهر میلاد ۳",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%85%DB%8C%D9%84%D8%A7%D8%AF-%DB%B3/Aaoi9dSN"
+    },
+    {
+      "title": "آپارتمان اجاره ای ۱۴۰ متری",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AatyHOUU"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵ متری ۲ خوابه بهار غربی (ندا)",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%86%D8%AF%D8%A7/Aatu3EzR"
+    },
+    {
+      "title": "آپارتمان ۶۵ متری طبقه دوم",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D9%88%D9%85/AatunDTr"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۰ متری ۲ خوابه طبقه ۴ در گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B4-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AagluwAB"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۷۷ متری ۳ خوابه در مهرشهر - فاز ۳",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B7%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%81%D8%A7%D8%B2-%DB%B3/Aatq3FfH"
+    },
+    {
+      "title": "اجاره یک واحد در حصارک کرج شهرک لاله بلوک 76",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AF%D8%B1-%D8%AD%D8%B5%D8%A7%D8%B1%DA%A9-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%87%D8%B1%DA%A9-%D9%84%D8%A7%D9%84%D9%87-%D8%A8%D9%84%D9%88%DA%A9-76/AatqXpx2"
+    },
+    {
+      "title": "آپارتمان مهرشهر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AatqHUI-"
+    },
+    {
+      "title": "۹۲متر روبه آفتاب ۲خواب",
+      "link": "https://divar.ir/v/%DB%B9%DB%B2%D9%85%D8%AA%D8%B1-%D8%B1%D9%88%D8%A8%D9%87-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8/AatqHCpb"
+    },
+    {
+      "title": "۲۰۵ متر آپارتمان فاز ۲ مهرشهر ورودی",
+      "link": "https://divar.ir/v/%DB%B2%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%A7%D8%B2-%DB%B2-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D9%88%D8%B1%D9%88%D8%AF%DB%8C/Aajm08wT"
+    },
+    {
+      "title": "اپارتمان طبقه اول تک واحد لاله ۵ راه جدا دربست",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D9%84%D8%A7%D9%84%D9%87-%DB%B5-%D8%B1%D8%A7%D9%87-%D8%AC%D8%AF%D8%A7-%D8%AF%D8%B1%D8%A8%D8%B3%D8%AA/AaipVLMU"
+    },
+    {
+      "title": "مجتمع لوکس ۹۴ متری ۲ خوابه در کوی مهر",
+      "link": "https://divar.ir/v/%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D9%84%D9%88%DA%A9%D8%B3-%DB%B9%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%A9%D9%88%DB%8C-%D9%85%D9%87%D8%B1/Aate3_i8"
+    },
+    {
+      "title": "۱۷۰متر ۳خواب ۲پارکینگ ۲انباری ۲تراس نوساز",
+      "link": "https://divar.ir/v/%DB%B1%DB%B7%DB%B0%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%DB%B2%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%DB%B2%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%DB%8C-%DB%B2%D8%AA%D8%B1%D8%A7%D8%B3-%D9%86%D9%88%D8%B3%D8%A7%D8%B2/AateHH-Y"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۶۶ متری سه خواب",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8/Aa6hoI0l"
+    },
+    {
+      "title": "100متر فول امکانات سه راه گوهردشت",
+      "link": "https://divar.ir/v/100%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%B3%D9%87-%D8%B1%D8%A7%D9%87-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/Aatanlyk"
+    },
+    {
+      "title": "۱۱۵ متر دوخوابه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AatO3VUk"
+    },
+    {
+      "title": "88متر شمالی رو به نما ، فول امکانات ،گوهردشت",
+      "link": "https://divar.ir/v/88%D9%85%D8%AA%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%B1%D9%88-%D8%A8%D9%87-%D9%86%D9%85%D8%A7-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AatWnK6z"
+    },
+    {
+      "title": "آپارتمان دوخوابه جهان شهر ( املاک سان)",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%B3%D8%A7%D9%86/AatSHcpM"
+    },
+    {
+      "title": "آپارتمان 117متری/بدون مشابه/فاز1مهرشهر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-117%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D9%81%D8%A7%D8%B21%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/AatS3AoT"
+    },
+    {
+      "title": "آپارتمان فول بازسازی 110 متر و ۳۰ متر حیاط خلوت",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-110-%D9%85%D8%AA%D8%B1-%D9%88-%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%AE%D9%84%D9%88%D8%AA/AatO3eXU"
+    },
+    {
+      "title": "اجاره خانه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%86%D9%87/Aab2DEt3"
+    },
+    {
+      "title": "اتاق حدود۲۰ متری حیاط دار2طبقه ویلایی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AA%D8%A7%D9%82-%D8%AD%D8%AF%D9%88%D8%AF%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%AF%D8%A7%D8%B12%D8%B7%D8%A8%D9%82%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C/AaGOyOG8"
+    },
+    {
+      "title": "آپارتمان رهن و اجاره",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AaZOaiyh"
+    },
+    {
+      "title": "اجاره خانه دو خوابه بلوار خوارزمی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%DB%8C/AaqetuJ6"
+    },
+    {
+      "title": "125 متر فول نو ساز سراه گوهردشت اجاره",
+      "link": "https://divar.ir/v/125-%D9%85%D8%AA%D8%B1-%D9%81%D9%88%D9%84-%D9%86%D9%88-%D8%B3%D8%A7%D8%B2-%D8%B3%D8%B1%D8%A7%D9%87-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AaLCJbm5"
+    },
+    {
+      "title": "واحد ۱۱۰ و ۹۰ متری کلید نخورده",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B1%DB%B0-%D9%88-%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AatC38Ig"
+    },
+    {
+      "title": "اجاره اپارتمان ۱۰۰متری برزنت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%B2%D9%86%D8%AA/AanWAagN"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۴ متری ۲ خوابه طبقه ۳ در بلوار ارم",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D8%AF%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85/AatC3qJT"
+    },
+    {
+      "title": "اجاره واحد اپارتمان نوساز ۲۱۶ متر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%DB%B2%DB%B1%DB%B6-%D9%85%D8%AA%D8%B1/AatCXSwz"
+    },
+    {
+      "title": "آپارتمان دوخوابه جهان شهر (املاک سان)",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%B3%D8%A7%D9%86/Aat-Wq2S"
+    },
+    {
+      "title": "۸۰متر بلوار مولانا«املاک بخشی»",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0%D9%85%D8%AA%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%A8%D8%AE%D8%B4%DB%8C/AaQqlZJK"
+    },
+    {
+      "title": "اجاره یک واحد اپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aat-WgM5"
+    },
+    {
+      "title": "110متر/گوهردشت/فاز1",
+      "link": "https://divar.ir/v/110%D9%85%D8%AA%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%D9%81%D8%A7%D8%B21/Aas6SNhS"
+    },
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aas2iZCT"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۰۷ متری ۲ خوابه گلشهر شهرک مترو",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DA%AF%D9%84%D8%B4%D9%87%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D9%85%D8%AA%D8%B1%D9%88/Aat6WuVu"
+    },
+    {
+      "title": "اپارتمان ۸۰متری دو خواب طبقه هفت",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B7%D8%A8%D9%82%D9%87-%D9%87%D9%81%D8%AA/Aat6GlTc"
+    },
+    {
+      "title": "110 متر تک واحدی شاهین ویلا بنیاد",
+      "link": "https://divar.ir/v/110-%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%D9%88%DB%8C%D9%84%D8%A7-%D8%A8%D9%86%DB%8C%D8%A7%D8%AF/AaWSiCzf"
+    },
+    {
+      "title": "اجاره ۸۵متر مهرشهر ساماندهی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B8%DB%B5%D9%85%D8%AA%D8%B1-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C/AaOKbeeW"
+    },
+    {
+      "title": "رهن اجاره آپارتمان نقلی لوکس املاک بانوان طرفی",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%86%D9%82%D9%84%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B7%D8%B1%D9%81%DB%8C/Aat221yK"
+    },
+    {
+      "title": "اجاره ۱۰۵ متری دوخواب بزرگمهرشرقی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%B2%D8%B1%DA%AF%D9%85%D9%87%D8%B1%D8%B4%D8%B1%D9%82%DB%8C/Aat2m-ZE"
+    },
+    {
+      "title": "گلشهر اسفند ۱۴۰ متر ۳ خوابه فول",
+      "link": "https://divar.ir/v/%DA%AF%D9%84%D8%B4%D9%87%D8%B1-%D8%A7%D8%B3%D9%81%D9%86%D8%AF-%DB%B1%DB%B4%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D9%88%D9%84/AatymuhM"
+    },
+    {
+      "title": "رهن، ۹۰متر ۲خواب . فول امکانات",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DB%B9%DB%B0%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/AaiGfvEf"
+    },
+    {
+      "title": "آپارتمان اجاره درختی",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%AF%D8%B1%D8%AE%D8%AA%DB%8C/AatmG86D"
+    },
+    {
+      "title": "رهن و اجاره ۱۲۰متری همکف ۲خوابه",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B2%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D9%87%D9%85%DA%A9%D9%81-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AatymolJ"
+    },
+    {
+      "title": "اجاره واحد ۷۰متری کمالشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%85%D8%A7%D9%84%D8%B4%D9%87%D8%B1/AahO5xRg"
+    },
+    {
+      "title": "اجاره واحد 105 متری چهارم شرقی کوچه ترابی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-105-%D9%85%D8%AA%D8%B1%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%B4%D8%B1%D9%82%DB%8C-%DA%A9%D9%88%DA%86%D9%87-%D8%AA%D8%B1%D8%A7%D8%A8%DB%8C/Aatu29f0"
+    },
+    {
+      "title": "اجاره آپارتمان رستاخیز",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%D8%AA%D8%A7%D8%AE%DB%8C%D8%B2/AagqDdPv"
+    },
+    {
+      "title": "190متر نوساز/تاپ لوکیشن/یک خبر خوب",
+      "link": "https://divar.ir/v/190%D9%85%D8%AA%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%DB%8C%DA%A9-%D8%AE%D8%A8%D8%B1-%D8%AE%D9%88%D8%A8/AatumpHM"
+    },
+    {
+      "title": "رهن و اجاره واحد بسیار شیک باغستان",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%B4%DB%8C%DA%A9-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86/AatqGtd_"
+    },
+    {
+      "title": "رهن آپارتمان ۸۵ متری ۲ خوابه در باغستان",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86/AatuGge_"
+    },
+    {
+      "title": "اجاره آپارتمان ۸۵ متری ۲ خوابه طبقه ۱ در حیدرآباد",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%D8%AD%DB%8C%D8%AF%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/AatuGE7r"
+    },
+    {
+      "title": "اپارتمان ۱۵۰ متری سه خواب",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8/Aa253OGV"
+    },
+    {
+      "title": "اپارتمان ۱۵۰ متری گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AatiG-lL"
+    },
+    {
+      "title": "۸۰متر دوخوابه طبقه سوم",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%D8%B3%D9%88%D9%85/AatqWaIe"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۲۵ متری در باغستان غربی لاله ها",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%BA%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%84%D8%A7%D9%84%D9%87-%D9%87%D8%A7/Aatm22DI"
+    },
+    {
+      "title": "رهن واحد ۱۷۸ متری فاز۳ گوهردشت",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B7%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%A7%D8%B2%DB%B3-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AaiycJaN"
+    },
+    {
+      "title": "واحدباشرایط ویژه ولوکیشن خاص",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF%D8%A8%D8%A7%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D9%88%DB%8C%DA%98%D9%87-%D9%88%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86-%D8%AE%D8%A7%D8%B5/AatmWty7"
+    },
+    {
+      "title": "۱۲۰ متری خانه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D8%A7%D9%86%D9%87/AatmmHhB"
+    },
+    {
+      "title": "۸۵متری",
+      "link": "https://divar.ir/v/%DB%B8%DB%B5%D9%85%D8%AA%D8%B1%DB%8C/AalWcUSV"
+    },
+    {
+      "title": "۲۱۰ متری /۲ پارکینگ سندی / فاز ۲ تبدیلی",
+      "link": "https://divar.ir/v/%DB%B2%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B3%D9%86%D8%AF%DB%8C-%D9%81%D8%A7%D8%B2-%DB%B2-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%DB%8C/AatmmAZL"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۶۹ متری ۳ خوابه در گوهردشت",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B9-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA/AatWGsyz"
+    },
+    {
+      "title": "۷۷ متری کوی کارمندان شمالی",
+      "link": "https://divar.ir/v/%DB%B7%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%88%DB%8C-%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/Aati20lr"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۵۰ متری گوهردشت خیابان داریوش",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4/Aada4kDD"
+    },
+    {
+      "title": "آپارتمان ۲خواب رو به نما گلشهر",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%B1%D9%88-%D8%A8%D9%87-%D9%86%D9%85%D8%A7-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AaiSObmG"
+    },
+    {
+      "title": "اجاره آپارتمان",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AatOmnat"
+    },
+    {
+      "title": "95مترفاز6ساماندهی",
+      "link": "https://divar.ir/v/95%D9%85%D8%AA%D8%B1%D9%81%D8%A7%D8%B26%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C/AaiqtnRH"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۶۵متری ۳ خواب.",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8/AaWGgmVz"
+    },
+    {
+      "title": "دولت‌آباد دوبلکس نوساز دوخوابه شیک 450رهن",
+      "link": "https://divar.ir/v/%D8%AF%D9%88%D9%84%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%AF%D9%88%D8%A8%D9%84%DA%A9%D8%B3-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%DA%A9-450%D8%B1%D9%87%D9%86/AahK8eBi"
+    },
+    {
+      "title": "رهن آپارتمان ۱۱۶ متری ۲ خوابه در کوی مهر",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%DA%A9%D9%88%DB%8C-%D9%85%D9%87%D8%B1/AatOGBre"
+    },
+    {
+      "title": "آپارتمان ۱۷۰متری ۳خوابه",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B7%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8%D9%87/Aatamznu"
+    },
+    {
+      "title": "رهن کامل واحد ۶۰ متری",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aata2wJN"
+    },
+    {
+      "title": "هم خانه هم خونه",
+      "link": "https://divar.ir/v/%D9%87%D9%85-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D9%85-%D8%AE%D9%88%D9%86%D9%87/AaoGTaah"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۱۰ متری ۳ خوابه طبقه ۱ در عظیمیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B7%D8%A8%D9%82%D9%87-%DB%B1-%D8%AF%D8%B1-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87/AaiOtFtQ"
+    },
+    {
+      "title": "اجاره آپارتمان ۷۵ متری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AaiGA7-J"
+    },
+    {
+      "title": "95 متر / کم واحد",
+      "link": "https://divar.ir/v/95-%D9%85%D8%AA%D8%B1-%DA%A9%D9%85-%D9%88%D8%A7%D8%AD%D8%AF/Aacq5oiI"
+    },
+    {
+      "title": "رهن و اجاره اشتراکی گلستان هشت ۴ خوابه",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D9%88-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%DB%8C-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%B4%D8%AA-%DB%B4-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AatW28qZ"
+    },
+    {
+      "title": "اجاره واحد مسکونی نوساز در خیابان پاسارگاد کمالشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AF-%DA%A9%D9%85%D8%A7%D9%84%D8%B4%D9%87%D8%B1/AatWmd5L"
+    },
+    {
+      "title": "اجاره ۹۵ متری در بلوار انوشیروان شرقی غرق نور",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B9%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D9%86%D9%88%D8%B4%DB%8C%D8%B1%D9%88%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%BA%D8%B1%D9%82-%D9%86%D9%88%D8%B1/AaGyeCXW"
+    },
+    {
+      "title": "اجاره واحد ۷۵ متری حیدر اباد",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AD%DB%8C%D8%AF%D8%B1-%D8%A7%D8%A8%D8%A7%D8%AF/AatSG-Ku"
+    },
+    {
+      "title": "مهرشهر ساماندهی فاز ۳",
+      "link": "https://divar.ir/v/%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D9%81%D8%A7%D8%B2-%DB%B3/AaE64s88"
+    },
+    {
+      "title": "آپارتمان ۶۵ متری واقع در کرج حصارک بالا",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC-%D8%AD%D8%B5%D8%A7%D8%B1%DA%A9-%D8%A8%D8%A7%D9%84%D8%A7/AatS2eZe"
+    },
+    {
+      "title": "اجاره",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87/AafSY-wB"
+    },
+    {
+      "title": "پنت هاوس / 3 پارکینگ / تاپ لوکیشن",
+      "link": "https://divar.ir/v/%D9%BE%D9%86%D8%AA-%D9%87%D8%A7%D9%88%D8%B3-3-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%AA%D8%A7%D9%BE-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86/AatKmUTI"
+    },
+    {
+      "title": "۶۵ متر اجاره ای در گلشهر",
+      "link": "https://divar.ir/v/%DB%B6%DB%B5-%D9%85%D8%AA%D8%B1-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/AatK2wh5"
+    },
+    {
+      "title": "اجاره منزل",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%85%D9%86%D8%B2%D9%84/AatGG2IK"
+    },
+    {
+      "title": "۱۰۰ متری ۲ خواب دربست",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D8%B1%D8%A8%D8%B3%D8%AA/AatKmA97"
+    },
+    {
+      "title": "اجاره آپارتمان ۱۷۰متری در عظیمیه تخلیه",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B7%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AatKGGUS"
+    },
+    {
+      "title": "آپارتمان 140 متر در بوستان ها",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-140-%D9%85%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7/AaP2crM3"
+    },
+    {
+      "title": "60 متر 1خواب نقلی",
+      "link": "https://divar.ir/v/60-%D9%85%D8%AA%D8%B1-1%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%82%D9%84%DB%8C/AajKhBH0"
+    },
+    {
+      "title": "170متر عظیمیه الهام",
+      "link": "https://divar.ir/v/170%D9%85%D8%AA%D8%B1-%D8%B9%D8%B8%DB%8C%D9%85%DB%8C%D9%87-%D8%A7%D9%84%D9%87%D8%A7%D9%85/AalKna8h"
+    },
+    {
+      "title": "واحد اجاره و رهن خرمدشت میثم 2/2",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88-%D8%B1%D9%87%D9%86-%D8%AE%D8%B1%D9%85%D8%AF%D8%B4%D8%AA-%D9%85%DB%8C%D8%AB%D9%85-2-2/AatGmhyO"
+    },
+    {
+      "title": "اجاره اپارتمان ۱۵۸ متری تک واحدی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AatC2vqT"
+    },
+    {
+      "title": "اجاره واحد شیک طبقه اول حسن آباد بالا خیابان اصلی",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B4%DB%8C%DA%A9-%D8%B7%D8%A8%D9%82%D9%87-%D8%A7%D9%88%D9%84-%D8%AD%D8%B3%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%A8%D8%A7%D9%84%D8%A7-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%DB%8C/AatC2zsM"
+    },
+    {
+      "title": "۷۵ متر / ۲ خواب / همکف/ مستقل / رهن کامل",
+      "link": "https://divar.ir/v/%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%87%D9%85%DA%A9%D9%81-%D9%85%D8%B3%D8%AA%D9%82%D9%84-%D8%B1%D9%87%D9%86-%DA%A9%D8%A7%D9%85%D9%84/Aalm0dGr"
+    },
+    {
+      "title": "۸۰ متر اردلان۴ قابل تبدیل",
+      "link": "https://divar.ir/v/%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1-%D8%A7%D8%B1%D8%AF%D9%84%D8%A7%D9%86%DB%B4-%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84/Aad-sSTW"
+    },
+    {
+      "title": "190 متر جنوبی رو به آفتاب",
+      "link": "https://divar.ir/v/190-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%B1%D9%88-%D8%A8%D9%87-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8/Aat-lvix"
+    },
+    {
+      "title": "۹۰ متری اجاره فاز ۴ مهرشهر",
+      "link": "https://divar.ir/v/%DB%B9%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%81%D8%A7%D8%B2-%DB%B4-%D9%85%D9%87%D8%B1%D8%B4%D9%87%D8%B1/Aat-11Wq"
+    },
+    {
+      "title": "اجاره ۱۲۸ متری ۲ خوابه در آذر شرقی گلشهر لاکچری",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%DB%B1%DB%B2%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%A2%D8%B0%D8%B1-%D8%B4%D8%B1%D9%82%DB%8C-%DA%AF%D9%84%D8%B4%D9%87%D8%B1-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C/AaadbmQP"
+    },
+    {
+      "title": "اجاره آپارتمان ۹۳ متری گلشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%DA%AF%D9%84%D8%B4%D9%87%D8%B1/Aat6lvo4"
+    },
+    {
+      "title": "۱۵۳ متری ۳ خواب",
+      "link": "https://divar.ir/v/%DB%B1%DB%B5%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8/Aat-1hco"
+    },
+    {
+      "title": "رهن آپارتمان ۱۲۵ متری ۲ خوابه ۲ پارکینگ سندی فاز۱",
+      "link": "https://divar.ir/v/%D8%B1%D9%87%D9%86-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B2-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B3%D9%86%D8%AF%DB%8C-%D9%81%D8%A7%D8%B2%DB%B1/Aat-FLJq"
+    },
+    {
+      "title": "واحد 180متری .4 خواب گوهردشت بلوک 3",
+      "link": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-180%D9%85%D8%AA%D8%B1%DB%8C-4-%D8%AE%D9%88%D8%A7%D8%A8-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%D8%A8%D9%84%D9%88%DA%A9-3/Aat-1DJg"
+    },
+    {
+      "title": "آپارتمان دوخوابه جهان شهر (املاک سان)",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%B3%D8%A7%D9%86/AaN-MhVx"
+    },
+    {
+      "title": "آپارتمان ۸۵ متری دو خوابه در نزدیکی مترو",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9%DB%8C-%D9%85%D8%AA%D8%B1%D9%88/AakGyn5g"
+    },
+    {
+      "title": "60متری تخلیه رنگ شده در علامه جعفری",
+      "link": "https://divar.ir/v/60%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%D8%B1%D9%86%DA%AF-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D8%B9%D9%84%D8%A7%D9%85%D9%87-%D8%AC%D8%B9%D9%81%D8%B1%DB%8C/Aat-VCHS"
+    },
+    {
+      "title": "۹۱ متر / ۲ خواب / دو کله / تخلیه",
+      "link": "https://divar.ir/v/%DB%B9%DB%B1-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D9%88-%DA%A9%D9%84%D9%87-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AakmIaCi"
+    },
+    {
+      "title": "۱۲۵ متری سه خواب",
+      "link": "https://divar.ir/v/%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8/Aak-RErp"
+    },
+    {
+      "title": "آپارتمان۱۲۵متری،۲خواب",
+      "link": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8/Aat6lJXF"
+    },
+    {
+      "title": "اجاره اپارتمان ۱۵۰ متر ۳ خوابه جهانشهر",
+      "link": "https://divar.ir/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AC%D9%87%D8%A7%D9%86%D8%B4%D9%87%D8%B1/AaJ2cSea"
+    },
+    {
+      "title": "۱۰۰متر/اشتراکی شمالی/بازسازی کامل/تخلیه",
+      "link": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1-%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%85%D9%84-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/Aafqzs0P"
+    }
+  ]
+}

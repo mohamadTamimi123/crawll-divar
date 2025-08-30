@@ -1,4 +1,5 @@
 const { City, ScrapedAd, AdDetail } = require('../models');
+const { updateAdsWithDetails: extractDetails } = require('./detailsExtractionService');
 
 // Function to save basic ad information (title and link) to database immediately
 async function saveBasicAdsToDatabase(ads, city, adType) {
@@ -128,26 +129,37 @@ async function saveAdsToDatabase(ads, city, adType) {
     }
 }
 
-// Function to update existing ads with detailed information (currently disabled)
-// TODO: Re-enable when details extraction is needed
+// Function to update existing ads with detailed information
 async function updateAdsWithDetails(ads, city, adType) {
     try {
-        console.log(`💾 Processing ${ads.length} ads (details extraction disabled)...`);
+        console.log(`🔍 Starting detailed extraction for ${ads.length} ads...`);
         
-        // Since details extraction is disabled, we just log the basic info
-        console.log(`📋 Basic information saved for all ads`);
-        console.log(`⏸️ Details extraction is currently disabled`);
+        // Filter ads that don't have details yet
+        const adsWithoutDetails = [];
         
-        // Show database statistics
-        const totalAds = await ScrapedAd.count();
-        const totalDetails = await AdDetail.count();
-        console.log(`📊 Total ads in database: ${totalAds}`);
-        console.log(`📊 Total ad details: ${totalDetails}`);
+        for (const ad of ads) {
+            const existingAd = await ScrapedAd.findOne({ 
+                where: { link: ad.link },
+                include: [{ model: AdDetail, as: 'details' }]
+            });
+            
+            if (existingAd && !existingAd.details) {
+                adsWithoutDetails.push(ad);
+            }
+        }
         
-        console.log(`💾 Basic processing completed for ${ads.length} ads`);
+        if (adsWithoutDetails.length === 0) {
+            console.log(`✅ All ads already have details`);
+            return;
+        }
+        
+        console.log(`🔍 Found ${adsWithoutDetails.length} ads without details, starting extraction...`);
+        
+        // Use the new details extraction service
+        await extractDetails(adsWithoutDetails, city, adType);
         
     } catch (error) {
-        console.error(`❌ Database error:`, error.message);
+        console.error(`❌ Error in updateAdsWithDetails:`, error.message);
     }
 }
 

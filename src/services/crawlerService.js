@@ -101,26 +101,35 @@ async function autoScrollUntilButton(page, timeout = 60000, scrollDelay = 1000, 
         try {
             // Get current page links, titles, and publish times
             const currentAds = await page.evaluate(() => {
-                const adElements = document.querySelectorAll('a[href*="/v/"]');
+                // Find all ad links - improved selector to catch all Divar ad links
+                const adElements = document.querySelectorAll('a[href*="/v/"], a[href*="divar.ir/v/"], .kt-post-card a[href]');
                 return Array.from(adElements).map(el => {
+                    const href = el.href;
+                    // Only include valid Divar ad links
+                    if (!href || !href.includes('divar.ir') || !href.includes('/v/')) {
+                        return null;
+                    }
+                    
                     // Try to find the publish time in the .kt-post-card__bottom span
                     let time = '';
-                    const bottomDiv = el.querySelector('.kt-post-card__bottom');
+                    const bottomDiv = el.querySelector('.kt-post-card__bottom') || el.closest('.kt-post-card')?.querySelector('.kt-post-card__bottom');
                     if (bottomDiv) {
                         const timeSpan = bottomDiv.querySelector('span.kt-post-card__bottom-description');
                         if (timeSpan) {
                             time = timeSpan.innerText?.trim() || '';
                         }
                     }
+                    
                     return {
-                        link: el.href,
+                        link: href,
                         title: el.querySelector('h2')?.innerText?.trim() ||
                                el.querySelector('.kt-post-card__title')?.innerText?.trim() ||
                                el.querySelector('.kt-post-card__body h2')?.innerText?.trim() ||
+                               el.closest('.kt-post-card')?.querySelector('h2')?.innerText?.trim() ||
                                'بدون عنوان',
                         time
                     };
-                });
+                }).filter(ad => ad !== null); // Remove null entries
             });
             // Add new ads to our set
             let newAdsThisScroll = 0;
@@ -186,7 +195,7 @@ async function autoScrollUntilButton(page, timeout = 60000, scrollDelay = 1000, 
     }
     
     const totalLinks = Array.from(allLinks);
-    const newAdsCount = countNewAds(totalLinks, last10Links);
+
     
     // Convert links to ads with titles
     const ads = totalLinks.map(link => ({
@@ -196,8 +205,7 @@ async function autoScrollUntilButton(page, timeout = 60000, scrollDelay = 1000, 
     
     console.log('\n📊 Crawling Summary:');
     console.log(`   Total ads found: ${ads.length}`);
-    console.log(`   New ads: ${newAdsCount}`);
-    console.log(`   Existing ads: ${ads.length - newAdsCount}`);
+ 
     
     // Note: Database link checking removed - only time-based stopping remains
     

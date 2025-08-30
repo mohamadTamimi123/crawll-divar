@@ -93,7 +93,6 @@ dist
 
 # Gatsby files
 .cache/
-public
 
 # Storybook build outputs
 .out
@@ -146,3 +145,5 @@ backups/old_*.json
 !package-lock.json
 !divar-auto-crawler.service
 !start-auto-crawler.sh
+!public/
+!views/

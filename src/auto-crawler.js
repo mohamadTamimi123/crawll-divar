@@ -1,3 +1,4 @@
+require('dotenv').config();
 const puppeteer = require('puppeteer');
 const { saveBasicAdsToDatabase, updateAdsWithDetails, getDatabaseStats } = require('./services/databaseService');
 const { saveBasicAdsToFile } = require('./services/fileService');
@@ -38,8 +39,11 @@ async function performCrawl() {
             
             const cityStartTime = new Date();
             
-            // Navigate to Divar
-            await page.goto('https://divar.ir/tehran', { waitUntil: 'networkidle2' });
+            // Navigate to Divar with increased timeout
+            await page.goto('https://divar.ir/tehran', { 
+                waitUntil: 'networkidle2', 
+                timeout: parseInt(process.env.CRAWLER_TIMEOUT) || 120000 
+            });
             
             // Handle city change if needed
             await handleCityChangePrompt(page, item.city);
@@ -47,9 +51,12 @@ async function performCrawl() {
             // Close map if open
             await closeMapIfOpen(page);
             
-            // Navigate to specific ad type
+            // Navigate to specific ad type with increased timeout
             const adTypeUrl = `https://divar.ir/${item.city}/${item.adType}`;
-            await page.goto(adTypeUrl, { waitUntil: 'networkidle2' });
+            await page.goto(adTypeUrl, { 
+                waitUntil: 'networkidle2', 
+                timeout: parseInt(process.env.CRAWLER_TIMEOUT) || 120000 
+            });
             
             // Perform crawling with time-based stopping
             const ads = await autoScrollUntilButton(page, crawling.timeout, crawling.scrollDelay, item.city, item.adType);
@@ -60,7 +67,7 @@ async function performCrawl() {
             // Save backup to file
             await saveBasicAdsToFile(ads, item.city, item.adType);
             
-            // Update with details (currently disabled)
+            // Update with details (now enabled)
             await updateAdsWithDetails(ads, item.city, item.adType);
             
             const cityEndTime = new Date();
